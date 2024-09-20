@@ -1,0 +1,769 @@
+Position,Name,Rating,Team,Season
+QB,Jalen Hurts,88.2,Philadelphia Eagles,2023
+DI,Fletcher Cox,60.2,Philadelphia Eagles,2023
+RB,D’Andre Swift,78.1,Philadelphia Eagles,2023
+DI,Jalen Carter,92.3,Philadelphia Eagles,2023
+RB,Kenneth Gainwell,63.5,Philadelphia Eagles,2023
+Edge,Haason Reddick,84.6,Philadelphia Eagles,2023
+WR,A.J. Brown,87.7,Philadelphia Eagles,2023
+Edge,Brandon Graham,89.8,Philadelphia Eagles,2023
+WR,DeVonta Smith,80.4,Philadelphia Eagles,2023
+Edge,Josh Sweat,83.8,Philadelphia Eagles,2023
+WR,Olamide Zaccheaus,64.6,Philadelphia Eagles,2023
+LB,Nakobe Dean,78.6,Philadelphia Eagles,2023
+TE,Dallas Goedert,78.2,Philadelphia Eagles,2023
+LB,Zach Cunningham,60.3,Philadelphia Eagles,2023
+LT,Jordan Mailata,81.7,Philadelphia Eagles,2023
+CB,James Bradberry,71.7,Philadelphia Eagles,2023
+LG,Landon Dickerson,72.1,Philadelphia Eagles,2023
+CB,Darius Slay,73.1,Philadelphia Eagles,2023
+C,Jason Kelce,89.4,Philadelphia Eagles,2023
+CB,Avonte Maddox,72.2,Philadelphia Eagles,2023
+RG,Cam Jurgens,72.7,Philadelphia Eagles,2023
+S,Reed Blankenship,79.4,Philadelphia Eagles,2023
+RT,Lane Johnson,84.8,Philadelphia Eagles,2023
+S,Terrell Edmunds,69.1,Philadelphia Eagles,2023
+QB,Brock Purdy,77.7,San Francisco 49ers,2023
+DI,Javon Hargrave,80.1,San Francisco 49ers,2023
+RB,Christian McCaffrey,84.4,San Francisco 49ers,2023
+DI,Arik Armstead,63.4,San Francisco 49ers,2023
+RB,Elijah Mitchell,81.7,San Francisco 49ers,2023
+Edge,Nick Bosa,90.6,San Francisco 49ers,2023
+WR,Deebo Samuel,74.1,San Francisco 49ers,2023
+Edge,Drake Jackson,64.1,San Francisco 49ers,2023
+WR,Brandon Aiyuk,78.7,San Francisco 49ers,2023
+Edge,Clelin Ferrell,63.8,San Francisco 49ers,2023
+WR,Jauan Jennings,68.1,San Francisco 49ers,2023
+LB,Fred Warner,85.7,San Francisco 49ers,2023
+TE,George Kittle,84.7,San Francisco 49ers,2023
+LB,Dre Greenlaw,79.6,San Francisco 49ers,2023
+LT,Trent Williams,91.7,San Francisco 49ers,2023
+CB,Charvarius Ward,81.0,San Francisco 49ers,2023
+LG,Aaron Banks,59.5,San Francisco 49ers,2023
+CB,Deommodore Lenoir,61.0,San Francisco 49ers,2023
+C,Jake Brendel,62.9,San Francisco 49ers,2023
+CB,Isaiah Oliver,77.9,San Francisco 49ers,2023
+RG,Spencer Burford,51.8,San Francisco 49ers,2023
+S,Talanoa Hufanga,72.1,San Francisco 49ers,2023
+RT,Colton McKivitz,69.4,San Francisco 49ers,2023
+S,Tashaun Gipson Sr.,69.7,San Francisco 49ers,2023
+QB,Joe Burrow,92.0,Cincinnati Bengals,2023
+DI,DJ Reader,85.2,Cincinnati Bengals,2023
+RB,Joe Mixon,80.8,Cincinnati Bengals,2023
+DI,B.J. Hill,68.7,Cincinnati Bengals,2023
+WR,Ja’Marr Chase,83.9,Cincinnati Bengals,2023
+Edge,Trey Hendrickson,82.9,Cincinnati Bengals,2023
+WR,Tee Higgins,78.4,Cincinnati Bengals,2023
+Edge,Sam Hubbard,69.9,Cincinnati Bengals,2023
+WR,Tyler Boyd,70.2,Cincinnati Bengals,2023
+Edge,Myles Murphy,79.0,Cincinnati Bengals,2023
+TE,Irv Smith Jr,56.4,Cincinnati Bengals,2023
+LB,Germaine Pratt,78.4,Cincinnati Bengals,2023
+TE,Drew Sample,52.3,Cincinnati Bengals,2023
+LB,Logan Wilson,74.6,Cincinnati Bengals,2023
+LT,Orlando Brown Jr,75.4,Cincinnati Bengals,2023
+CB,Chidobe Awuzie,69.9,Cincinnati Bengals,2023
+LG,Cordell Volson,53.7,Cincinnati Bengals,2023
+CB,Mike Hilton,67.1,Cincinnati Bengals,2023
+C,Ted Karras,65.1,Cincinnati Bengals,2023
+CB,Cam Taylor-Britt,64.5,Cincinnati Bengals,2023
+RG,Alex Cappa,67.6,Cincinnati Bengals,2023
+S,Daxton Hill,56.0,Cincinnati Bengals,2023
+RT,Jonah Williams,61.0,Cincinnati Bengals,2023
+S,Jordan Battle,81.3,Cincinnati Bengals,2023
+QB,Patrick Mahomes,92.0,Kansas City Chiefs,2023
+DI,Chris Jones,92.3,Kansas City Chiefs,2023
+RB,Isiah Pacheco,76.2,Kansas City Chiefs,2023
+DI,Derrick Nnadi,37.0,Kansas City Chiefs,2023
+RB,Jerick McKinnon,57.5,Kansas City Chiefs,2023
+Edge,George Karlaftis,50.2,Kansas City Chiefs,2023
+WR,Marquez Valdes-Scantling,64.8,Kansas City Chiefs,2023
+Edge,Charles Omenihu,69.7,Kansas City Chiefs,2023
+WR,Kadarius Toney,78.0,Kansas City Chiefs,2023
+Edge,Felix Anudike-Uzomah,74.6,Kansas City Chiefs,2023
+WR,Skyy Moore,67.7,Kansas City Chiefs,2023
+LB,Nick Bolton,77.3,Kansas City Chiefs,2023
+TE,Travis Kelce,91.3,Kansas City Chiefs,2023
+LB,Willie Gay Jr,68.1,Kansas City Chiefs,2023
+LT,Donovan Smith,59.3,Kansas City Chiefs,2023
+CB,L’Jarius Sneed,77.7,Kansas City Chiefs,2023
+LG,Joe Thuney,78.4,Kansas City Chiefs,2023
+CB,Jaylen Watson,61.2,Kansas City Chiefs,2023
+C,Creed Humphrey,89.9,Kansas City Chiefs,2023
+CB,Trent McDuffie,74.9,Kansas City Chiefs,2023
+RG,Trey Smith,72.3,Kansas City Chiefs,2023
+S,Justin Reid,70.3,Kansas City Chiefs,2023
+RT,Jawaan Taylor,59.5,Kansas City Chiefs,2023
+S,Bryan Cook,59.5,Kansas City Chiefs,2023
+QB,Dak Prescott,71.8,Dallas Cowboys,2023
+DI,Osa Odighizuwa,68.2,Dallas Cowboys,2023
+RB,Tony Pollard,90.2,Dallas Cowboys,2023
+DI,Mazi Smith,79.9,Dallas Cowboys,2023
+RB,Rico Dowdle,60.2,Dallas Cowboys,2023
+Edge,Micah Parsons,91.8,Dallas Cowboys,2023
+WR,CeeDee Lamb,86.2,Dallas Cowboys,2023
+Edge,DeMarcus Lawrence,73.9,Dallas Cowboys,2023
+WR,Brandin Cooks,72.3,Dallas Cowboys,2023
+Edge,Dorance Armstrong,91.7,Dallas Cowboys,2023
+WR,Michael Gallup,62.6,Dallas Cowboys,2023
+LB,Leighton Vander Esch,73.1,Dallas Cowboys,2023
+TE,Jake Ferguson,66.1,Dallas Cowboys,2023
+LB,Damone Clark,65.5,Dallas Cowboys,2023
+LT,Tyron Smith,60.9,Dallas Cowboys,2023
+CB,Trevon Diggs,67.6,Dallas Cowboys,2023
+LG,Tyler Smith,73.3,Dallas Cowboys,2023
+CB,Stephon Gilmore,79.1,Dallas Cowboys,2023
+C,Tyler Biadasz,60.5,Dallas Cowboys,2023
+CB,DaRon Bland,66.0,Dallas Cowboys,2023
+RG,Zack Martin,72.8,Dallas Cowboys,2023
+S,Malik Hooker,76.2,Dallas Cowboys,2023
+RT,Terence Steele,73.9,Dallas Cowboys,2023
+S,Jayron Kearse,71.9,Dallas Cowboys,2023
+QB,Josh Allen,91.8,Buffalo Bills,2023
+DI,Ed Oliver,67.5,Buffalo Bills,2023
+RB,James Cook,73.2,Buffalo Bills,2023
+DI,DaQuan Jones,73.6,Buffalo Bills,2023
+WR,Stefon Diggs,89.1,Buffalo Bills,2023
+Edge,Von Miller,85.8,Buffalo Bills,2023
+WR,Gabriel Davis,66.4,Buffalo Bills,2023
+Edge,Gregory Rousseau,80.9,Buffalo Bills,2023
+WR,Deonte Harty,47.9,Buffalo Bills,2023
+Edge,Shaq Lawson,64.2,Buffalo Bills,2023
+TE,Dalton Kincaid,90.2,Buffalo Bills,2023
+LB,Matt Milano,77.1,Buffalo Bills,2023
+TE,Dawson Knox,66.5,Buffalo Bills,2023
+LB,Tyrel Dodson,48.4,Buffalo Bills,2023
+LT,Dion Dawkins,73.8,Buffalo Bills,2023
+CB,Tre’Davious White,58.9,Buffalo Bills,2023
+LG,Connor McGovern,53.5,Buffalo Bills,2023
+CB,Kaiir Elam,64.6,Buffalo Bills,2023
+C,Mitch Morse,61.0,Buffalo Bills,2023
+CB,Taron Johnson,67.8,Buffalo Bills,2023
+RG,Ryan Bates,61.4,Buffalo Bills,2023
+S,Jordan Poyer,65.7,Buffalo Bills,2023
+RT,Spencer Brown,53.4,Buffalo Bills,2023
+S,Micah Hyde,68.4,Buffalo Bills,2023
+QB,Aaron Rodgers,77.5,New York Jets,2023
+DI,Quinnen Williams,90.1,New York Jets,2023
+RB,Breece Hall,69.8,New York Jets,2023
+DI,Al Woods,69.9,New York Jets,2023
+RB,Dalvin Cook,68.1,New York Jets,2023
+Edge,John Franklin-Myers,82.6,New York Jets,2023
+WR,Garrett Wilson,82.7,New York Jets,2023
+Edge,Carl Lawson,66.8,New York Jets,2023
+WR,Allen Lazard,69.0,New York Jets,2023
+Edge,Michael Clemons,78.7,New York Jets,2023
+WR,Mecole Hardman,68.2,New York Jets,2023
+LB,C.J Mosley,69.8,New York Jets,2023
+TE,Tyler Conklin,58.6,New York Jets,2023
+LB,Quincy Williams,55.2,New York Jets,2023
+LT,Duane Brown,57.8,New York Jets,2023
+CB,Sauce Gardner,87.9,New York Jets,2023
+LG,Laken Tomlinson,56.8,New York Jets,2023
+CB,D.J. Reed Jr.,72.5,New York Jets,2023
+C,Connor McGovern,69.6,New York Jets,2023
+CB,Michael Carter II,74.3,New York Jets,2023
+RG,Alijah Vera-Tucker,71.8,New York Jets,2023
+S,Jordan Whitehead,66.1,New York Jets,2023
+RT,Mekhi Becton (67.3 in,2021.0,New York Jets,2023
+S,Tony Adams,69.5,New York Jets,2023
+QB,Lamar Jackson,85.2,Baltimore Ravens,2023
+DI,Michael Pierce,86.9,Baltimore Ravens,2023
+RB,JK Dobbins,75.7,Baltimore Ravens,2023
+DI,Justin Madubuike,63.8,Baltimore Ravens,2023
+RB,Gus Edwards,82.7,Baltimore Ravens,2023
+DI,Broderick Washington Jr,70.5,Baltimore Ravens,2023
+WR,Odell Beckham Jr.,74.8,Baltimore Ravens,2023
+Edge,Odafe Oweh,60.1,Baltimore Ravens,2023
+WR,Rashod Bateman,61.6,Baltimore Ravens,2023
+Edge,Jadeveon Clowney,75.8,Baltimore Ravens,2023
+WR,Zay Flowers,75.5,Baltimore Ravens,2023
+LB,Roquan Smith,72.1,Baltimore Ravens,2023
+TE,Mark Andrews,80.7,Baltimore Ravens,2023
+LB,Patrick Queen,69.7,Baltimore Ravens,2023
+LT,Ronnie Stanley,69.4,Baltimore Ravens,2023
+CB,Marlon Humphrey,76.8,Baltimore Ravens,2023
+LG,Ben Cleveland,65.2,Baltimore Ravens,2023
+CB,Rock Ya-Sin,65.7,Baltimore Ravens,2023
+C,Tyler Linderbaum,74.6,Baltimore Ravens,2023
+CB,Brandon Stephens,52.5,Baltimore Ravens,2023
+RG,Kevin Zeitler,74.7,Baltimore Ravens,2023
+S,Kyle Hamilton,87.6,Baltimore Ravens,2023
+RT,Morgan Moses,78.6,Baltimore Ravens,2023
+S,Marcus Williams,73.9,Baltimore Ravens,2023
+QB,Justin Herbert,77.9,Los Angeles Chargers,2023
+DI,Morgan Fox,63.6,Los Angeles Chargers,2023
+RB,Austin Ekeler,80.0,Los Angeles Chargers,2023
+DI,Sebastian Joseph-Day,51.0,Los Angeles Chargers,2023
+RB,Joshua Kelley,62.2,Los Angeles Chargers,2023
+Edge,Joey Bosa,76.0,Los Angeles Chargers,2023
+WR,Keenan Allen,84.4,Los Angeles Chargers,2023
+Edge,Khalil Mack,71.9,Los Angeles Chargers,2023
+WR,Mike Williams,78.9,Los Angeles Chargers,2023
+Edge,Tuli Tuipulotu,82.1,Los Angeles Chargers,2023
+WR,Quentin Johnston,76.2,Los Angeles Chargers,2023
+LB,Eric Kendricks,60.1,Los Angeles Chargers,2023
+TE,Gerald Everett,70.6,Los Angeles Chargers,2023
+LB,Kenneth Murray,47.1,Los Angeles Chargers,2023
+LT,Rashawn Slater,84.0,Los Angeles Chargers,2023
+CB,J.C. Jackson,28.7,Los Angeles Chargers,2023
+LG,Jamaree Salyer,69.8,Los Angeles Chargers,2023
+CB,Asante Samuel Jr,72.6,Los Angeles Chargers,2023
+C,Corey Linsley,74.0,Los Angeles Chargers,2023
+CB,Michael Davis,73.8,Los Angeles Chargers,2023
+RG,Zion Johnson,62.2,Los Angeles Chargers,2023
+S,Derwin James,77.6,Los Angeles Chargers,2023
+RT,Trey Pipkins,59.8,Los Angeles Chargers,2023
+S,Alohi Gilman,58.5,Los Angeles Chargers,2023
+QB,Kenny Pickett,75.5,Pittsburgh Steelers,2023
+DI,Cam Heyward,89.8,Pittsburgh Steelers,2023
+RB,Najee Harris,73.5,Pittsburgh Steelers,2023
+DI,Larry Ogunjobi,61.7,Pittsburgh Steelers,2023
+RB,Jaylen Warren,73.8,Pittsburgh Steelers,2023
+DI,Montravius Adams,48.9,Pittsburgh Steelers,2023
+WR,Diontae Johnson,69.6,Pittsburgh Steelers,2023
+Edge,T.J. Watt,82.1,Pittsburgh Steelers,2023
+WR,George Pickens,68.8,Pittsburgh Steelers,2023
+Edge,Alex Highsmith,78.0,Pittsburgh Steelers,2023
+WR,Allen Robinson II,65.8,Pittsburgh Steelers,2023
+LB,Cole Holcomb,66.6,Pittsburgh Steelers,2023
+TE,Pat Freiermuth,75.5,Pittsburgh Steelers,2023
+LB,Elandon Roberts,55.0,Pittsburgh Steelers,2023
+LT,Broderick Jones,78.2,Pittsburgh Steelers,2023
+CB,Patrick Peterson,77.8,Pittsburgh Steelers,2023
+LG,Isaac Seumalo,72.7,Pittsburgh Steelers,2023
+CB,Levi Wallace,62.8,Pittsburgh Steelers,2023
+C,Mason Cole,67.1,Pittsburgh Steelers,2023
+CB,Joey Porter Jr.,73.2,Pittsburgh Steelers,2023
+RG,James Daniels,66.9,Pittsburgh Steelers,2023
+S,Minkah Fitzpatrick,82.4,Pittsburgh Steelers,2023
+RT,Chukwuma Okorafor,61.2,Pittsburgh Steelers,2023
+S,Damontae Kazee,81.0,Pittsburgh Steelers,2023
+QB,Geno Smith,79.3,Seattle Seahawks,2023
+DI,Jarran Reed,61.9,Seattle Seahawks,2023
+RB,Kenneth Walker III,76.9,Seattle Seahawks,2023
+DI,Dre’Mont Jones,51.8,Seattle Seahawks,2023
+RB,Zach Charbonnet,91.5,Seattle Seahawks,2023
+Edge,Uchenna Nwosu,72.6,Seattle Seahawks,2023
+WR,D.K. Metcalf,77.7,Seattle Seahawks,2023
+Edge,Darrell Taylor,57.4,Seattle Seahawks,2023
+WR,Tyler Lockett,77.9,Seattle Seahawks,2023
+Edge,Boye Mafe,64.6,Seattle Seahawks,2023
+WR,Jaxon Smith-Njigba,55.1,Seattle Seahawks,2023
+LB,Bobby Wagner,90.7,Seattle Seahawks,2023
+TE,Noah Fant,64.5,Seattle Seahawks,2023
+LB,Jordyn Brooks,52.8,Seattle Seahawks,2023
+LT,Charles Cross,63.1,Seattle Seahawks,2023
+CB,Tariq Woolen,69.1,Seattle Seahawks,2023
+LG,Damien Lewis,72.5,Seattle Seahawks,2023
+CB,Devon Witherspoon,92.0,Seattle Seahawks,2023
+C,Evan Brown,64.8,Seattle Seahawks,2023
+CB,Coby Bryant,55.8,Seattle Seahawks,2023
+RG,Phil Haynes,57.1,Seattle Seahawks,2023
+S,Quandre Diggs,71.8,Seattle Seahawks,2023
+RT,Abraham Lucas,68.4,Seattle Seahawks,2023
+S,Julian Love,66.7,Seattle Seahawks,2023
+QB,Tua Tagovailoa,81.9,Miami Dolphins,2023
+DI,Christian Wilkins,82.2,Miami Dolphins,2023
+RB,Raheem Mostert,75.7,Miami Dolphins,2023
+DI,Zach Sieler,73.4,Miami Dolphins,2023
+RB,Jeff Wilson Jr,67.2,Miami Dolphins,2023
+Edge,Jaelan Phillips,88.8,Miami Dolphins,2023
+WR,Tyreek Hill,92.1,Miami Dolphins,2023
+Edge,Bradley Chubb,65.5,Miami Dolphins,2023
+WR,Jaylen Waddle,82.6,Miami Dolphins,2023
+Edge,Andrew Van Ginkel,72.8,Miami Dolphins,2023
+WR,Cedrick Wilson,64.3,Miami Dolphins,2023
+LB,Jerome Baker,74.6,Miami Dolphins,2023
+TE,Durham Smythe,62.7,Miami Dolphins,2023
+LB,David Long,76.2,Miami Dolphins,2023
+LT,Terron Armstead,77.6,Miami Dolphins,2023
+CB,Eli Apple,55.7,Miami Dolphins,2023
+LG,Liam Eichenberg,39.8,Miami Dolphins,2023
+CB,Xavien Howard,59.2,Miami Dolphins,2023
+C,Connor Williams,78.5,Miami Dolphins,2023
+CB,Kader Kohou,68.5,Miami Dolphins,2023
+RG,Robert Hunt,72.3,Miami Dolphins,2023
+S,Jevon Holland,67.2,Miami Dolphins,2023
+RT,Austin Jackson,57.9,Miami Dolphins,2023
+S,DeShon Elliott,66.5,Miami Dolphins,2023
+QB,Jared Goff,72.4,Detroit Lions,2023
+DI,Alim McNeill,69.8,Detroit Lions,2023
+RB,David Montgomery,67.9,Detroit Lions,2023
+DI,Isaiah Buggs,53.9,Detroit Lions,2023
+RB,Jahmyr Gibbs,82.6,Detroit Lions,2023
+Edge,Aidan Hutchinson,80.7,Detroit Lions,2023
+WR,Amon-Ra St. Brown,90.7,Detroit Lions,2023
+Edge,James Houston IV,80.2,Detroit Lions,2023
+WR,Josh Reynolds,64.1,Detroit Lions,2023
+Edge,John Cominsky,68.2,Detroit Lions,2023
+WR,Jameson Williams,63.4,Detroit Lions,2023
+LB,Jack Campbell,91.9,Detroit Lions,2023
+TE,Sam LaPorta,80.1,Detroit Lions,2023
+LB,Alex Anzalone,59.2,Detroit Lions,2023
+LT,Taylor Decker,74.4,Detroit Lions,2023
+CB,Cam Sutton,71.6,Detroit Lions,2023
+LG,Jonah Jackson,66.1,Detroit Lions,2023
+CB,Emmanuel Moseley,70.9,Detroit Lions,2023
+C,Frank Ragnow,77.9,Detroit Lions,2023
+S,Kerby Joseph,64.0,Detroit Lions,2023
+RG,Halapoulivaati Vaitai,68.4,Detroit Lions,2023
+S,Brian Branch,89.5,Detroit Lions,2023
+RT,Penei Sewell,80.6,Detroit Lions,2023
+S,Tracy Walker,74.3,Detroit Lions,2023
+QB,Deshaun Watson,55.3,Cleveland Browns,2023
+DI,Dalvin Tomlinson,77.0,Cleveland Browns,2023
+RB,Nick Chubb,90.3,Cleveland Browns,2023
+DI,Shelby Harris,74.8,Cleveland Browns,2023
+WR,Amari Cooper,81.2,Cleveland Browns,2023
+Edge,Myles Garrett,92.5,Cleveland Browns,2023
+WR,Donovan Peoples-Jones,64.9,Cleveland Browns,2023
+Edge,Za’Darius Smith,83.3,Cleveland Browns,2023
+WR,Elijah Moore,57.5,Cleveland Browns,2023
+Edge,Ogbo Okoronkwo,75.1,Cleveland Browns,2023
+TE,David Njoku,73.7,Cleveland Browns,2023
+LB,Jeremiah Owusu-Koramoah,65.5,Cleveland Browns,2023
+TE,Harrison Bryant,59.3,Cleveland Browns,2023
+LB,Anthony Walker,82.7,Cleveland Browns,2023
+LT,Jedrick Wills Jr,62.9,Cleveland Browns,2023
+CB,Denzel Ward,56.8,Cleveland Browns,2023
+LG,Joel Bitonio,87.5,Cleveland Browns,2023
+CB,Greg Newsome II,69.1,Cleveland Browns,2023
+C,Ethan Pocic,78.9,Cleveland Browns,2023
+CB,Martin Emerson,72.5,Cleveland Browns,2023
+RG,Wyatt Teller,70.3,Cleveland Browns,2023
+S,Rodney McLeod,80.1,Cleveland Browns,2023
+RT,Jack Conklin,66.7,Cleveland Browns,2023
+S,Juan Thornhill,72.7,Cleveland Browns,2023
+QB,Trevor Lawrence,78.6,Jacksonville Jaguars,2023
+DI,DaVon Hamilton,72.6,Jacksonville Jaguars,2023
+RB,Travis Etienne,76.7,Jacksonville Jaguars,2023
+DI,Roy Robertson-Harris,66.1,Jacksonville Jaguars,2023
+RB,JaMycal Hasty,71.5,Jacksonville Jaguars,2023
+Edge,Josh Allen,84.7,Jacksonville Jaguars,2023
+WR,Calvin Ridley,64.2,Jacksonville Jaguars,2023
+Edge,K’Lavon Chaisson,62.2,Jacksonville Jaguars,2023
+WR,Christian Kirk,72.9,Jacksonville Jaguars,2023
+Edge,Travon Walker,58.0,Jacksonville Jaguars,2023
+WR,Zay Jones,66.5,Jacksonville Jaguars,2023
+LB,Foyesade Oluokun,70.5,Jacksonville Jaguars,2023
+TE,Evan Engram,67.6,Jacksonville Jaguars,2023
+LB,Devin Lloyd,48.1,Jacksonville Jaguars,2023
+LT,Cam Robinson,67.2,Jacksonville Jaguars,2023
+CB,Tyson Campbell,80.8,Jacksonville Jaguars,2023
+LG,Ben Bartch,60.5,Jacksonville Jaguars,2023
+CB,Darious Williams,63.9,Jacksonville Jaguars,2023
+C,Luke Fortner,52.0,Jacksonville Jaguars,2023
+CB,Tre Herndon,55.8,Jacksonville Jaguars,2023
+RG,Brandon Scherff,60.6,Jacksonville Jaguars,2023
+S,Rayshawn Jenkins,53.7,Jacksonville Jaguars,2023
+RT,Anton Harrison,72.6,Jacksonville Jaguars,2023
+S,Andre Cisco,67.7,Jacksonville Jaguars,2023
+QB,Kirk Cousins,79.3,Minnesota Vikings,2023
+DI,Khyiris Tonga,77.8,Minnesota Vikings,2023
+RB,Alexander Mattison,71.5,Minnesota Vikings,2023
+DI,Harrison Phillips,72.0,Minnesota Vikings,2023
+RB,Kene Nwangwu,56.4,Minnesota Vikings,2023
+Edge,Danielle Hunter,87.1,Minnesota Vikings,2023
+WR,Justin Jefferson,90.2,Minnesota Vikings,2023
+Edge,Marcus Davenport,76.8,Minnesota Vikings,2023
+WR,Jordan Addison,81.5,Minnesota Vikings,2023
+Edge,Pat Jones II,65.6,Minnesota Vikings,2023
+WR,K.J. Osborn,65.2,Minnesota Vikings,2023
+LB,Jordan Hicks,66.7,Minnesota Vikings,2023
+TE,T.J. Hockenson,70.9,Minnesota Vikings,2023
+LB,Brian Asamoah,78.8,Minnesota Vikings,2023
+LT,Christian Darrisaw,90.4,Minnesota Vikings,2023
+CB,Byron Murphy Jr.,66.7,Minnesota Vikings,2023
+LG,Ezra Cleveland,73.4,Minnesota Vikings,2023
+CB,Andrew Booth Jr.,45.3,Minnesota Vikings,2023
+C,Garrett Bradbury,67.5,Minnesota Vikings,2023
+CB,Akayleb Evans,47.2,Minnesota Vikings,2023
+RG,Ed Ingram,57.0,Minnesota Vikings,2023
+S,Harrison Smith,68.4,Minnesota Vikings,2023
+RT,Brian O’Neill,82.7,Minnesota Vikings,2023
+S,Camryn Bynum,58.7,Minnesota Vikings,2023
+QB,Mac Jones,67.5,New England Patriots,2023
+DI,Christian Barmore,68.6,New England Patriots,2023
+RB,Rhamondre Stevenson,81.3,New England Patriots,2023
+DI,Davon Godchaux,53.1,New England Patriots,2023
+RB,Ezekiel Elliott,71.9,New England Patriots,2023
+Edge,Matthew Judon,73.6,New England Patriots,2023
+WR,DeVante Parker,74.1,New England Patriots,2023
+Edge,Josh Uche,83.1,New England Patriots,2023
+WR,Kendrick Bourne,63.6,New England Patriots,2023
+Edge,Deatrich Wise Jr.,74.9,New England Patriots,2023
+WR,JuJu Smith-Schuster,70.1,New England Patriots,2023
+LB,Ja’Whaun Bentley,80.4,New England Patriots,2023
+TE,Hunter Henry (58.1) TE Mike Gesicki,60.5,New England Patriots,2023
+LB,Jahlani Tavai,73.5,New England Patriots,2023
+LT,Trent Brown,67.4,New England Patriots,2023
+CB,Jonathan Jones,68.1,New England Patriots,2023
+LG,Cole Strange,54.6,New England Patriots,2023
+CB,Jack Jones,74.7,New England Patriots,2023
+C,David Andrews,74.5,New England Patriots,2023
+CB,Christian Gonzalez,83.3,New England Patriots,2023
+RG,Michael Onwenu,79.3,New England Patriots,2023
+S,Kyle Dugger,78.4,New England Patriots,2023
+RT,Riley Reiff,64.3,New England Patriots,2023
+S,Adrian Phillips,72.7,New England Patriots,2023
+QB,Sam Howell,68.5,Washington Commanders,2023
+DI,Jonathan Allen,80.1,Washington Commanders,2023
+RB,Brian Robinson Jr.,82.5,Washington Commanders,2023
+DI,Daron Payne,62.2,Washington Commanders,2023
+RB,Antonio Gibson,76.3,Washington Commanders,2023
+Edge,Montez Sweat,86.4,Washington Commanders,2023
+WR,Terry McLaurin,79.9,Washington Commanders,2023
+Edge,Chase Young,78.4,Washington Commanders,2023
+WR,Jahan Dotson,70.5,Washington Commanders,2023
+Edge,James Smith-Williams,59.8,Washington Commanders,2023
+WR,Curtis Samuel,70.5,Washington Commanders,2023
+LB,Jamin Davis,62.9,Washington Commanders,2023
+TE,Logan Thomas,52.0,Washington Commanders,2023
+LB,Cody Barton,56.6,Washington Commanders,2023
+LT,Charles Leno Jr.,71.6,Washington Commanders,2023
+CB,Kendall Fuller,76.6,Washington Commanders,2023
+LG,Saahdiq Charles,43.6,Washington Commanders,2023
+CB,Emmanuel Forbes,87.2,Washington Commanders,2023
+C,Nick Gates,60.0,Washington Commanders,2023
+CB,Danny Johnson,81.0,Washington Commanders,2023
+RG,Samuel Cosmi,71.6,Washington Commanders,2023
+S,Kamren Curl,82.9,Washington Commanders,2023
+RT,Andrew Wylie,61.6,Washington Commanders,2023
+S,Darrick Forrest,67.0,Washington Commanders,2023
+QB,Derek Carr,66.6,New Orleans Saints,2023
+DI,Bryan Bresee,73.5,New Orleans Saints,2023
+RB,Jamaal Williams,73.4,New Orleans Saints,2023
+DI,Nathan Shepherd,68.9,New Orleans Saints,2023
+RB,Kendre Miller,85.3,New Orleans Saints,2023
+Edge,Cameron Jordan,74.5,New Orleans Saints,2023
+WR,Chris Olave,82.5,New Orleans Saints,2023
+Edge,Carl Granderson,80.4,New Orleans Saints,2023
+WR,Rashid Shaheed,80.8,New Orleans Saints,2023
+Edge,Isaiah Foskey,72.3,New Orleans Saints,2023
+WR,Michael Thomas,77.3,New Orleans Saints,2023
+LB,Demario Davis,82.7,New Orleans Saints,2023
+TE,Juwan Johnson,64.7,New Orleans Saints,2023
+LB,Pete Werner,64.7,New Orleans Saints,2023
+LT,Trevor Penning,73.6,New Orleans Saints,2023
+CB,Marshon Lattimore,64.7,New Orleans Saints,2023
+LG,Andrus Peat,50.6,New Orleans Saints,2023
+CB,Paulson Adebo,49.1,New Orleans Saints,2023
+C,Erik McCoy,61.2,New Orleans Saints,2023
+CB,Bradley Roby,45.4,New Orleans Saints,2023
+RG,Cesar Ruiz,56.6,New Orleans Saints,2023
+S,Tyrann Mathieu,81.2,New Orleans Saints,2023
+RT,Ryan Ramczyk,77.9,New Orleans Saints,2023
+S,Marcus Maye,71.8,New Orleans Saints,2023
+QB,Daniel Jones,75.8,New York Giants,2023
+DI,Dexter Lawrence,91.6,New York Giants,2023
+RB,Saquon Barkley,80.3,New York Giants,2023
+DI,Leonard Williams,74.2,New York Giants,2023
+RB,Matt Breida,69.5,New York Giants,2023
+Edge,Kayvon Thibodeaux,72.5,New York Giants,2023
+WR,Darius Slayton,66.0,New York Giants,2023
+Edge,Azeez Ojulari,59.6,New York Giants,2023
+WR,Isaiah Hodgins,76.1,New York Giants,2023
+Edge,Oshane Ximines,56.6,New York Giants,2023
+WR,Wan’Dale Robinson,72.0,New York Giants,2023
+LB,Bobby Okereke,73.3,New York Giants,2023
+TE,Darren Waller,72.4,New York Giants,2023
+LB,Darrian Beavers,77.7,New York Giants,2023
+LT,Andrew Thomas,90.3,New York Giants,2023
+CB,Adoree' Jackson,70.8,New York Giants,2023
+LG,Ben Bredeson,57.5,New York Giants,2023
+CB,Deonte Banks,72.0,New York Giants,2023
+C,John Michael Schmitz,92.3,New York Giants,2023
+CB,Tre Hawkins III,78.3,New York Giants,2023
+RG,Mark Glowinski,65.6,New York Giants,2023
+S,Xavier McKinney,61.1,New York Giants,2023
+RT,Evan Neal,41.8,New York Giants,2023
+S,Jason Pinnock,61.8,New York Giants,2023
+QB,Jimmy Garoppolo,71.4,Las Vegas Raiders,2023
+DI,Bilal Nichols,55.5,Las Vegas Raiders,2023
+RB,Josh Jacobs,91.6,Las Vegas Raiders,2023
+DI,John Jenkins,58.5,Las Vegas Raiders,2023
+WR,Davante Adams,90.1,Las Vegas Raiders,2023
+Edge,Maxx Crosby,90.1,Las Vegas Raiders,2023
+WR,Jakobi Meyers,75.6,Las Vegas Raiders,2023
+Edge,Chandler Jones,63.8,Las Vegas Raiders,2023
+WR,Hunter Renfrow,65.6,Las Vegas Raiders,2023
+Edge,Tyree Wilson,75.1,Las Vegas Raiders,2023
+TE,Austin Hooper,68.8,Las Vegas Raiders,2023
+LB,Robert Spillane,52.5,Las Vegas Raiders,2023
+TE,Michael Mayer,92.5,Las Vegas Raiders,2023
+LB,Divine Deablo,58.4,Las Vegas Raiders,2023
+LT,Kolton Miller,84.1,Las Vegas Raiders,2023
+CB,Duke Shelley,82.9,Las Vegas Raiders,2023
+LG,Dylan Parham,61.9,Las Vegas Raiders,2023
+CB,David Long Jr,53.6,Las Vegas Raiders,2023
+C,Andre James,62.8,Las Vegas Raiders,2023
+CB,Nate Hobbs,60.9,Las Vegas Raiders,2023
+RG,Alex Bars,45.4,Las Vegas Raiders,2023
+S,Marcus Epps,57.6,Las Vegas Raiders,2023
+RT,Jermain Eluemunor,75.3,Las Vegas Raiders,2023
+S,Trevon Moehrig,54.1,Las Vegas Raiders,2023
+QB,Justin Fields,70.2,Chicago Bears,2023
+DI,Andrew Billings,76.4,Chicago Bears,2023
+RB,Khalil Herbert,72.5,Chicago Bears,2023
+DI,Justin Jones,45.8,Chicago Bears,2023
+RB,D’Onta Foreman,73.1,Chicago Bears,2023
+Edge,DeMarcus Walker,72.8,Chicago Bears,2023
+WR,D.J. Moore,73.9,Chicago Bears,2023
+Edge,Yannick Ngakoue,51.4,Chicago Bears,2023
+WR,Chase Claypool,61.8,Chicago Bears,2023
+Edge,Rasheem Green,62.4,Chicago Bears,2023
+WR,Darnell Mooney,69.2,Chicago Bears,2023
+LB,Tremaine Edmunds,81.9,Chicago Bears,2023
+TE,Cole Kmet,67.6,Chicago Bears,2023
+LB,T.J. Edwards,81.6,Chicago Bears,2023
+LT,Braxton Jones,75.4,Chicago Bears,2023
+CB,Jaylon Johnson,62.9,Chicago Bears,2023
+LG,Teven Jenkins,80.7,Chicago Bears,2023
+CB,Tyrique Stevenson,76.5,Chicago Bears,2023
+C,Cody Whitehair,65.9,Chicago Bears,2023
+CB,Kyler Gordon,49.8,Chicago Bears,2023
+RG,Nate Davis,70.6,Chicago Bears,2023
+S,Jaquan Brisker,67.0,Chicago Bears,2023
+RT,Darnell Wright,71.4,Chicago Bears,2023
+S,Eddie Jackson,76.2,Chicago Bears,2023
+QB,Jordan Love,78.7,Green Bay Packers,2023
+DI,Kenny Clark,66.4,Green Bay Packers,2023
+RB,Aaron Jones,86.1,Green Bay Packers,2023
+DI,Devonte Wyatt,69.9,Green Bay Packers,2023
+RB,A.J. Dillon,81.4,Green Bay Packers,2023
+Edge,Rashan Gary,82.9,Green Bay Packers,2023
+WR,Christian Watson,77.1,Green Bay Packers,2023
+Edge,Preston Smith,66.4,Green Bay Packers,2023
+WR,Romeo Doubs,62.6,Green Bay Packers,2023
+Edge,Lukas Van Ness,80.2,Green Bay Packers,2023
+WR,Jayden Reed,70.4,Green Bay Packers,2023
+LB,De’Vondre Campbell,74.2,Green Bay Packers,2023
+TE,Luke Musgrave,72.5,Green Bay Packers,2023
+LB,Quay Walker,51.9,Green Bay Packers,2023
+LT,David Bakhtiari,79.8,Green Bay Packers,2023
+CB,Jaire Alexander,80.3,Green Bay Packers,2023
+LG,Elgton Jenkins,72.3,Green Bay Packers,2023
+CB,Rasul Douglas,71.1,Green Bay Packers,2023
+C,Josh Myers,60.4,Green Bay Packers,2023
+CB,Keisean Nixon,63.9,Green Bay Packers,2023
+RG,Jon Runyan,62.6,Green Bay Packers,2023
+S,Darnell Savage,47.5,Green Bay Packers,2023
+RT,Zach Tom,68.3,Green Bay Packers,2023
+S,Rudy Ford,74.6,Green Bay Packers,2023
+QB,Bryce Young,91.5,Carolina Panthers,2023
+DI,Derrick Brown,84.4,Carolina Panthers,2023
+RB,Miles Sanders,71.1,Carolina Panthers,2023
+DI,Shy Tuttle,60.3,Carolina Panthers,2023
+RB,Chuba Hubbard,76.6,Carolina Panthers,2023
+Edge,Brian Burns,64.5,Carolina Panthers,2023
+WR,D.J. Chark Jr.,69.6,Carolina Panthers,2023
+Edge,Marquis Haynes,59.3,Carolina Panthers,2023
+WR,Adam Thielen,65.5,Carolina Panthers,2023
+Edge,Justin Houston,77.1,Carolina Panthers,2023
+WR,Jonathan Mingo,76.9,Carolina Panthers,2023
+LB,Frankie Luvu,74.8,Carolina Panthers,2023
+TE,Hayden Hurst,64.5,Carolina Panthers,2023
+LB,Shaq Thompson,72.3,Carolina Panthers,2023
+LT,Ikem Ekwonu,65.3,Carolina Panthers,2023
+CB,Jaycee Horn,71.4,Carolina Panthers,2023
+LG,Brady Christensen,57.3,Carolina Panthers,2023
+CB,Donte Jackson,55.0,Carolina Panthers,2023
+C,Bradley Bozeman,63.1,Carolina Panthers,2023
+CB,C.J. Henderson,52.9,Carolina Panthers,2023
+RG,Cade Mays,62.6,Carolina Panthers,2023
+S,Vonn Bell,69.3,Carolina Panthers,2023
+RT,Taylor Moton,69.3,Carolina Panthers,2023
+S,Xavier Woods,63.5,Carolina Panthers,2023
+QB,Ryan Tannehill,74.9,Tennessee Titans,2023
+DI,Jeffery Simmons,81.1,Tennessee Titans,2023
+RB,Derrick Henry,85.9,Tennessee Titans,2023
+DI,Teair Tart,73.1,Tennessee Titans,2023
+RB,Hassan Haskins,59.2,Tennessee Titans,2023
+DI,Denico Autry,82.8,Tennessee Titans,2023
+WR,DeAndre Hopkins,72.9,Tennessee Titans,2023
+Edge,Harold Landry III,63.3,Tennessee Titans,2023
+WR,Treylon Burks,74.1,Tennessee Titans,2023
+Edge,Arden Key,75.7,Tennessee Titans,2023
+WR,Nick Westbrook-Ikhine,59.8,Tennessee Titans,2023
+LB,Azeez Al-Shaair,74.4,Tennessee Titans,2023
+TE,Chigoziem Okonkwo,75.4,Tennessee Titans,2023
+LB,Monty Rice,63.3,Tennessee Titans,2023
+LT,Andre Dillard,58.3,Tennessee Titans,2023
+CB,Roger McCreary,62.6,Tennessee Titans,2023
+LG,Dillon Radunz,40.3,Tennessee Titans,2023
+CB,Kristian Fulton,63.8,Tennessee Titans,2023
+C,Aaron Brewer,59.9,Tennessee Titans,2023
+CB,Sean Murphy-Bunting,71.8,Tennessee Titans,2023
+RG,Daniel Brunskill,67.3,Tennessee Titans,2023
+S,Kevin Byard,79.5,Tennessee Titans,2023
+RT,Peter Skoronski,89.5,Tennessee Titans,2023
+S,Amani Hooker,63.3,Tennessee Titans,2023
+QB,Russell Wilson,66.2,Denver Broncos,2023
+DI,Zach Allen,72.7,Denver Broncos,2023
+RB,Javonte Williams,64.5,Denver Broncos,2023
+DI,D.J. Jones,63.6,Denver Broncos,2023
+RB,Samaje Perine,72.9,Denver Broncos,2023
+Edge,Randy Gregory,76.9,Denver Broncos,2023
+WR,Courtland Sutton,69.3,Denver Broncos,2023
+Edge,Baron Browning,55.3,Denver Broncos,2023
+WR,Jerry Jeudy,78.4,Denver Broncos,2023
+Edge,Jonathan Cooper,63.1,Denver Broncos,2023
+WR,Marvin Mims Jr.,75.5,Denver Broncos,2023
+LB,Alex Singleton,79.1,Denver Broncos,2023
+TE,Greg Dulcich,60.4,Denver Broncos,2023
+LB,Josey Jewell,71.7,Denver Broncos,2023
+LT,Garett Bolles,72.9,Denver Broncos,2023
+CB,Patrick Surtain II,86.8,Denver Broncos,2023
+LG,Ben Powers,62.3,Denver Broncos,2023
+CB,Damarri Mathis,65.6,Denver Broncos,2023
+C,Lloyd Cushenberry III,56.2,Denver Broncos,2023
+CB,K’Waun Williams,67.2,Denver Broncos,2023
+RG,Quinn Meinerz,77.7,Denver Broncos,2023
+S,Justin Simmons,70.7,Denver Broncos,2023
+RT,Mike McGlinchey,70.3,Denver Broncos,2023
+S,Caden Sterns,76.7,Denver Broncos,2023
+QB,Desmond Ridder,55.9,Atlanta Falcons,2023
+DI,Grady Jarrett,71.3,Atlanta Falcons,2023
+RB,Bijan Robinson,95.3,Atlanta Falcons,2023
+DI,Calais Campbell,76.9,Atlanta Falcons,2023
+RB,Tyler Allgeier,86.7,Atlanta Falcons,2023
+Edge,Lorenzo Carter,60.5,Atlanta Falcons,2023
+WR,Drake London,83.2,Atlanta Falcons,2023
+Edge,Arnold Ebiketie,64.5,Atlanta Falcons,2023
+WR,Mack Hollins,63.8,Atlanta Falcons,2023
+Edge,Bud Dupree,58.2,Atlanta Falcons,2023
+WR,KhaDarel Hodge,77.0,Atlanta Falcons,2023
+LB,Kaden Elliss,81.5,Atlanta Falcons,2023
+TE,Kyle Pitts,72.7,Atlanta Falcons,2023
+LB,Troy Andersen,40.2,Atlanta Falcons,2023
+LT,Jake Matthews,77.2,Atlanta Falcons,2023
+CB,A.J. Terrell,63.9,Atlanta Falcons,2023
+LG,Matthew Bergeron,75.2,Atlanta Falcons,2023
+CB,Dee Alford,64.8,Atlanta Falcons,2023
+C,Drew Dalman,65.9,Atlanta Falcons,2023
+CB,Jeff Okudah,59.4,Atlanta Falcons,2023
+RG,Chris Lindstrom,95.0,Atlanta Falcons,2023
+S,Jessie Bates III,71.9,Atlanta Falcons,2023
+RT,Kaleb McGary,86.6,Atlanta Falcons,2023
+S,Richie Grant,64.9,Atlanta Falcons,2023
+QB,Baker Mayfield,50.6,Tampa Bay Buccaneers,2023
+DI,Vita Vea,65.6,Tampa Bay Buccaneers,2023
+RB,Rachaad White,68.2,Tampa Bay Buccaneers,2023
+DI,Calijah Kancey,91.8,Tampa Bay Buccaneers,2023
+RB,Chase Edmonds,50.8,Tampa Bay Buccaneers,2023
+Edge,Shaquil Barrett,68.3,Tampa Bay Buccaneers,2023
+WR,Mike Evans,74.2,Tampa Bay Buccaneers,2023
+Edge,Joe Tryon-Shoyinka,67.2,Tampa Bay Buccaneers,2023
+WR,Chris Godwin,75.7,Tampa Bay Buccaneers,2023
+Edge,Anthony Nelson,63.2,Tampa Bay Buccaneers,2023
+WR,Trey Palmer,83.7,Tampa Bay Buccaneers,2023
+LB,Devin White,43.7,Tampa Bay Buccaneers,2023
+TE,Cade Otton,58.2,Tampa Bay Buccaneers,2023
+LB,Lavonte David,85.1,Tampa Bay Buccaneers,2023
+LT,Tristan Wirfs,83.1,Tampa Bay Buccaneers,2023
+CB,Jamel Dean,77.9,Tampa Bay Buccaneers,2023
+LG,Matt Feiler,54.6,Tampa Bay Buccaneers,2023
+CB,Carlton Davis,65.1,Tampa Bay Buccaneers,2023
+C,Robert Hainsey,66.7,Tampa Bay Buccaneers,2023
+CB,Dee Delaney,64.2,Tampa Bay Buccaneers,2023
+RG,Cody Mauch,91.8,Tampa Bay Buccaneers,2023
+S,Antoine Winfield Jr.,78.7,Tampa Bay Buccaneers,2023
+RT,Luke Goedeke,46.7,Tampa Bay Buccaneers,2023
+S,Ryan Neal,82.0,Tampa Bay Buccaneers,2023
+QB,C.J. Stroud,88.9,Houston Texans,2023
+DI,Sheldon Rankins,73.1,Houston Texans,2023
+RB,Dameon Pierce,78.9,Houston Texans,2023
+DI,Maliek Collins,65.4,Houston Texans,2023
+RB,Devin Singletary,78.6,Houston Texans,2023
+Edge,Will Anderson Jr,83.6,Houston Texans,2023
+WR,Robert Woods,68.0,Houston Texans,2023
+Edge,Jerry Hughes,71.4,Houston Texans,2023
+WR,Nico Collins,72.4,Houston Texans,2023
+Edge,Jonathan Greenard,63.4,Houston Texans,2023
+WR,John Metchie III,78.2,Houston Texans,2023
+LB,Denzel Perryman,74.2,Houston Texans,2023
+TE,Dalton Schultz,68.3,Houston Texans,2023
+LB,Christian Kirksey,56.1,Houston Texans,2023
+LT,Laremy Tunsil,80.0,Houston Texans,2023
+CB,Derek Stingley Jr,49.1,Houston Texans,2023
+LG,Kendrick Green,37.7,Houston Texans,2023
+CB,Steven Nelson,66.7,Houston Texans,2023
+C,Juice Scruggs,71.5,Houston Texans,2023
+CB,Tavierre Thomas,70.0,Houston Texans,2023
+RG,Shaq Mason,68.2,Houston Texans,2023
+S,Jimmie Ward,80.6,Houston Texans,2023
+RT,Austin Howard,67.9,Houston Texans,2023
+S,Jalen Pitre,54.7,Houston Texans,2023
+QB,Anthony Richardson,80.1,Indianapolis Colts,2023
+DI,DeForest Buckner,82.3,Indianapolis Colts,2023
+RB,Jonathan Taylor,67.6,Indianapolis Colts,2023
+DI,Grover Stewart,69.0,Indianapolis Colts,2023
+RB,Zack Moss,71.1,Indianapolis Colts,2023
+Edge,Kwity Paye,69.6,Indianapolis Colts,2023
+WR,Michael Pittman Jr,70.6,Indianapolis Colts,2023
+Edge,Samson Ebukam,63.7,Indianapolis Colts,2023
+WR,Alec Pierce,61.3,Indianapolis Colts,2023
+Edge,Dayo Odeyingbo,62.6,Indianapolis Colts,2023
+WR,Isaiah McKenzie,66.0,Indianapolis Colts,2023
+LB,Shaquille Leonard,40.6,Indianapolis Colts,2023
+TE,Mo Alie-Cox,48.2,Indianapolis Colts,2023
+LB,Zaire Franklin,57.0,Indianapolis Colts,2023
+LT,Bernhard Raimann,73.3,Indianapolis Colts,2023
+CB,Kenny Moore II,55.7,Indianapolis Colts,2023
+LG,Quenton Nelson,68.4,Indianapolis Colts,2023
+CB,Darius Rush,77.9,Indianapolis Colts,2023
+C,Ryan Kelly,64.3,Indianapolis Colts,2023
+CB,Julius Brents,74.9,Indianapolis Colts,2023
+RG,Will Fries,58.4,Indianapolis Colts,2023
+S,Julian Blackmon,62.3,Indianapolis Colts,2023
+RT,Braden Smith,75.5,Indianapolis Colts,2023
+S,Rodney Thomas II,54.3,Indianapolis Colts,2023
+QB,Matthew Stafford,67.0,Los Angeles Rams,2023
+DI,Aaron Donald,90.5,Los Angeles Rams,2023
+RB,Cam Akers,80.7,Los Angeles Rams,2023
+DI,Marquise Copeland,67.3,Los Angeles Rams,2023
+RB,Kyren Williams,67.2,Los Angeles Rams,2023
+Edge,Michael Hoecht,65.4,Los Angeles Rams,2023
+WR,Cooper Kupp,86.3,Los Angeles Rams,2023
+Edge,Keir Thomas,56.3,Los Angeles Rams,2023
+WR,Van Jefferson,68.4,Los Angeles Rams,2023
+Edge,Byron Young,63.8,Los Angeles Rams,2023
+WR,Bennett Skowronek,57.2,Los Angeles Rams,2023
+LB,Ernest Jones,63.6,Los Angeles Rams,2023
+TE,Tyler Higbee,62.7,Los Angeles Rams,2023
+LB,Christian Rozeboom,77.0,Los Angeles Rams,2023
+LT,Alaric Jackson,64.1,Los Angeles Rams,2023
+CB,Derion Kendrick,43.7,Los Angeles Rams,2023
+LG,Steve Avila,71.0,Los Angeles Rams,2023
+CB,Ahkello Witherspoon,45.4,Los Angeles Rams,2023
+C,Brian Allen,63.8,Los Angeles Rams,2023
+CB,Cobie Durant,73.3,Los Angeles Rams,2023
+RG,Tremayne Anchrum Jr.,60.0,Los Angeles Rams,2023
+S,Jordan Fuller,60.5,Los Angeles Rams,2023
+RT,Rob Havenstein,73.2,Los Angeles Rams,2023
+S,John Johnson III,62.8,Los Angeles Rams,2023
+QB,Clayton Thune,92.0,Arizona Cardinals,2023
+DI,Leki Fotu,32.4,Arizona Cardinals,2023
+RB,James Conner,69.7,Arizona Cardinals,2023
+DI,Jonathan Ledbetter,43.4,Arizona Cardinals,2023
+RB,Keontay Ingram,48.1,Arizona Cardinals,2023
+Edge,Cameron Thomas,69.9,Arizona Cardinals,2023
+WR,Zach Pascal,61.1,Arizona Cardinals,2023
+Edge,Zaven Collins,59.8,Arizona Cardinals,2023
+WR,Marquise Brown,69.2,Arizona Cardinals,2023
+Edge,Victor Dimukeje,57.0,Arizona Cardinals,2023
+WR,Rondale Moore,63.4,Arizona Cardinals,2023
+LB,Krys Barnes,46.7,Arizona Cardinals,2023
+TE,Zach Ertz,62.5,Arizona Cardinals,2023
+LB,Kyzir White,67.2,Arizona Cardinals,2023
+LT,D.J. Humphries,72.3,Arizona Cardinals,2023
+CB,Antonio Hamilton,68.5,Arizona Cardinals,2023
+LG,Elijah Wilkinson,64.3,Arizona Cardinals,2023
+CB,Marco Wilson,55.3,Arizona Cardinals,2023
+C,Hjalte Froholdt,61.4,Arizona Cardinals,2023
+CB,Kei'Trel Clark,57.2,Arizona Cardinals,2023
+RG,Will Hernandez,65.4,Arizona Cardinals,2023
+S,Budda Baker,73.7,Arizona Cardinals,2023
+RT,Paris Johnson Jr.,83.0,Arizona Cardinals,2023
+S,Jalen Thompson,65.0,Arizona Cardinals,2023

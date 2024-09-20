@@ -1,0 +1,768 @@
+Position,Name,Rating,Team,Season
+QB,Lamar Jackson,90.1,Baltimore Ravens,2020
+DI,Derek Wolfe,68.5,Baltimore Ravens,2020
+RB,Mark Ingram II,78.7,Baltimore Ravens,2020
+DI,Brandon Williams,64.8,Baltimore Ravens,2020
+RB,J.K. Dobbins,83.8,Baltimore Ravens,2020
+DI,Calais Campbell,90.3,Baltimore Ravens,2020
+TE,Mark Andrews,88.5,Baltimore Ravens,2020
+Edge,Matthew Judon,69.2,Baltimore Ravens,2020
+WR,Marquise Brown,72.8,Baltimore Ravens,2020
+Edge,Pernell McPhee,64.5,Baltimore Ravens,2020
+WR,Miles Boykin,58.9,Baltimore Ravens,2020
+LB,Patrick Queen,74.4,Baltimore Ravens,2020
+WR,Willie Snead IV,58.4,Baltimore Ravens,2020
+LB,Malik Harrison,82.8,Baltimore Ravens,2020
+LT,Ronnie Stanley,89.4,Baltimore Ravens,2020
+CB,Marcus Peters,83.9,Baltimore Ravens,2020
+LG,Bradley Bozeman,63.8,Baltimore Ravens,2020
+CB,Marlon Humphrey,69.2,Baltimore Ravens,2020
+C,Matt Skura,68.7,Baltimore Ravens,2020
+CB,Tavon Young,62.7,Baltimore Ravens,2020
+RG,Ben Powers,63.6,Baltimore Ravens,2020
+S,Chuck Clark,69.8,Baltimore Ravens,2020
+RT,Orlando Brown Jr.,73.6,Baltimore Ravens,2020
+S,Earl Thomas III,76.9,Baltimore Ravens,2020
+QB,Drew Brees,90.6,New Orleans Saints,2020
+DI,Sheldon Rankins,65.6,New Orleans Saints,2020
+RB,Alvin Kamara,68.9,New Orleans Saints,2020
+DI,Malcom Brown,67.9,New Orleans Saints,2020
+RB,Latavius Murray,74.2,New Orleans Saints,2020
+Edge,Cameron Jordan,86.9,New Orleans Saints,2020
+TE,Jared Cook,78.3,New Orleans Saints,2020
+Edge,Marcus Davenport,84.1,New Orleans Saints,2020
+WR,Michael Thomas,90.4,New Orleans Saints,2020
+LB,Demario Davis,90.4,New Orleans Saints,2020
+WR,Emmanuel Sanders,77.0,New Orleans Saints,2020
+LB,Alex Anzalone,67.7,New Orleans Saints,2020
+WR,Tre'Quan Smith,62.6,New Orleans Saints,2020
+LB,Zack Baun,89.7,New Orleans Saints,2020
+LT,Terron Armstead,80.8,New Orleans Saints,2020
+CB,Marshon Lattimore,65.6,New Orleans Saints,2020
+LG,Andrus Peat,48.5,New Orleans Saints,2020
+CB,Janoris Jenkins,70.7,New Orleans Saints,2020
+C,Erik McCoy,78.0,New Orleans Saints,2020
+CB,C.J. Gardner-Johnson,70.8,New Orleans Saints,2020
+RG,Cesar Ruiz,71.5,New Orleans Saints,2020
+S,Malcolm Jenkins,69.2,New Orleans Saints,2020
+RT,Ryan Ramczyk,90.9,New Orleans Saints,2020
+S,Marcus Williams,88.3,New Orleans Saints,2020
+QB,Jimmy Garoppolo,77.5,San Francisco 49ers,2020
+DI,Javon Kinlaw,89.7,San Francisco 49ers,2020
+RB,Raheem Mostert,82.8,San Francisco 49ers,2020
+Edge,Arik Armstead,89.6,San Francisco 49ers,2020
+Edge,Nick Bosa,89.8,San Francisco 49ers,2020
+TE,George Kittle,94.4,San Francisco 49ers,2020
+Edge,Dee Ford,73.9,San Francisco 49ers,2020
+WR,Deebo Samuel,77.5,San Francisco 49ers,2020
+LB,Kwon Alexander,52.6,San Francisco 49ers,2020
+WR,Brandon Aiyuk,77.8,San Francisco 49ers,2020
+LB,Fred Warner,63.5,San Francisco 49ers,2020
+WR,Kendrick Bourne,69.8,San Francisco 49ers,2020
+LB,Dre Greenlaw,67.7,San Francisco 49ers,2020
+LT,Trent Williams,75.6,San Francisco 49ers,2020
+CB,Richard Sherman,90.3,San Francisco 49ers,2020
+LG,Laken Tomlinson,68.8,San Francisco 49ers,2020
+CB,Emmanuel Moseley,70.4,San Francisco 49ers,2020
+C,Weston Richburg,62.5,San Francisco 49ers,2020
+CB,K'Waun Williams,80.3,San Francisco 49ers,2020
+RG,Daniel Brunskill,73.0,San Francisco 49ers,2020
+S,Jaquiski Tartt,65.1,San Francisco 49ers,2020
+RT,Mike McGlinchey,70.7,San Francisco 49ers,2020
+S,Jimmie Ward,84.9,San Francisco 49ers,2020
+QB,Patrick Mahomes,90.2,Kansas City Chiefs,2020
+DI,Chris Jones,87.6,Kansas City Chiefs,2020
+RB,Clyde Edwards-Helaire,85.0,Kansas City Chiefs,2020
+DI,Derrick Nnadi,59.8,Kansas City Chiefs,2020
+RB,Damien Williams,65.7,Kansas City Chiefs,2020
+Edge,Frank Clark,63.3,Kansas City Chiefs,2020
+TE,Travis Kelce,86.1,Kansas City Chiefs,2020
+Edge,Alex Okafor,48.2,Kansas City Chiefs,2020
+WR,Tyreek Hill,84.5,Kansas City Chiefs,2020
+LB,Damien Wilson,50.4,Kansas City Chiefs,2020
+WR,Sammy Watkins,71.6,Kansas City Chiefs,2020
+LB,Anthony Hitchens,44.4,Kansas City Chiefs,2020
+WR,Mecole Hardman,68.1,Kansas City Chiefs,2020
+LB,Willie Gay Jr.,83.1,Kansas City Chiefs,2020
+LT,Eric Fisher,71.2,Kansas City Chiefs,2020
+CB,Charvarius Ward,65.7,Kansas City Chiefs,2020
+LG,Andrew Wylie,67.4,Kansas City Chiefs,2020
+CB,Bashaud Breeland,55.2,Kansas City Chiefs,2020
+C,Austin Reiter,66.0,Kansas City Chiefs,2020
+CB,Rashad Fenton,71.9,Kansas City Chiefs,2020
+RG,Laurent Duvernay-Tardif,59.7,Kansas City Chiefs,2020
+S,Tyrann Mathieu,75.4,Kansas City Chiefs,2020
+RT,Mitchell Schwartz,89.3,Kansas City Chiefs,2020
+S,Juan Thornhill,71.5,Kansas City Chiefs,2020
+QB,Tom Brady,79.0,Tampa Bay Buccaneers,2020
+DI,Ndamukong Suh,69.6,Tampa Bay Buccaneers,2020
+RB,Ke'Shawn Vaughn,77.7,Tampa Bay Buccaneers,2020
+DI,Vita Vea,78.7,Tampa Bay Buccaneers,2020
+TE,Rob Gronkowski,75.2,Tampa Bay Buccaneers,2020
+DI,William Gholston,69.9,Tampa Bay Buccaneers,2020
+TE,O.J. Howard,54.7,Tampa Bay Buccaneers,2020
+Edge,Shaquil Barrett,76.5,Tampa Bay Buccaneers,2020
+WR,Chris Godwin,90.7,Tampa Bay Buccaneers,2020
+Edge,Jason Pierre-Paul,66.6,Tampa Bay Buccaneers,2020
+WR,Mike Evans,85.7,Tampa Bay Buccaneers,2020
+LB,Lavonte David,89.2,Tampa Bay Buccaneers,2020
+WR,Tyler Johnson,91.8,Tampa Bay Buccaneers,2020
+LB,Devin White,50.6,Tampa Bay Buccaneers,2020
+LT,Donovan Smith,70.8,Tampa Bay Buccaneers,2020
+CB,Carlton Davis,70.4,Tampa Bay Buccaneers,2020
+LG,Ali Marpet,72.3,Tampa Bay Buccaneers,2020
+CB,Jamel Dean,76.4,Tampa Bay Buccaneers,2020
+C,Ryan Jensen,79.3,Tampa Bay Buccaneers,2020
+CB,Sean Murphy-Bunting,66.4,Tampa Bay Buccaneers,2020
+RG,Alex Cappa,62.7,Tampa Bay Buccaneers,2020
+S,Antoine Winfield Jr.,88.6,Tampa Bay Buccaneers,2020
+RT,Tristan Wirfs,92.3,Tampa Bay Buccaneers,2020
+S,Jordan Whitehead,45.2,Tampa Bay Buccaneers,2020
+QB,Dak Prescott,80.1,Dallas Cowboys,2020
+DI,Gerald McCoy,72.0,Dallas Cowboys,2020
+RB,Ezekiel Elliott,77.2,Dallas Cowboys,2020
+DI,Dontari Poe,71.2,Dallas Cowboys,2020
+RB,Tony Pollard,82.9,Dallas Cowboys,2020
+Edge,DeMarcus Lawrence,86.3,Dallas Cowboys,2020
+TE,Blake Jarwin,61.4,Dallas Cowboys,2020
+Edge,Randy Gregory,61.7,Dallas Cowboys,2020
+WR,Amari Cooper,84.1,Dallas Cowboys,2020
+LB,Leighton Vander Esch,58.6,Dallas Cowboys,2020
+WR,Michael Gallup,74.0,Dallas Cowboys,2020
+LB,Jaylon Smith,70.2,Dallas Cowboys,2020
+WR,CeeDee Lamb,90.0,Dallas Cowboys,2020
+LB,Sean Lee,61.5,Dallas Cowboys,2020
+LT,Tyron Smith,76.6,Dallas Cowboys,2020
+CB,Chidobe Awuzie,72.2,Dallas Cowboys,2020
+LG,Connor Williams,61.4,Dallas Cowboys,2020
+CB,Trevon Diggs,88.5,Dallas Cowboys,2020
+C,Tyler Biadasz,83.5,Dallas Cowboys,2020
+CB,Jourdan Lewis,68.7,Dallas Cowboys,2020
+RG,Zack Martin,88.1,Dallas Cowboys,2020
+S,Ha Ha Clinton-Dix,74.2,Dallas Cowboys,2020
+RT,La'el Collins,86.0,Dallas Cowboys,2020
+S,Xavier Woods,73.0,Dallas Cowboys,2020
+QB,Josh Allen,64.1,Buffalo Bills,2020
+DI,Star Lotulelei,58.6,Buffalo Bills,2020
+RB,Devin Singletary,69.3,Buffalo Bills,2020
+DI,Ed Oliver,65.1,Buffalo Bills,2020
+RB,Zack Moss,91.3,Buffalo Bills,2020
+Edge,Jerry Hughes,73.9,Buffalo Bills,2020
+TE,Dawson Knox,60.2,Buffalo Bills,2020
+Edge,Mario Addison,63.1,Buffalo Bills,2020
+WR,Stefon Diggs,78.3,Buffalo Bills,2020
+LB,Matt Milano,65.6,Buffalo Bills,2020
+WR,John Brown,74.2,Buffalo Bills,2020
+LB,Tremaine Edmunds,59.4,Buffalo Bills,2020
+WR,Cole Beasley,73.8,Buffalo Bills,2020
+LB,A.J. Klein,46.1,Buffalo Bills,2020
+LT,Dion Dawkins,73.1,Buffalo Bills,2020
+CB,Tre'Davious White,74.3,Buffalo Bills,2020
+LG,Quinton Spain,55.8,Buffalo Bills,2020
+CB,Josh Norman,45.7,Buffalo Bills,2020
+C,Mitch Morse,67.3,Buffalo Bills,2020
+CB,Taron Johnson,60.6,Buffalo Bills,2020
+RG,Jon Feliciano,63.1,Buffalo Bills,2020
+S,Jordan Poyer,74.0,Buffalo Bills,2020
+RT,Cody Ford,51.8,Buffalo Bills,2020
+S,Micah Hyde,77.7,Buffalo Bills,2020
+QB,Ryan Tannehill,90.2,Tennessee Titans,2020
+DI,Jeffery Simmons,67.2,Tennessee Titans,2020
+RB,Derrick Henry,79.2,Tennessee Titans,2020
+DI,DaQuan Jones,72.4,Tennessee Titans,2020
+RB,Darrynton Evans,78.8,Tennessee Titans,2020
+DI,Jack Crawford,49.6,Tennessee Titans,2020
+TE,Jonnu Smith,70.9,Tennessee Titans,2020
+Edge,Harold Landry III,65.4,Tennessee Titans,2020
+WR,A.J. Brown,81.8,Tennessee Titans,2020
+Edge,Vic Beasley Jr.,58.9,Tennessee Titans,2020
+WR,Corey Davis,70.4,Tennessee Titans,2020
+LB,Rashaan Evans,47.7,Tennessee Titans,2020
+WR,Adam Humphries,71.4,Tennessee Titans,2020
+LB,Jayon Brown,68.8,Tennessee Titans,2020
+LT,Taylor Lewan,80.2,Tennessee Titans,2020
+CB,Adoree' Jackson,79.9,Tennessee Titans,2020
+LG,Rodger Saffold,77.3,Tennessee Titans,2020
+CB,Malcolm Butler,65.5,Tennessee Titans,2020
+C,Ben Jones,79.7,Tennessee Titans,2020
+CB,Kristian Fulton,84.7,Tennessee Titans,2020
+RG,Nate Davis,46.6,Tennessee Titans,2020
+S,Kenny Vaccaro,60.9,Tennessee Titans,2020
+RT,Dennis Kelly,71.7,Tennessee Titans,2020
+S,Kevin Byard,78.3,Tennessee Titans,2020
+QB,Carson Wentz,75.6,Philadelphia Eagles,2020
+DI,Fletcher Cox,89.5,Philadelphia Eagles,2020
+RB,Miles Sanders,61.5,Philadelphia Eagles,2020
+DI,Javon Hargrave,83.4,Philadelphia Eagles,2020
+TE,Zach Ertz,72.7,Philadelphia Eagles,2020
+Edge,Brandon Graham,84.2,Philadelphia Eagles,2020
+TE,Dallas Goedert,82.7,Philadelphia Eagles,2020
+Edge,Derek Barnett,60.5,Philadelphia Eagles,2020
+WR,Alshon Jeffery,74.8,Philadelphia Eagles,2020
+LB,Nathan Gerry,62.2,Philadelphia Eagles,2020
+WR,DeSean Jackson,79.4,Philadelphia Eagles,2020
+LB,T.J. Edwards,90.8,Philadelphia Eagles,2020
+WR,Jalen Reagor,69.2,Philadelphia Eagles,2020
+LB,Jatavis Brown,53.4,Philadelphia Eagles,2020
+LT,Andre Dillard,59.7,Philadelphia Eagles,2020
+CB,Darius Slay,56.4,Philadelphia Eagles,2020
+LG,Isaac Seumalo,70.6,Philadelphia Eagles,2020
+CB,Avonte Maddox,55.9,Philadelphia Eagles,2020
+C,Jason Kelce,81.1,Philadelphia Eagles,2020
+CB,Nickell Robey-Coleman,74.5,Philadelphia Eagles,2020
+RG,Matt Pryor,60.9,Philadelphia Eagles,2020
+S,Jalen Mills,51.0,Philadelphia Eagles,2020
+RT,Lane Johnson,88.8,Philadelphia Eagles,2020
+S,Rodney McLeod,67.2,Philadelphia Eagles,2020
+QB,Ben Roethlisberger,78.2,Pittsburgh Steelers,2020
+DI,Stephon Tuitt,89.1,Pittsburgh Steelers,2020
+RB,James Conner,73.6,Pittsburgh Steelers,2020
+DI,Dan McCullers,50.9,Pittsburgh Steelers,2020
+RB,Anthony McFarland Jr.,70.3,Pittsburgh Steelers,2020
+DI,Cameron Heyward,91.5,Pittsburgh Steelers,2020
+TE,Eric Ebron,71.1,Pittsburgh Steelers,2020
+Edge,T.J. Watt,91.3,Pittsburgh Steelers,2020
+WR,JuJu Smith-Schuster,63.1,Pittsburgh Steelers,2020
+Edge,Bud Dupree,77.7,Pittsburgh Steelers,2020
+WR,Diontae Johnson,67.9,Pittsburgh Steelers,2020
+LB,Devin Bush,62.9,Pittsburgh Steelers,2020
+WR,James Washington,69.3,Pittsburgh Steelers,2020
+LB,Vince Williams,76.2,Pittsburgh Steelers,2020
+LT,Alejandro Villanueva,74.0,Pittsburgh Steelers,2020
+CB,Joe Haden,70.3,Pittsburgh Steelers,2020
+LG,Stefen Wisniewski,70.9,Pittsburgh Steelers,2020
+CB,Steven Nelson,80.5,Pittsburgh Steelers,2020
+C,Maurkice Pouncey,51.5,Pittsburgh Steelers,2020
+CB,Mike Hilton,67.1,Pittsburgh Steelers,2020
+RG,David DeCastro,71.0,Pittsburgh Steelers,2020
+S,Terrell Edmunds,63.6,Pittsburgh Steelers,2020
+RT,Matt Feiler,75.9,Pittsburgh Steelers,2020
+S,Minkah Fitzpatrick,79.8,Pittsburgh Steelers,2020
+QB,Baker Mayfield,73.5,Cleveland Browns,2020
+DI,Sheldon Richardson,73.9,Cleveland Browns,2020
+RB,Nick Chubb,88.7,Cleveland Browns,2020
+DI,Andrew Billings,69.3,Cleveland Browns,2020
+RB,Kareem Hunt,76.7,Cleveland Browns,2020
+Edge,Myles Garrett,86.5,Cleveland Browns,2020
+TE,Austin Hooper,78.3,Cleveland Browns,2020
+Edge,Olivier Vernon,80.4,Cleveland Browns,2020
+TE,David Njoku,66.3,Cleveland Browns,2020
+LB,Mack Wilson,41.6,Cleveland Browns,2020
+WR,Odell Beckham Jr.,68.7,Cleveland Browns,2020
+LB,B.J. Goodson,58.4,Cleveland Browns,2020
+WR,Jarvis Landry,78.2,Cleveland Browns,2020
+LB,Sione Takitaki,79.0,Cleveland Browns,2020
+LT,Jedrick Wills Jr.,88.7,Cleveland Browns,2020
+CB,Denzel Ward,69.9,Cleveland Browns,2020
+LG,Joel Bitonio,74.2,Cleveland Browns,2020
+CB,Greedy Williams,54.6,Cleveland Browns,2020
+C,JC Tretter,72.0,Cleveland Browns,2020
+CB,Kevin Johnson,71.9,Cleveland Browns,2020
+RG,Wyatt Teller,56.7,Cleveland Browns,2020
+S,Karl Joseph,69.9,Cleveland Browns,2020
+RT,Jack Conklin,80.5,Cleveland Browns,2020
+S,Grant Delpit,66.3,Cleveland Browns,2020
+QB,Aaron Rodgers,83.6,Green Bay Packers,2020
+DI,Dean Lowry,59.0,Green Bay Packers,2020
+RB,Aaron Jones,84.8,Green Bay Packers,2020
+DI,Kenny Clark,79.5,Green Bay Packers,2020
+RB,AJ Dillon,91.3,Green Bay Packers,2020
+DI,Kingsley Keke,80.1,Green Bay Packers,2020
+TE,Jace Sternberger,85.1,Green Bay Packers,2020
+Edge,Za'Darius Smith,89.7,Green Bay Packers,2020
+WR,Davante Adams,88.0,Green Bay Packers,2020
+Edge,Preston Smith,66.5,Green Bay Packers,2020
+WR,Devin Funchess,68.4,Green Bay Packers,2020
+LB,Christian Kirksey,46.0,Green Bay Packers,2020
+WR,Allen Lazard,69.6,Green Bay Packers,2020
+LB,Oren Burks,45.3,Green Bay Packers,2020
+LT,David Bakhtiari,79.4,Green Bay Packers,2020
+CB,Jaire Alexander,71.2,Green Bay Packers,2020
+LG,Elgton Jenkins,69.1,Green Bay Packers,2020
+CB,Kevin King,62.6,Green Bay Packers,2020
+C,Corey Linsley,73.8,Green Bay Packers,2020
+CB,Chandon Sullivan,73.7,Green Bay Packers,2020
+RG,Billy Turner,63.0,Green Bay Packers,2020
+S,Darnell Savage Jr.,66.6,Green Bay Packers,2020
+RT,Rick Wagner,59.0,Green Bay Packers,2020
+S,Adrian Amos,75.7,Green Bay Packers,2020
+QB,Philip Rivers,74.3,Indianapolis Colts,2020
+DI,DeForest Buckner,81.4,Indianapolis Colts,2020
+RB,Jonathan Taylor,91.1,Indianapolis Colts,2020
+DI,Denico Autry,71.1,Indianapolis Colts,2020
+RB,Marlon Mack,69.5,Indianapolis Colts,2020
+Edge,Justin Houston,87.1,Indianapolis Colts,2020
+TE,Jack Doyle,69.2,Indianapolis Colts,2020
+Edge,Al-Quadin Muhammad,66.2,Indianapolis Colts,2020
+WR,T.Y. Hilton,75.1,Indianapolis Colts,2020
+LB,Anthony Walker,61.1,Indianapolis Colts,2020
+WR,Michael Pittman Jr.,81.2,Indianapolis Colts,2020
+LB,Darius Leonard,79.2,Indianapolis Colts,2020
+WR,Parris Campbell,86.0,Indianapolis Colts,2020
+LB,Bobby Okereke,77.3,Indianapolis Colts,2020
+LT,Anthony Castonzo,81.3,Indianapolis Colts,2020
+CB,Rock Ya-Sin,65.3,Indianapolis Colts,2020
+LG,Quenton Nelson,91.2,Indianapolis Colts,2020
+CB,Xavier Rhodes,47.9,Indianapolis Colts,2020
+C,Ryan Kelly,73.0,Indianapolis Colts,2020
+CB,Kenny Moore II,75.5,Indianapolis Colts,2020
+RG,Mark Glowinski,60.5,Indianapolis Colts,2020
+S,Khari Willis,69.5,Indianapolis Colts,2020
+RT,Braden Smith,79.8,Indianapolis Colts,2020
+S,Malik Hooker,69.5,Indianapolis Colts,2020
+QB,Drew Lock,57.6,Denver Broncos,2020
+DI,Shelby Harris,76.8,Denver Broncos,2020
+RB,Melvin Gordon III,66.0,Denver Broncos,2020
+DI,Mike Purcell,78.4,Denver Broncos,2020
+RB,Phillip Lindsay,71.3,Denver Broncos,2020
+DI,Jurrell Casey,74.2,Denver Broncos,2020
+TE,Noah Fant,52.0,Denver Broncos,2020
+Edge,Von Miller,79.3,Denver Broncos,2020
+WR,Courtland Sutton,83.1,Denver Broncos,2020
+Edge,Bradley Chubb,68.1,Denver Broncos,2020
+WR,Jerry Jeudy,85.6,Denver Broncos,2020
+LB,Alexander Johnson,88.6,Denver Broncos,2020
+WR,KJ Hamler,72.5,Denver Broncos,2020
+LB,Todd Davis,65.1,Denver Broncos,2020
+LT,Garett Bolles,76.1,Denver Broncos,2020
+CB,A.J. Bouye,58.4,Denver Broncos,2020
+LG,Dalton Risner,64.5,Denver Broncos,2020
+CB,Michael Ojemudia,83.4,Denver Broncos,2020
+C,Lloyd Cushenberry III,61.1,Denver Broncos,2020
+CB,Bryce Callahan,81.3,Denver Broncos,2020
+RG,Graham Glasgow,74.1,Denver Broncos,2020
+S,Kareem Jackson,82.3,Denver Broncos,2020
+RT,Ja'Wuan James,72.4,Denver Broncos,2020
+S,Justin Simmons,90.8,Denver Broncos,2020
+QB,Russell Wilson,92.0,Seattle Seahawks,2020
+DI,Poona Ford,68.4,Seattle Seahawks,2020
+RB,Chris Carson,77.9,Seattle Seahawks,2020
+DI,Jarran Reed,61.8,Seattle Seahawks,2020
+TE,Will Dissly,79.6,Seattle Seahawks,2020
+Edge,Rasheem Green,56.3,Seattle Seahawks,2020
+TE,Greg Olsen,66.9,Seattle Seahawks,2020
+Edge,Bruce Irvin,62.9,Seattle Seahawks,2020
+WR,Tyler Lockett,81.9,Seattle Seahawks,2020
+LB,Bobby Wagner,76.4,Seattle Seahawks,2020
+WR,DK Metcalf,73.4,Seattle Seahawks,2020
+LB,K.J. Wright,59.9,Seattle Seahawks,2020
+WR,Phillip Dorsett II,65.6,Seattle Seahawks,2020
+LB,Jordyn Brooks,90.5,Seattle Seahawks,2020
+LT,Duane Brown,74.1,Seattle Seahawks,2020
+CB,Shaquill Griffin,78.0,Seattle Seahawks,2020
+LG,Mike Iupati,60.3,Seattle Seahawks,2020
+CB,Quinton Dunbar,87.6,Seattle Seahawks,2020
+C,B.J. Finney,56.9,Seattle Seahawks,2020
+CB,Ugo Amadi,72.4,Seattle Seahawks,2020
+RG,Damien Lewis,79.3,Seattle Seahawks,2020
+S,Bradley McDougald,62.8,Seattle Seahawks,2020
+RT,Brandon Shell,63.6,Seattle Seahawks,2020
+S,Quandre Diggs,73.4,Seattle Seahawks,2020
+QB,Tyrod Taylor,47.0,Los Angeles Chargers,2020
+DI,Linval Joseph,69.5,Los Angeles Chargers,2020
+RB,Austin Ekeler,85.2,Los Angeles Chargers,2020
+DI,Justin Jones,59.2,Los Angeles Chargers,2020
+RB,Justin Jackson,84.4,Los Angeles Chargers,2020
+Edge,Joey Bosa,89.6,Los Angeles Chargers,2020
+TE,Hunter Henry,73.2,Los Angeles Chargers,2020
+Edge,Melvin Ingram III,74.7,Los Angeles Chargers,2020
+WR,Keenan Allen,80.3,Los Angeles Chargers,2020
+LB,Drue Tranquill,66.6,Los Angeles Chargers,2020
+WR,Mike Williams,74.1,Los Angeles Chargers,2020
+LB,Kenneth Murray,68.3,Los Angeles Chargers,2020
+WR,K.J. Hill,72.0,Los Angeles Chargers,2020
+LB,Kyzir White,66.6,Los Angeles Chargers,2020
+LT,Trey Pipkins,63.3,Los Angeles Chargers,2020
+CB,Casey Hayward Jr.,84.2,Los Angeles Chargers,2020
+LG,Dan Feeney,51.7,Los Angeles Chargers,2020
+CB,Michael Davis,58.4,Los Angeles Chargers,2020
+C,Mike Pouncey,58.2,Los Angeles Chargers,2020
+CB,Chris Harris Jr.,69.9,Los Angeles Chargers,2020
+RG,Trai Turner,63.9,Los Angeles Chargers,2020
+S,Derwin James,82.4,Los Angeles Chargers,2020
+RT,Bryan Bulaga,77.1,Los Angeles Chargers,2020
+S,Rayshawn Jenkins,63.1,Los Angeles Chargers,2020
+QB,Kirk Cousins,84.1,Minnesota Vikings,2020
+DI,Michael Pierce,69.1,Minnesota Vikings,2020
+RB,Dalvin Cook,76.2,Minnesota Vikings,2020
+DI,Shamar Stephen,58.2,Minnesota Vikings,2020
+RB,Alexander Mattison,70.0,Minnesota Vikings,2020
+Edge,Danielle Hunter,89.0,Minnesota Vikings,2020
+TE,Kyle Rudolph,71.1,Minnesota Vikings,2020
+Edge,Ifeadi Odenigbo,74.0,Minnesota Vikings,2020
+WR,Adam Thielen,75.5,Minnesota Vikings,2020
+LB,Anthony Barr,56.3,Minnesota Vikings,2020
+WR,Justin Jefferson,85.4,Minnesota Vikings,2020
+LB,Eric Kendricks,90.1,Minnesota Vikings,2020
+WR,Tajae Sharpe,72.3,Minnesota Vikings,2020
+LB,Eric Wilson,66.7,Minnesota Vikings,2020
+LT,Ezra Cleveland,82.5,Minnesota Vikings,2020
+CB,Mike Hughes,58.7,Minnesota Vikings,2020
+LG,Riley Reiff,69.5,Minnesota Vikings,2020
+CB,Holton Hill,70.1,Minnesota Vikings,2020
+C,Garrett Bradbury,57.7,Minnesota Vikings,2020
+CB,Jeff Gladney,71.7,Minnesota Vikings,2020
+RG,Dru Samia,67.0,Minnesota Vikings,2020
+S,Anthony Harris,91.1,Minnesota Vikings,2020
+RT,Brian O'Neill,70.8,Minnesota Vikings,2020
+S,Harrison Smith,88.4,Minnesota Vikings,2020
+QB,Jarrett Stidham,57.8,New England Patriots,2020
+DI,Lawrence Guy,66.7,New England Patriots,2020
+RB,Sony Michel,66.5,New England Patriots,2020
+DI,Beau Allen,72.6,New England Patriots,2020
+RB,James White,76.5,New England Patriots,2020
+DI,Adam Butler,60.6,New England Patriots,2020
+TE,Devin Asiasi,79.0,New England Patriots,2020
+Edge,John Simon,73.3,New England Patriots,2020
+WR,Julian Edelman,71.4,New England Patriots,2020
+Edge,Chase Winovich,72.2,New England Patriots,2020
+WR,Mohamed Sanu Sr.,58.5,New England Patriots,2020
+LB,Dont'a Hightower,71.3,New England Patriots,2020
+WR,N'Keal Harry,65.1,New England Patriots,2020
+LB,Ja'Whaun Bentley,66.0,New England Patriots,2020
+LT,Isaiah Wynn,70.7,New England Patriots,2020
+CB,Stephon Gilmore,82.7,New England Patriots,2020
+LG,Joe Thuney,79.2,New England Patriots,2020
+CB,Jason McCourty,74.4,New England Patriots,2020
+C,David Andrews,74.3,New England Patriots,2020
+CB,J.C. Jackson,68.3,New England Patriots,2020
+RG,Shaq Mason,75.1,New England Patriots,2020
+S,Patrick Chung,55.6,New England Patriots,2020
+RT,Marcus Cannon,70.1,New England Patriots,2020
+S,Devin McCourty,80.8,New England Patriots,2020
+QB,Matthew Stafford,82.6,Detroit Lions,2020
+DI,Da'Shawn Hand,85.9,Detroit Lions,2020
+RB,Kerryon Johnson,66.7,Detroit Lions,2020
+DI,Danny Shelton,70.0,Detroit Lions,2020
+RB,D'Andre Swift,80.4,Detroit Lions,2020
+Edge,Trey Flowers,83.0,Detroit Lions,2020
+TE,T.J. Hockenson,60.5,Detroit Lions,2020
+Edge,Julian Okwara,79.2,Detroit Lions,2020
+WR,Kenny Golladay,79.9,Detroit Lions,2020
+LB,Jamie Collins Sr.,72.3,Detroit Lions,2020
+WR,Marvin Jones Jr.,72.9,Detroit Lions,2020
+LB,Jarrad Davis,40.4,Detroit Lions,2020
+WR,Danny Amendola,71.5,Detroit Lions,2020
+LB,Jahlani Tavai,60.5,Detroit Lions,2020
+LT,Taylor Decker,75.5,Detroit Lions,2020
+CB,Desmond Trufant,70.3,Detroit Lions,2020
+LG,Joe Dahl,64.9,Detroit Lions,2020
+CB,Jeffrey Okudah,82.8,Detroit Lions,2020
+C,Frank Ragnow,74.9,Detroit Lions,2020
+CB,Justin Coleman,60.7,Detroit Lions,2020
+RG,Jonah Jackson,78.7,Detroit Lions,2020
+S,Tracy Walker,73.5,Detroit Lions,2020
+RT,Halapoulivaati Vaitai,74.4,Detroit Lions,2020
+S,Duron Harmon,74.4,Detroit Lions,2020
+QB,Matt Ryan,75.8,Atlanta Falcons,2020
+DI,Grady Jarrett,90.1,Atlanta Falcons,2020
+RB,Todd Gurley II,67.0,Atlanta Falcons,2020
+DI,Tyeler Davison,67.5,Atlanta Falcons,2020
+RB,Brian Hill,58.9,Atlanta Falcons,2020
+DI,Marlon Davidson,81.0,Atlanta Falcons,2020
+TE,Hayden Hurst,73.1,Atlanta Falcons,2020
+Edge,Dante Fowler Jr.,72.0,Atlanta Falcons,2020
+WR,Julio Jones,90.6,Atlanta Falcons,2020
+Edge,Takkarist McKinley,67.0,Atlanta Falcons,2020
+WR,Calvin Ridley,74.9,Atlanta Falcons,2020
+LB,Deion Jones,76.6,Atlanta Falcons,2020
+WR,Russell Gage,66.3,Atlanta Falcons,2020
+LB,Foyesade Oluokun,62.6,Atlanta Falcons,2020
+LT,Jake Matthews,79.7,Atlanta Falcons,2020
+CB,A.J. Terrell,76.6,Atlanta Falcons,2020
+LG,Matt Hennessy,87.7,Atlanta Falcons,2020
+CB,Isaiah Oliver,56.8,Atlanta Falcons,2020
+C,Alex Mack,72.1,Atlanta Falcons,2020
+CB,Kendall Sheffield,47.5,Atlanta Falcons,2020
+RG,Chris Lindstrom,66.6,Atlanta Falcons,2020
+S,Keanu Neal,72.0,Atlanta Falcons,2020
+RT,Kaleb McGary,53.0,Atlanta Falcons,2020
+S,Ricardo Allen,58.7,Atlanta Falcons,2020
+QB,Nick Foles,76.6,Chicago Bears,2020
+DI,Akiem Hicks,91.7,Chicago Bears,2020
+RB,David Montgomery,66.6,Chicago Bears,2020
+DI,Eddie Goldman,70.7,Chicago Bears,2020
+RB,Tarik Cohen,60.6,Chicago Bears,2020
+DI,Bilal Nichols,52.0,Chicago Bears,2020
+TE,Jimmy Graham,58.0,Chicago Bears,2020
+Edge,Khalil Mack,86.2,Chicago Bears,2020
+WR,Allen Robinson,80.8,Chicago Bears,2020
+Edge,Robert Quinn,68.5,Chicago Bears,2020
+WR,Anthony Miller,66.0,Chicago Bears,2020
+LB,Roquan Smith,52.4,Chicago Bears,2020
+WR,Ted Ginn Jr.,56.7,Chicago Bears,2020
+LB,Danny Trevathan,61.9,Chicago Bears,2020
+LT,Charles Leno Jr.,58.6,Chicago Bears,2020
+CB,Kyle Fuller,62.5,Chicago Bears,2020
+LG,James Daniels,69.9,Chicago Bears,2020
+CB,Jaylon Johnson,83.8,Chicago Bears,2020
+C,Cody Whitehair,64.9,Chicago Bears,2020
+CB,Buster Skrine,59.8,Chicago Bears,2020
+RG,Germain Ifedi,58.8,Chicago Bears,2020
+S,Tashaun Gipson Sr.,59.5,Chicago Bears,2020
+RT,Bobby Massie,63.2,Chicago Bears,2020
+S,Eddie Jackson,66.8,Chicago Bears,2020
+QB,Jared Goff,72.4,Los Angeles Rams,2020
+DI,Aaron Donald,93.6,Los Angeles Rams,2020
+RB,Cam Akers,79.2,Los Angeles Rams,2020
+DI,A'Shawn Robinson,56.0,Los Angeles Rams,2020
+RB,Darrell Henderson Jr.,88.1,Los Angeles Rams,2020
+DI,Michael Brockers,74.6,Los Angeles Rams,2020
+TE,Tyler Higbee,86.1,Los Angeles Rams,2020
+Edge,Leonard Floyd,69.7,Los Angeles Rams,2020
+WR,Robert Woods,82.2,Los Angeles Rams,2020
+Edge,Samson Ebukam,66.7,Los Angeles Rams,2020
+WR,Cooper Kupp,74.6,Los Angeles Rams,2020
+LB,Micah Kiser,73.3,Los Angeles Rams,2020
+WR,Josh Reynolds,65.9,Los Angeles Rams,2020
+LB,Travin Howard,60.7,Los Angeles Rams,2020
+LT,Andrew Whitworth,72.8,Los Angeles Rams,2020
+CB,Jalen Ramsey,71.5,Los Angeles Rams,2020
+LG,Austin Corbett,51.8,Los Angeles Rams,2020
+CB,Troy Hill,76.4,Los Angeles Rams,2020
+C,Austin Blythe,50.3,Los Angeles Rams,2020
+S,Terrell Burgess,85.3,Los Angeles Rams,2020
+RG,David Edwards,61.0,Los Angeles Rams,2020
+S,Taylor Rapp,63.2,Los Angeles Rams,2020
+RT,Rob Havenstein,50.9,Los Angeles Rams,2020
+S,John Johnson III,53.5,Los Angeles Rams,2020
+QB,Deshaun Watson,82.4,Houston Texans,2020
+DI,Brandon Dunn,55.3,Houston Texans,2020
+RB,David Johnson,72.2,Houston Texans,2020
+DI,Ross Blacklock,81.5,Houston Texans,2020
+RB,Duke Johnson,75.9,Houston Texans,2020
+DI,Charles Omenihu,59.8,Houston Texans,2020
+TE,Darren Fells,56.6,Houston Texans,2020
+Edge,J.J. Watt,87.0,Houston Texans,2020
+WR,Brandin Cooks,68.1,Houston Texans,2020
+Edge,Whitney Mercilus,63.7,Houston Texans,2020
+WR,Will Fuller V,75.2,Houston Texans,2020
+LB,Zach Cunningham,68.6,Houston Texans,2020
+WR,Randall Cobb,69.9,Houston Texans,2020
+LB,Benardrick McKinney,65.8,Houston Texans,2020
+LT,Laremy Tunsil,75.1,Houston Texans,2020
+CB,Bradley Roby,64.0,Houston Texans,2020
+LG,Max Scharping,59.1,Houston Texans,2020
+CB,Gareon Conley,64.5,Houston Texans,2020
+C,Nick Martin,67.3,Houston Texans,2020
+CB,John Reid,73.4,Houston Texans,2020
+RG,Zach Fulton,53.4,Houston Texans,2020
+S,Eric Murray,62.5,Houston Texans,2020
+RT,Tytus Howard,59.4,Houston Texans,2020
+S,Justin Reid,76.7,Houston Texans,2020
+QB,Kyler Murray,64.2,Arizona Cardinals,2020
+DI,Jordan Phillips,51.8,Arizona Cardinals,2020
+RB,Kenyan Drake,71.2,Arizona Cardinals,2020
+DI,Corey Peters,65.1,Arizona Cardinals,2020
+RB,Chase Edmonds,69.8,Arizona Cardinals,2020
+DI,Zach Allen,90.9,Arizona Cardinals,2020
+TE,Maxx Williams,79.1,Arizona Cardinals,2020
+Edge,Chandler Jones,84.9,Arizona Cardinals,2020
+WR,DeAndre Hopkins,87.8,Arizona Cardinals,2020
+Edge,Devon Kennard,69.1,Arizona Cardinals,2020
+WR,Christian Kirk,62.5,Arizona Cardinals,2020
+LB,Isaiah Simmons,88.5,Arizona Cardinals,2020
+WR,Larry Fitzgerald,70.3,Arizona Cardinals,2020
+LB,Jordan Hicks,61.0,Arizona Cardinals,2020
+LT,D.J. Humphries,64.5,Arizona Cardinals,2020
+CB,Patrick Peterson,68.6,Arizona Cardinals,2020
+LG,Justin Pugh,66.8,Arizona Cardinals,2020
+CB,Robert Alford,56.6,Arizona Cardinals,2020
+C,Mason Cole,52.5,Arizona Cardinals,2020
+CB,Byron Murphy Jr.,48.8,Arizona Cardinals,2020
+RG,J.R. Sweezy,61.6,Arizona Cardinals,2020
+S,Budda Baker,71.4,Arizona Cardinals,2020
+RT,Marcus Gilbert,69.6,Arizona Cardinals,2020
+S,Jalen Thompson,64.4,Arizona Cardinals,2020
+QB,Derek Carr,79.9,Las Vegas Raiders,2020
+DI,Maurice Hurst,73.1,Las Vegas Raiders,2020
+RB,Josh Jacobs,87.1,Las Vegas Raiders,2020
+DI,Johnathan Hankins,63.8,Las Vegas Raiders,2020
+RB,Lynn Bowden Jr.,73.0,Las Vegas Raiders,2020
+Edge,Maxx Crosby,65.5,Las Vegas Raiders,2020
+TE,Darren Waller,83.2,Las Vegas Raiders,2020
+Edge,Clelin Ferrell,62.2,Las Vegas Raiders,2020
+WR,Henry Ruggs III,75.0,Las Vegas Raiders,2020
+LB,Cory Littleton,79.0,Las Vegas Raiders,2020
+WR,Tyrell Williams,66.5,Las Vegas Raiders,2020
+LB,Nick Kwiatkoski,72.6,Las Vegas Raiders,2020
+WR,Hunter Renfrow,75.5,Las Vegas Raiders,2020
+LB,Nicholas Morrow,45.5,Las Vegas Raiders,2020
+LT,Kolton Miller,64.9,Las Vegas Raiders,2020
+CB,Prince Amukamara,67.4,Las Vegas Raiders,2020
+LG,Richie Incognito,74.0,Las Vegas Raiders,2020
+CB,Trayvon Mullen,64.4,Las Vegas Raiders,2020
+C,Rodney Hudson,71.0,Las Vegas Raiders,2020
+CB,Lamarcus Joyner,46.2,Las Vegas Raiders,2020
+RG,Gabe Jackson,61.8,Las Vegas Raiders,2020
+S,Johnathan Abram,77.9,Las Vegas Raiders,2020
+RT,Trent Brown,69.1,Las Vegas Raiders,2020
+S,Damarious Randall,69.3,Las Vegas Raiders,2020
+QB,Joe Burrow,95.0,Cincinnati Bengals,2020
+DI,Geno Atkins,76.2,Cincinnati Bengals,2020
+RB,Joe Mixon,75.3,Cincinnati Bengals,2020
+DI,D.J. Reader,85.5,Cincinnati Bengals,2020
+RB,Giovani Bernard,51.8,Cincinnati Bengals,2020
+Edge,Carlos Dunlap,89.7,Cincinnati Bengals,2020
+TE,C.J. Uzomah,49.4,Cincinnati Bengals,2020
+Edge,Sam Hubbard,67.1,Cincinnati Bengals,2020
+WR,A.J. Green,85.2,Cincinnati Bengals,2020
+LB,Logan Wilson,90.6,Cincinnati Bengals,2020
+WR,Tee Higgins,90.5,Cincinnati Bengals,2020
+LB,Germaine Pratt,51.2,Cincinnati Bengals,2020
+WR,Tyler Boyd,73.0,Cincinnati Bengals,2020
+LB,Akeem Davis-Gaither,76.5,Cincinnati Bengals,2020
+LT,Jonah Williams,89.2,Cincinnati Bengals,2020
+CB,William Jackson III,53.6,Cincinnati Bengals,2020
+LG,Michael Jordan,43.7,Cincinnati Bengals,2020
+CB,Trae Waynes,67.0,Cincinnati Bengals,2020
+C,Trey Hopkins,62.4,Cincinnati Bengals,2020
+CB,Mackensie Alexander,65.7,Cincinnati Bengals,2020
+RG,Xavier Su'a-Filo,60.1,Cincinnati Bengals,2020
+S,Vonn Bell,64.9,Cincinnati Bengals,2020
+RT,Bobby Hart,57.7,Cincinnati Bengals,2020
+S,Jessie Bates III,59.6,Cincinnati Bengals,2020
+QB,Daniel Jones,65.7,New York Giants,2020
+DI,Leonard Williams,70.5,New York Giants,2020
+RB,Saquon Barkley,72.2,New York Giants,2020
+DI,Dalvin Tomlinson,78.1,New York Giants,2020
+RB,Dion Lewis,59.8,New York Giants,2020
+DI,Dexter Lawrence,76.1,New York Giants,2020
+TE,Evan Engram,64.1,New York Giants,2020
+Edge,Kyler Fackrell,58.0,New York Giants,2020
+WR,Sterling Shepard,75.8,New York Giants,2020
+Edge,Oshane Ximines,60.8,New York Giants,2020
+WR,Golden Tate,73.9,New York Giants,2020
+LB,Blake Martinez,57.9,New York Giants,2020
+WR,Darius Slayton,70.3,New York Giants,2020
+LB,David Mayo,72.8,New York Giants,2020
+LT,Andrew Thomas,92.7,New York Giants,2020
+CB,James Bradberry,61.7,New York Giants,2020
+LG,Will Hernandez,58.4,New York Giants,2020
+CB,DeAndre Baker,48.4,New York Giants,2020
+C,Spencer Pulley,56.7,New York Giants,2020
+CB,Julian Love,70.5,New York Giants,2020
+RG,Kevin Zeitler,76.4,New York Giants,2020
+S,Xavier McKinney,87.6,New York Giants,2020
+RT,Nate Solder,64.8,New York Giants,2020
+S,Jabrill Peppers,66.6,New York Giants,2020
+QB,Sam Darnold,63.2,New York Jets,2020
+DI,Quinnen Williams,67.4,New York Jets,2020
+RB,Le'Veon Bell,73.8,New York Jets,2020
+DI,Steve McLendon,81.3,New York Jets,2020
+TE,Ryan Griffin,61.9,New York Jets,2020
+DI,Henry Anderson,55.8,New York Jets,2020
+TE,Chris Herndon,74.4,New York Jets,2020
+Edge,Jordan Jenkins,66.9,New York Jets,2020
+WR,Breshad Perriman,72.8,New York Jets,2020
+Edge,Tarell Basham,73.1,New York Jets,2020
+WR,Jamison Crowder,73.0,New York Jets,2020
+LB,C.J. Mosley,73.6,New York Jets,2020
+WR,Denzel Mims,81.9,New York Jets,2020
+LB,Avery Williamson,73.9,New York Jets,2020
+LT,Mekhi Becton,83.0,New York Jets,2020
+CB,Pierre Desir,58.8,New York Jets,2020
+LG,Alex Lewis,56.1,New York Jets,2020
+CB,Blessuan Austin,71.4,New York Jets,2020
+C,Connor McGovern,72.0,New York Jets,2020
+CB,Brian Poole,79.0,New York Jets,2020
+RG,Greg Van Roten,65.6,New York Jets,2020
+S,Jamal Adams,87.9,New York Jets,2020
+RT,George Fant,60.6,New York Jets,2020
+S,Marcus Maye,74.6,New York Jets,2020
+QB,Teddy Bridgewater,73.0,Carolina Panthers,2020
+Edge,Brian Burns,63.7,Carolina Panthers,2020
+RB,Christian McCaffrey,86.6,Carolina Panthers,2020
+DI,Kawann Short,83.7,Carolina Panthers,2020
+RB,Mike Davis,74.6,Carolina Panthers,2020
+DI,Derrick Brown,90.4,Carolina Panthers,2020
+TE,Ian Thomas,51.8,Carolina Panthers,2020
+Edge,Yetur Gross-Matos,84.7,Carolina Panthers,2020
+WR,DJ Moore,82.3,Carolina Panthers,2020
+LB,Shaq Thompson,65.9,Carolina Panthers,2020
+WR,Robby Anderson,68.6,Carolina Panthers,2020
+LB,Tahir Whitehead,55.2,Carolina Panthers,2020
+WR,Curtis Samuel,62.7,Carolina Panthers,2020
+LB,Jermaine Carter,54.0,Carolina Panthers,2020
+LT,Russell Okung,79.3,Carolina Panthers,2020
+CB,Donte Jackson,55.6,Carolina Panthers,2020
+LG,John Miller,58.6,Carolina Panthers,2020
+CB,Eli Apple,63.8,Carolina Panthers,2020
+C,Matt Paradis,63.4,Carolina Panthers,2020
+S,Jeremy Chinn,86.7,Carolina Panthers,2020
+RG,Michael Schofield III,63.6,Carolina Panthers,2020
+S,Juston Burris,69.5,Carolina Panthers,2020
+RT,Taylor Moton,76.2,Carolina Panthers,2020
+S,Tre Boston,76.4,Carolina Panthers,2020
+QB,Ryan Fitzpatrick,76.5,Miami Dolphins,2020
+DI,Christian Wilkins,64.4,Miami Dolphins,2020
+RB,Jordan Howard,69.0,Miami Dolphins,2020
+DI,Davon Godchaux,64.1,Miami Dolphins,2020
+RB,Matt Breida,68.3,Miami Dolphins,2020
+DI,Raekwon Davis,81.1,Miami Dolphins,2020
+TE,Mike Gesicki,60.5,Miami Dolphins,2020
+Edge,Kyle Van Noy,84.2,Miami Dolphins,2020
+WR,DeVante Parker,79.2,Miami Dolphins,2020
+Edge,Shaq Lawson,67.9,Miami Dolphins,2020
+WR,Preston Williams,67.7,Miami Dolphins,2020
+LB,Jerome Baker,46.2,Miami Dolphins,2020
+WR,Albert Wilson,62.3,Miami Dolphins,2020
+LB,Raekwon McMillan,63.9,Miami Dolphins,2020
+LT,Austin Jackson,74.1,Miami Dolphins,2020
+CB,Byron Jones,76.1,Miami Dolphins,2020
+LG,Ereck Flowers,64.2,Miami Dolphins,2020
+CB,Xavien Howard,77.3,Miami Dolphins,2020
+C,Ted Karras,66.5,Miami Dolphins,2020
+CB,Noah Igbinoghene,71.3,Miami Dolphins,2020
+RG,Robert Hunt,87.1,Miami Dolphins,2020
+S,Eric Rowe,58.9,Miami Dolphins,2020
+RT,Jesse Davis,58.9,Miami Dolphins,2020
+S,Bobby McCain,61.9,Miami Dolphins,2020
+QB,Dwayne Haskins Jr.,67.6,Washington Commanders,2020
+DI,Jonathan Allen,60.5,Washington Commanders,2020
+RB,Derrius Guice,76.0,Washington Commanders,2020
+DI,Daron Payne,67.4,Washington Commanders,2020
+RB,Adrian Peterson,67.7,Washington Commanders,2020
+Edge,Chase Young,96.0,Washington Commanders,2020
+TE,Jeremy Sprinkle,49.8,Washington Commanders,2020
+Edge,Montez Sweat,60.2,Washington Commanders,2020
+WR,Terry McLaurin,85.7,Washington Commanders,2020
+LB,Cole Holcomb,56.0,Washington Commanders,2020
+WR,Steven Sims Jr.,64.4,Washington Commanders,2020
+LB,Thomas Davis Sr.,61.7,Washington Commanders,2020
+WR,Kelvin Harmon,63.9,Washington Commanders,2020
+LB,Jon Bostic,55.3,Washington Commanders,2020
+LT,Cornelius Lucas III,72.2,Washington Commanders,2020
+CB,Ronald Darby,44.8,Washington Commanders,2020
+LG,Wes Schweitzer,56.4,Washington Commanders,2020
+CB,Kendall Fuller,70.1,Washington Commanders,2020
+C,Chase Roullier,69.3,Washington Commanders,2020
+CB,Fabian Moreau,52.7,Washington Commanders,2020
+RG,Brandon Scherff,75.0,Washington Commanders,2020
+S,Landon Collins,69.3,Washington Commanders,2020
+RT,Morgan Moses,65.2,Washington Commanders,2020
+S,Sean Davis,69.7,Washington Commanders,2020
+QB,Gardner Minshew II,70.3,Jacksonville Jaguars,2020
+DI,Taven Bryan,75.6,Jacksonville Jaguars,2020
+RB,Leonard Fournette,64.0,Jacksonville Jaguars,2020
+DI,Davon Hamilton,82.3,Jacksonville Jaguars,2020
+RB,Chris Thompson,65.4,Jacksonville Jaguars,2020
+DI,Rodney Gunter,65.6,Jacksonville Jaguars,2020
+TE,Tyler Eifert,65.7,Jacksonville Jaguars,2020
+Edge,Josh Allen,68.4,Jacksonville Jaguars,2020
+WR,DJ Chark Jr.,75.2,Jacksonville Jaguars,2020
+Edge,K'Lavon Chaisson,73.0,Jacksonville Jaguars,2020
+WR,Dede Westbrook,63.5,Jacksonville Jaguars,2020
+LB,Joe Schobert,59.1,Jacksonville Jaguars,2020
+WR,Chris Conley,62.7,Jacksonville Jaguars,2020
+LB,Myles Jack,46.1,Jacksonville Jaguars,2020
+LT,Cam Robinson,54.8,Jacksonville Jaguars,2020
+CB,CJ Henderson,62.6,Jacksonville Jaguars,2020
+LG,Andrew Norwell,65.5,Jacksonville Jaguars,2020
+CB,Tre Herndon,54.7,Jacksonville Jaguars,2020
+C,Brandon Linder,75.3,Jacksonville Jaguars,2020
+CB,D.J. Hayden,76.9,Jacksonville Jaguars,2020
+RG,A.J. Cann,55.3,Jacksonville Jaguars,2020
+S,Ronnie Harrison,60.9,Jacksonville Jaguars,2020
+RT,Jawaan Taylor,63.8,Jacksonville Jaguars,2020
+S,Jarrod Wilson,72.8,Jacksonville Jaguars,2020

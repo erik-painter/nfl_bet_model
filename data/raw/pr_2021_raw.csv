@@ -1,0 +1,767 @@
+Position,Name,Rating,Team,Season
+QB,Tom Brady,93.3,Tampa Bay Buccaneers,2021
+DI,Ndamukong Suh,62.4,Tampa Bay Buccaneers,2021
+RB,Leonard Fournette,65.5,Tampa Bay Buccaneers,2021
+DI,Vita Vea,89.9,Tampa Bay Buccaneers,2021
+WR,Mike Evans,74.9,Tampa Bay Buccaneers,2021
+DI,William Gholston,61.6,Tampa Bay Buccaneers,2021
+WR,Chris Godwin,76.0,Tampa Bay Buccaneers,2021
+Edge,Shaquil Barrett,74.7,Tampa Bay Buccaneers,2021
+WR,Antonio Brown,82.2,Tampa Bay Buccaneers,2021
+Edge,Jason Pierre-Paul,66.3,Tampa Bay Buccaneers,2021
+TE,Rob Gronkowski,70.9,Tampa Bay Buccaneers,2021
+LB,Lavonte David,78.8,Tampa Bay Buccaneers,2021
+TE,O.J. Howard,54.7,Tampa Bay Buccaneers,2021
+LB,Devin White,48.1,Tampa Bay Buccaneers,2021
+LT,Donovan Smith,72.8,Tampa Bay Buccaneers,2021
+CB,Carlton Davis,65.7,Tampa Bay Buccaneers,2021
+LG,Ali Marpet,80.7,Tampa Bay Buccaneers,2021
+CB,Jamel Dean,76.4,Tampa Bay Buccaneers,2021
+C,Ryan Jensen,63.6,Tampa Bay Buccaneers,2021
+CB,Sean Murphy-Bunting,59.6,Tampa Bay Buccaneers,2021
+RG,Alex Cappa,67.7,Tampa Bay Buccaneers,2021
+S,Antoine Winfield Jr.,67.2,Tampa Bay Buccaneers,2021
+RT,Tristan Wirfs,84.1,Tampa Bay Buccaneers,2021
+S,Jordan Whitehead,70.0,Tampa Bay Buccaneers,2021
+QB,Patrick Mahomes,91.8,Kansas City Chiefs,2021
+DI,Chris Jones,90.3,Kansas City Chiefs,2021
+RB,Clyde Edwards-Helaire,77.2,Kansas City Chiefs,2021
+DI,Jarran Reed,56.5,Kansas City Chiefs,2021
+RB,Darrel Williams,65.3,Kansas City Chiefs,2021
+Edge,Frank Clark,54.3,Kansas City Chiefs,2021
+WR,Tyreek Hill,84.5,Kansas City Chiefs,2021
+Edge,Taco Charlton,51.6,Kansas City Chiefs,2021
+WR,Mecole Hardman,68.3,Kansas City Chiefs,2021
+LB,Anthony Hitchens,49.7,Kansas City Chiefs,2021
+WR,Demarcus Robinson,60.7,Kansas City Chiefs,2021
+LB,Willie Gay Jr.,68.1,Kansas City Chiefs,2021
+TE,Travis Kelce,93.8,Kansas City Chiefs,2021
+CB,Charvarius Ward,64.3,Kansas City Chiefs,2021
+LT,Orlando Brown Jr.,77.8,Kansas City Chiefs,2021
+CB,L'Jarius Sneed,68.4,Kansas City Chiefs,2021
+LG,Joe Thuney,74.2,Kansas City Chiefs,2021
+CB,Rashad Fenton,70.0,Kansas City Chiefs,2021
+C,Creed Humphrey,80.9,Kansas City Chiefs,2021
+S,Tyrann Mathieu,67.0,Kansas City Chiefs,2021
+RG,Laurent Duvernay-Tardif,59.7,Kansas City Chiefs,2021
+S,Juan Thornhill,59.0,Kansas City Chiefs,2021
+RT,Mike Remmers,71.3,Kansas City Chiefs,2021
+S,Daniel Sorensen,48.4,Kansas City Chiefs,2021
+QB,Baker Mayfield,85.7,Cleveland Browns,2021
+DI,Andrew Billings,69.3,Cleveland Browns,2021
+RB,Nick Chubb,88.3,Cleveland Browns,2021
+DI,Malik Jackson,64.7,Cleveland Browns,2021
+RB,Kareem Hunt,74.4,Cleveland Browns,2021
+Edge,Myles Garrett,86.5,Cleveland Browns,2021
+WR,Odell Beckham Jr.,75.3,Cleveland Browns,2021
+Edge,Jadeveon Clowney,74.9,Cleveland Browns,2021
+WR,Jarvis Landry,84.7,Cleveland Browns,2021
+LB,Jeremiah Owusu-Koramoah,79.7,Cleveland Browns,2021
+WR,Rashard Higgins,73.4,Cleveland Browns,2021
+LB,Anthony Walker,45.5,Cleveland Browns,2021
+TE,Austin Hooper,69.8,Cleveland Browns,2021
+CB,Denzel Ward,70.5,Cleveland Browns,2021
+LT,Jedrick Wills Jr.,62.6,Cleveland Browns,2021
+CB,Greg Newsome II,79.8,Cleveland Browns,2021
+LG,Joel Bitonio,85.5,Cleveland Browns,2021
+CB,Troy Hill,69.9,Cleveland Browns,2021
+C,JC Tretter,81.0,Cleveland Browns,2021
+S,John Johnson III,85.3,Cleveland Browns,2021
+RG,Wyatt Teller,92.3,Cleveland Browns,2021
+S,Ronnie Harrison Jr.,76.6,Cleveland Browns,2021
+RT,Jack Conklin,84.0,Cleveland Browns,2021
+S,Grant Delpit,66.3,Cleveland Browns,2021
+QB,Josh Allen,90.3,Buffalo Bills,2021
+DI,Ed Oliver,45.8,Buffalo Bills,2021
+RB,Zack Moss,73.0,Buffalo Bills,2021
+DI,Star Lotulelei,58.6,Buffalo Bills,2021
+RB,Devin Singletary,66.0,Buffalo Bills,2021
+Edge,Jerry Hughes,75.6,Buffalo Bills,2021
+WR,Stefon Diggs,90.2,Buffalo Bills,2021
+Edge,Mario Addison,59.5,Buffalo Bills,2021
+WR,Cole Beasley,81.7,Buffalo Bills,2021
+LB,Tremaine Edmunds,41.2,Buffalo Bills,2021
+WR,Emmanuel Sanders,74.4,Buffalo Bills,2021
+LB,Matt Milano,55.6,Buffalo Bills,2021
+TE,Dawson Knox,61.3,Buffalo Bills,2021
+LB,A.J. Klein,46.4,Buffalo Bills,2021
+LT,Dion Dawkins,80.6,Buffalo Bills,2021
+CB,Tre'Davious White,68.5,Buffalo Bills,2021
+LG,Cody Ford,53.8,Buffalo Bills,2021
+CB,Levi Wallace,68.3,Buffalo Bills,2021
+C,Mitch Morse,63.3,Buffalo Bills,2021
+CB,Taron Johnson,61.5,Buffalo Bills,2021
+RG,Jon Feliciano,64.8,Buffalo Bills,2021
+S,Micah Hyde,70.3,Buffalo Bills,2021
+RT,Daryl Williams,79.2,Buffalo Bills,2021
+S,Jordan Poyer,71.3,Buffalo Bills,2021
+QB,Lamar Jackson,79.3,Baltimore Ravens,2021
+DI,Calais Campbell,74.7,Baltimore Ravens,2021
+RB,J.K. Dobbins,72.0,Baltimore Ravens,2021
+DI,Brandon Williams,70.3,Baltimore Ravens,2021
+RB,Gus Edwards,85.5,Baltimore Ravens,2021
+DI,Derek Wolfe,68.2,Baltimore Ravens,2021
+WR,Marquise Brown,74.6,Baltimore Ravens,2021
+Edge,Tyus Bowser,68.3,Baltimore Ravens,2021
+WR,Sammy Watkins,64.5,Baltimore Ravens,2021
+Edge,Pernell McPhee,72.4,Baltimore Ravens,2021
+TE,Mark Andrews,76.5,Baltimore Ravens,2021
+LB,Patrick Queen,29.7,Baltimore Ravens,2021
+TE,Nick Boyle,70.6,Baltimore Ravens,2021
+LB,L.J. Fort,71.5,Baltimore Ravens,2021
+LT,Ronnie Stanley,79.9,Baltimore Ravens,2021
+CB,Marlon Humphrey,76.4,Baltimore Ravens,2021
+LG,Ben Cleveland,78.8,Baltimore Ravens,2021
+CB,Marcus Peters,67.2,Baltimore Ravens,2021
+C,Bradley Bozeman,63.6,Baltimore Ravens,2021
+CB,Tavon Young,62.7,Baltimore Ravens,2021
+RG,Kevin Zeitler,65.9,Baltimore Ravens,2021
+S,Chuck Clark,69.8,Baltimore Ravens,2021
+RT,Alejandro Villanueva,74.9,Baltimore Ravens,2021
+S,DeShon Elliott,69.6,Baltimore Ravens,2021
+QB,Aaron Rodgers,95.1,Green Bay Packers,2021
+DI,Dean Lowry,60.0,Green Bay Packers,2021
+RB,Aaron Jones,75.6,Green Bay Packers,2021
+DI,Kenny Clark,76.1,Green Bay Packers,2021
+RB,AJ Dillon,78.3,Green Bay Packers,2021
+DI,Kingsley Keke,69.1,Green Bay Packers,2021
+WR,Davante Adams,92.0,Green Bay Packers,2021
+Edge,Za'Darius Smith,76.3,Green Bay Packers,2021
+WR,Marquez Valdes-Scantling,60.6,Green Bay Packers,2021
+Edge,Rashan Gary,68.1,Green Bay Packers,2021
+WR,Allen Lazard,72.4,Green Bay Packers,2021
+LB,Krys Barnes,43.0,Green Bay Packers,2021
+TE,Robert Tonyan,68.5,Green Bay Packers,2021
+LB,Kamal Martin,68.5,Green Bay Packers,2021
+LT,David Bakhtiari,91.8,Green Bay Packers,2021
+CB,Jaire Alexander,90.7,Green Bay Packers,2021
+LG,Elgton Jenkins,66.9,Green Bay Packers,2021
+CB,Kevin King,50.6,Green Bay Packers,2021
+C,Josh Myers,65.4,Green Bay Packers,2021
+CB,Chandon Sullivan,60.2,Green Bay Packers,2021
+RG,Lucas Patrick,66.9,Green Bay Packers,2021
+S,Darnell Savage,72.1,Green Bay Packers,2021
+RT,Billy Turner,70.5,Green Bay Packers,2021
+S,Adrian Amos,89.9,Green Bay Packers,2021
+QB,Matthew Stafford,82.0,Los Angeles Rams,2021
+DI,Aaron Donald,94.2,Los Angeles Rams,2021
+RB,Cam Akers,75.7,Los Angeles Rams,2021
+DI,Sebastian Joseph-Day,76.8,Los Angeles Rams,2021
+RB,Darrell Henderson Jr.,80.4,Los Angeles Rams,2021
+DI,A'Shawn Robinson,56.0,Los Angeles Rams,2021
+WR,Robert Woods,71.4,Los Angeles Rams,2021
+Edge,Leonard Floyd,69.5,Los Angeles Rams,2021
+WR,Cooper Kupp,81.6,Los Angeles Rams,2021
+Edge,Ogbonnia Okoronkwo,67.1,Los Angeles Rams,2021
+WR,DeSean Jackson,79.4,Los Angeles Rams,2021
+LB,Micah Kiser,40.0,Los Angeles Rams,2021
+TE,Tyler Higbee,67.6,Los Angeles Rams,2021
+LB,Ernest Jones,67.5,Los Angeles Rams,2021
+LT,Andrew Whitworth,86.8,Los Angeles Rams,2021
+CB,Jalen Ramsey,77.3,Los Angeles Rams,2021
+LG,David Edwards,70.5,Los Angeles Rams,2021
+CB,Darious Williams,81.0,Los Angeles Rams,2021
+C,Austin Corbett,73.4,Los Angeles Rams,2021
+CB,David Long Jr.,53.4,Los Angeles Rams,2021
+RG,Bobby Evans,49.4,Los Angeles Rams,2021
+S,Jordan Fuller,65.6,Los Angeles Rams,2021
+RT,Rob Havenstein,80.6,Los Angeles Rams,2021
+S,Terrell Burgess,85.3,Los Angeles Rams,2021
+QB,Dak Prescott,85.2,Dallas Cowboys,2021
+DI,Neville Gallimore,52.1,Dallas Cowboys,2021
+RB,Ezekiel Elliott,65.3,Dallas Cowboys,2021
+DI,Brent Urban,76.5,Dallas Cowboys,2021
+RB,Tony Pollard,71.3,Dallas Cowboys,2021
+Edge,DeMarcus Lawrence,88.6,Dallas Cowboys,2021
+WR,Amari Cooper,75.9,Dallas Cowboys,2021
+Edge,Randy Gregory,80.5,Dallas Cowboys,2021
+WR,CeeDee Lamb,71.6,Dallas Cowboys,2021
+LB,Micah Parsons,91.6,Dallas Cowboys,2021
+WR,Michael Gallup,66.3,Dallas Cowboys,2021
+LB,Leighton Vander Esch,50.6,Dallas Cowboys,2021
+TE,Blake Jarwin,61.4,Dallas Cowboys,2021
+LB,Jaylon Smith,54.2,Dallas Cowboys,2021
+LT,Tyron Smith,76.6,Dallas Cowboys,2021
+CB,Trevon Diggs,62.7,Dallas Cowboys,2021
+LG,Connor Williams,70.8,Dallas Cowboys,2021
+CB,Kelvin Joseph,70.2,Dallas Cowboys,2021
+C,Tyler Biadasz,53.5,Dallas Cowboys,2021
+CB,Jourdan Lewis,48.1,Dallas Cowboys,2021
+RG,Zack Martin,91.3,Dallas Cowboys,2021
+S,Donovan Wilson,72.0,Dallas Cowboys,2021
+RT,La'el Collins,86.4,Dallas Cowboys,2021
+S,Damontae Kazee,65.1,Dallas Cowboys,2021
+QB,Kirk Cousins,83.5,Minnesota Vikings,2021
+DI,Dalvin Tomlinson,75.1,Minnesota Vikings,2021
+RB,Dalvin Cook,89.0,Minnesota Vikings,2021
+DI,Michael Pierce,69.1,Minnesota Vikings,2021
+Edge,Danielle Hunter,89.0,Minnesota Vikings,2021
+WR,Justin Jefferson,90.4,Minnesota Vikings,2021
+Edge,Stephen Weatherly,53.7,Minnesota Vikings,2021
+WR,Adam Thielen,87.4,Minnesota Vikings,2021
+LB,Eric Kendricks,82.6,Minnesota Vikings,2021
+TE,Irv Smith Jr.,70.0,Minnesota Vikings,2021
+LB,Anthony Barr,56.3,Minnesota Vikings,2021
+TE,Tyler Conklin,52.6,Minnesota Vikings,2021
+LB,Nick Vigil,60.6,Minnesota Vikings,2021
+LT,Christian Darrisaw,95.6,Minnesota Vikings,2021
+CB,Cameron Dantzler,70.9,Minnesota Vikings,2021
+LG,Ezra Cleveland,66.2,Minnesota Vikings,2021
+CB,Patrick Peterson,55.2,Minnesota Vikings,2021
+C,Garrett Bradbury,61.4,Minnesota Vikings,2021
+CB,Mackensie Alexander,60.4,Minnesota Vikings,2021
+RG,Wyatt Davis,66.3,Minnesota Vikings,2021
+S,Harrison Smith,74.3,Minnesota Vikings,2021
+RT,Brian O'Neill,78.0,Minnesota Vikings,2021
+S,Xavier Woods,61.9,Minnesota Vikings,2021
+QB,Drew Lock,63.5,Denver Broncos,2021
+DI,Shelby Harris,88.3,Denver Broncos,2021
+RB,Melvin Gordon III,72.5,Denver Broncos,2021
+DI,Mike Purcell,60.2,Denver Broncos,2021
+RB,Javonte Williams,94.3,Denver Broncos,2021
+DI,Dre'Mont Jones,74.7,Denver Broncos,2021
+WR,Courtland Sutton,83.1,Denver Broncos,2021
+Edge,Von Miller,79.3,Denver Broncos,2021
+WR,Jerry Jeudy,65.2,Denver Broncos,2021
+Edge,Bradley Chubb,70.7,Denver Broncos,2021
+WR,Tim Patrick,74.5,Denver Broncos,2021
+LB,Alexander Johnson,65.4,Denver Broncos,2021
+TE,Noah Fant,71.2,Denver Broncos,2021
+LB,Josey Jewell,68.1,Denver Broncos,2021
+LT,Garett Bolles,90.6,Denver Broncos,2021
+CB,Kyle Fuller,64.0,Denver Broncos,2021
+LG,Dalton Risner,61.3,Denver Broncos,2021
+CB,Ronald Darby,69.7,Denver Broncos,2021
+C,Lloyd Cushenberry III,40.5,Denver Broncos,2021
+CB,Bryce Callahan,84.1,Denver Broncos,2021
+RG,Graham Glasgow,68.5,Denver Broncos,2021
+S,Kareem Jackson,80.4,Denver Broncos,2021
+RT,Bobby Massie,72.6,Denver Broncos,2021
+S,Justin Simmons,77.4,Denver Broncos,2021
+QB,Jimmy Garoppolo,67.5,San Francisco 49ers,2021
+DI,Javon Kinlaw,54.1,San Francisco 49ers,2021
+RB,Raheem Mostert,79.3,San Francisco 49ers,2021
+DI,D.J. Jones,61.3,San Francisco 49ers,2021
+Edge,Nick Bosa,89.8,San Francisco 49ers,2021
+WR,Brandon Aiyuk,80.1,San Francisco 49ers,2021
+Edge,Arik Armstead,76.0,San Francisco 49ers,2021
+WR,Deebo Samuel,79.8,San Francisco 49ers,2021
+LB,Fred Warner,88.6,San Francisco 49ers,2021
+WR,Mohamed Sanu Sr.,65.5,San Francisco 49ers,2021
+LB,Dre Greenlaw,59.8,San Francisco 49ers,2021
+TE,George Kittle,84.9,San Francisco 49ers,2021
+LB,Azeez Al-Shaair,61.0,San Francisco 49ers,2021
+LT,Trent Williams,91.9,San Francisco 49ers,2021
+CB,Jason Verrett,77.6,San Francisco 49ers,2021
+LG,Laken Tomlinson,78.8,San Francisco 49ers,2021
+CB,Emmanuel Moseley,58.3,San Francisco 49ers,2021
+C,Alex Mack,65.9,San Francisco 49ers,2021
+CB,K'Waun Williams,66.2,San Francisco 49ers,2021
+RG,Aaron Banks,81.3,San Francisco 49ers,2021
+S,Jimmie Ward,73.5,San Francisco 49ers,2021
+RT,Mike McGlinchey,79.7,San Francisco 49ers,2021
+S,Jaquiski Tartt,65.3,San Francisco 49ers,2021
+QB,Ryan Fitzpatrick,75.1,Washington Commanders,2021
+DI,Jonathan Allen,78.4,Washington Commanders,2021
+RB,Antonio Gibson,78.6,Washington Commanders,2021
+DI,Daron Payne,70.6,Washington Commanders,2021
+RB,J.D. McKissic,62.4,Washington Commanders,2021
+Edge,Chase Young,87.1,Washington Commanders,2021
+WR,Terry McLaurin,78.5,Washington Commanders,2021
+Edge,Montez Sweat,80.0,Washington Commanders,2021
+WR,Curtis Samuel,77.0,Washington Commanders,2021
+LB,Jon Bostic,53.7,Washington Commanders,2021
+WR,Dyami Brown,82.8,Washington Commanders,2021
+LB,Cole Holcomb,64.8,Washington Commanders,2021
+TE,Logan Thomas,65.2,Washington Commanders,2021
+LB,Jamin Davis,81.6,Washington Commanders,2021
+LT,Charles Leno Jr.,74.9,Washington Commanders,2021
+CB,William Jackson III,71.4,Washington Commanders,2021
+LG,Ereck Flowers,65.9,Washington Commanders,2021
+CB,Kendall Fuller,66.7,Washington Commanders,2021
+C,Chase Roullier,76.4,Washington Commanders,2021
+CB,Jimmy Moreland,57.6,Washington Commanders,2021
+RG,Brandon Scherff,86.3,Washington Commanders,2021
+S,Landon Collins,60.0,Washington Commanders,2021
+RT,Samuel Cosmi,90.8,Washington Commanders,2021
+S,Jeremy Reaves,84.1,Washington Commanders,2021
+QB,Ryan Tannehill,90.6,Tennessee Titans,2021
+DI,Denico Autry,63.7,Tennessee Titans,2021
+RB,Derrick Henry,91.8,Tennessee Titans,2021
+DI,Teair Tart,48.7,Tennessee Titans,2021
+WR,A.J. Brown,90.4,Tennessee Titans,2021
+DI,Jeffery Simmons,83.6,Tennessee Titans,2021
+WR,Julio Jones,86.3,Tennessee Titans,2021
+Edge,Bud Dupree,60.2,Tennessee Titans,2021
+WR,Josh Reynolds,65.5,Tennessee Titans,2021
+Edge,Harold Landry III,64.9,Tennessee Titans,2021
+TE,Anthony Firkser,78.6,Tennessee Titans,2021
+LB,Jayon Brown,66.4,Tennessee Titans,2021
+TE,Geoff Swaim,60.1,Tennessee Titans,2021
+LB,Rashaan Evans,55.1,Tennessee Titans,2021
+LT,Taylor Lewan,80.2,Tennessee Titans,2021
+CB,Janoris Jenkins,66.7,Tennessee Titans,2021
+LG,Rodger Saffold III,72.8,Tennessee Titans,2021
+CB,Caleb Farley,86.9,Tennessee Titans,2021
+C,Ben Jones,78.6,Tennessee Titans,2021
+CB,Kristian Fulton,56.1,Tennessee Titans,2021
+RG,Nate Davis,71.1,Tennessee Titans,2021
+S,Kevin Byard,65.8,Tennessee Titans,2021
+RT,Dillon Radunz,77.7,Tennessee Titans,2021
+S,Amani Hooker,66.6,Tennessee Titans,2021
+QB,Carson Wentz,65.0,Indianapolis Colts,2021
+DI,DeForest Buckner,89.6,Indianapolis Colts,2021
+RB,Jonathan Taylor,80.7,Indianapolis Colts,2021
+DI,Grover Stewart,68.1,Indianapolis Colts,2021
+RB,Nyheim Hines,82.4,Indianapolis Colts,2021
+Edge,Kwity Paye,86.3,Indianapolis Colts,2021
+WR,T.Y. Hilton,75.9,Indianapolis Colts,2021
+Edge,Kemoko Turay,62.9,Indianapolis Colts,2021
+WR,Michael Pittman Jr.,62.8,Indianapolis Colts,2021
+LB,Darius Leonard,70.4,Indianapolis Colts,2021
+WR,Parris Campbell,54.7,Indianapolis Colts,2021
+LB,Bobby Okereke,47.7,Indianapolis Colts,2021
+TE,Mo Alie-Cox,80.9,Indianapolis Colts,2021
+LB,Zaire Franklin,69.3,Indianapolis Colts,2021
+LT,Eric Fisher,80.1,Indianapolis Colts,2021
+CB,Xavier Rhodes,77.3,Indianapolis Colts,2021
+LG,Quenton Nelson,87.5,Indianapolis Colts,2021
+CB,Rock Ya-Sin,49.9,Indianapolis Colts,2021
+C,Ryan Kelly,68.0,Indianapolis Colts,2021
+CB,Kenny Moore II,73.8,Indianapolis Colts,2021
+RG,Mark Glowinski,67.1,Indianapolis Colts,2021
+S,Khari Willis,70.5,Indianapolis Colts,2021
+RT,Braden Smith,80.1,Indianapolis Colts,2021
+S,Julian Blackmon,59.4,Indianapolis Colts,2021
+QB,Russell Wilson,90.5,Seattle Seahawks,2021
+DI,Poona Ford,79.8,Seattle Seahawks,2021
+RB,Chris Carson,77.3,Seattle Seahawks,2021
+DI,Al Woods,70.3,Seattle Seahawks,2021
+WR,DK Metcalf,82.5,Seattle Seahawks,2021
+Edge,Kerry Hyder Jr.,68.6,Seattle Seahawks,2021
+WR,Tyler Lockett,76.5,Seattle Seahawks,2021
+Edge,Carlos Dunlap,61.9,Seattle Seahawks,2021
+WR,D'Wayne Eskridge,86.9,Seattle Seahawks,2021
+LB,Bobby Wagner,85.1,Seattle Seahawks,2021
+TE,Will Dissly,63.6,Seattle Seahawks,2021
+LB,Jordyn Brooks,50.0,Seattle Seahawks,2021
+TE,Gerald Everett,61.3,Seattle Seahawks,2021
+LB,Darrell Taylor,80.8,Seattle Seahawks,2021
+LT,Duane Brown,87.8,Seattle Seahawks,2021
+CB,D.J. Reed Jr.,75.2,Seattle Seahawks,2021
+LG,Damien Lewis,71.2,Seattle Seahawks,2021
+CB,Ahkello Witherspoon,80.2,Seattle Seahawks,2021
+C,Ethan Pocic,59.8,Seattle Seahawks,2021
+CB,Ugo Amadi,66.8,Seattle Seahawks,2021
+RG,Gabe Jackson,63.7,Seattle Seahawks,2021
+S,Jamal Adams,62.7,Seattle Seahawks,2021
+RT,Brandon Shell,71.4,Seattle Seahawks,2021
+S,Quandre Diggs,63.1,Seattle Seahawks,2021
+QB,Ben Roethlisberger,69.0,Pittsburgh Steelers,2021
+DI,Cameron Heyward,89.5,Pittsburgh Steelers,2021
+RB,Najee Harris,89.8,Pittsburgh Steelers,2021
+DI,Tyson Alualu,86.6,Pittsburgh Steelers,2021
+WR,Chase Claypool,75.5,Pittsburgh Steelers,2021
+DI,Stephon Tuitt,75.8,Pittsburgh Steelers,2021
+WR,JuJu Smith-Schuster,70.0,Pittsburgh Steelers,2021
+Edge,T.J. Watt,91.6,Pittsburgh Steelers,2021
+WR,Diontae Johnson,70.4,Pittsburgh Steelers,2021
+Edge,Alex Highsmith,72.9,Pittsburgh Steelers,2021
+TE,Eric Ebron,57.5,Pittsburgh Steelers,2021
+LB,Devin Bush,59.7,Pittsburgh Steelers,2021
+TE,Pat Freiermuth,83.0,Pittsburgh Steelers,2021
+LB,Vince Williams,50.3,Pittsburgh Steelers,2021
+LT,Chukwuma Okorafor,57.4,Pittsburgh Steelers,2021
+CB,Joe Haden,66.6,Pittsburgh Steelers,2021
+LG,Kevin Dotson,66.2,Pittsburgh Steelers,2021
+CB,Cameron Sutton,68.9,Pittsburgh Steelers,2021
+C,Kendrick Green,88.0,Pittsburgh Steelers,2021
+CB,Justin Layne,48.3,Pittsburgh Steelers,2021
+RG,Trai Turner,34.8,Pittsburgh Steelers,2021
+S,Terrell Edmunds,71.2,Pittsburgh Steelers,2021
+RT,Zach Banner,78.6,Pittsburgh Steelers,2021
+S,Minkah Fitzpatrick,76.4,Pittsburgh Steelers,2021
+QB,Jameis Winston,68.4,New Orleans Saints,2021
+DI,David Onyemata,88.8,New Orleans Saints,2021
+RB,Alvin Kamara,82.0,New Orleans Saints,2021
+DI,Shy Tuttle,73.1,New Orleans Saints,2021
+RB,Latavius Murray,81.5,New Orleans Saints,2021
+Edge,Cameron Jordan,84.6,New Orleans Saints,2021
+WR,Michael Thomas,79.6,New Orleans Saints,2021
+Edge,Marcus Davenport,74.8,New Orleans Saints,2021
+WR,Tre'Quan Smith,61.9,New Orleans Saints,2021
+LB,Demario Davis,77.8,New Orleans Saints,2021
+WR,Marquez Callaway,68.0,New Orleans Saints,2021
+LB,Pete Werner,58.4,New Orleans Saints,2021
+TE,Adam Trautman,76.9,New Orleans Saints,2021
+LB,Zack Baun,89.6,New Orleans Saints,2021
+LT,Terron Armstead,84.9,New Orleans Saints,2021
+CB,Marshon Lattimore,59.1,New Orleans Saints,2021
+LG,Andrus Peat,61.9,New Orleans Saints,2021
+CB,Paulson Adebo,78.6,New Orleans Saints,2021
+C,Erik McCoy,69.4,New Orleans Saints,2021
+CB,C.J. Gardner-Johnson,60.3,New Orleans Saints,2021
+RG,Cesar Ruiz,53.8,New Orleans Saints,2021
+S,Malcolm Jenkins,64.4,New Orleans Saints,2021
+RT,Ryan Ramczyk,79.4,New Orleans Saints,2021
+S,Marcus Williams,78.6,New Orleans Saints,2021
+QB,Cam Newton,70.9,New England Patriots,2021
+DI,Lawrence Guy,68.2,New England Patriots,2021
+RB,Damien Harris,90.3,New England Patriots,2021
+DI,Davon Godchaux,64.2,New England Patriots,2021
+RB,James White,65.5,New England Patriots,2021
+DI,Henry Anderson,67.9,New England Patriots,2021
+WR,Nelson Agholor,73.8,New England Patriots,2021
+Edge,Matt Judon,66.0,New England Patriots,2021
+WR,Kendrick Bourne,72.0,New England Patriots,2021
+Edge,Kyle Van Noy,61.6,New England Patriots,2021
+TE,Hunter Henry,69.3,New England Patriots,2021
+LB,Dont'a Hightower,71.3,New England Patriots,2021
+TE,Jonnu Smith,74.0,New England Patriots,2021
+LB,Ja'Whaun Bentley,53.2,New England Patriots,2021
+LT,Isaiah Wynn,82.6,New England Patriots,2021
+CB,Stephon Gilmore,61.0,New England Patriots,2021
+LG,Mike Onwenu,84.3,New England Patriots,2021
+CB,J.C. Jackson,69.5,New England Patriots,2021
+C,David Andrews,67.7,New England Patriots,2021
+CB,Jonathan Jones,80.7,New England Patriots,2021
+RG,Shaq Mason,85.4,New England Patriots,2021
+S,Kyle Dugger,64.1,New England Patriots,2021
+RT,Trent Brown,68.9,New England Patriots,2021
+S,Devin McCourty,65.2,New England Patriots,2021
+QB,Daniel Jones,78.4,New York Giants,2021
+DI,Leonard Williams,79.8,New York Giants,2021
+RB,Saquon Barkley,72.2,New York Giants,2021
+DI,Danny Shelton,51.1,New York Giants,2021
+WR,Kenny Golladay,81.6,New York Giants,2021
+DI,Dexter Lawrence,79.7,New York Giants,2021
+WR,Sterling Shepard,79.6,New York Giants,2021
+Edge,Azeez Ojulari,90.0,New York Giants,2021
+WR,Darius Slayton,67.8,New York Giants,2021
+Edge,Lorenzo Carter,67.7,New York Giants,2021
+TE,Evan Engram,60.5,New York Giants,2021
+LB,Blake Martinez,75.9,New York Giants,2021
+TE,Kyle Rudolph,66.5,New York Giants,2021
+LB,Tae Crowder,36.4,New York Giants,2021
+LT,Andrew Thomas,62.4,New York Giants,2021
+CB,James Bradberry,79.8,New York Giants,2021
+LG,Will Hernandez,58.1,New York Giants,2021
+CB,Adoree' Jackson,79.9,New York Giants,2021
+C,Nick Gates,59.7,New York Giants,2021
+S,Logan Ryan,64.1,New York Giants,2021
+RG,Shane Lemieux,32.2,New York Giants,2021
+S,Jabrill Peppers,64.7,New York Giants,2021
+RT,Matt Peart,69.7,New York Giants,2021
+S,Xavier McKinney,70.0,New York Giants,2021
+QB,Justin Herbert,79.9,Los Angeles Chargers,2021
+DI,Jerry Tillery,43.9,Los Angeles Chargers,2021
+RB,Austin Ekeler,77.0,Los Angeles Chargers,2021
+DI,Linval Joseph,68.7,Los Angeles Chargers,2021
+RB,Justin Jackson,78.0,Los Angeles Chargers,2021
+DI,Justin Jones,70.6,Los Angeles Chargers,2021
+WR,Keenan Allen,84.9,Los Angeles Chargers,2021
+Edge,Joey Bosa,90.2,Los Angeles Chargers,2021
+WR,Mike Williams,72.7,Los Angeles Chargers,2021
+Edge,Uchenna Nwosu,73.2,Los Angeles Chargers,2021
+WR,Josh Palmer,70.7,Los Angeles Chargers,2021
+LB,Kenneth Murray Jr.,54.4,Los Angeles Chargers,2021
+TE,Jared Cook,69.3,Los Angeles Chargers,2021
+LB,Drue Tranquill,66.6,Los Angeles Chargers,2021
+LT,Rashawn Slater,90.0,Los Angeles Chargers,2021
+CB,Michael Davis,63.1,Los Angeles Chargers,2021
+LG,Matt Feiler,65.9,Los Angeles Chargers,2021
+CB,Chris Harris Jr.,61.9,Los Angeles Chargers,2021
+C,Corey Linsley,86.4,Los Angeles Chargers,2021
+CB,Asante Samuel Jr.,81.8,Los Angeles Chargers,2021
+RG,Oday Aboushi,66.6,Los Angeles Chargers,2021
+S,Derwin James Jr.,82.3,Los Angeles Chargers,2021
+RT,Bryan Bulaga,61.6,Los Angeles Chargers,2021
+S,Nasir Adderley,50.8,Los Angeles Chargers,2021
+QB,Kyler Murray,82.8,Arizona Cardinals,2021
+DI,J.J. Watt,85.4,Arizona Cardinals,2021
+RB,James Conner,69.4,Arizona Cardinals,2021
+DI,Leki Fotu,41.0,Arizona Cardinals,2021
+RB,Chase Edmonds,69.2,Arizona Cardinals,2021
+DI,Jordan Phillips,54.4,Arizona Cardinals,2021
+WR,DeAndre Hopkins,87.1,Arizona Cardinals,2021
+Edge,Chandler Jones,86.0,Arizona Cardinals,2021
+WR,A.J. Green,66.3,Arizona Cardinals,2021
+Edge,Markus Golden,59.9,Arizona Cardinals,2021
+WR,Christian Kirk,62.3,Arizona Cardinals,2021
+LB,Isaiah Simmons,59.9,Arizona Cardinals,2021
+TE,Maxx Williams,67.7,Arizona Cardinals,2021
+LB,Zaven Collins,90.5,Arizona Cardinals,2021
+LT,D.J. Humphries,88.3,Arizona Cardinals,2021
+CB,Malcolm Butler,74.5,Arizona Cardinals,2021
+LG,Justin Pugh,64.8,Arizona Cardinals,2021
+CB,Robert Alford,56.6,Arizona Cardinals,2021
+C,Rodney Hudson,73.6,Arizona Cardinals,2021
+CB,Byron Murphy Jr.,64.7,Arizona Cardinals,2021
+RG,Justin Murray,56.7,Arizona Cardinals,2021
+S,Budda Baker,75.3,Arizona Cardinals,2021
+RT,Kelvin Beachum,69.0,Arizona Cardinals,2021
+S,Jalen Thompson,70.1,Arizona Cardinals,2021
+QB,Tua Tagovailoa,65.4,Miami Dolphins,2021
+DI,Christian Wilkins,68.9,Miami Dolphins,2021
+RB,Myles Gaskin,74.5,Miami Dolphins,2021
+DI,Raekwon Davis,71.1,Miami Dolphins,2021
+RB,Malcolm Brown,57.8,Miami Dolphins,2021
+Edge,Emmanuel Ogbah,66.4,Miami Dolphins,2021
+WR,DeVante Parker,76.4,Miami Dolphins,2021
+Edge,Jaelan Phillips,86.6,Miami Dolphins,2021
+WR,William Fuller V,86.2,Miami Dolphins,2021
+Edge,Andrew Van Ginkel,79.3,Miami Dolphins,2021
+WR,Jaylen Waddle,82.6,Miami Dolphins,2021
+LB,Jerome Baker,55.2,Miami Dolphins,2021
+TE,Mike Gesicki,78.1,Miami Dolphins,2021
+LB,Benardrick McKinney,65.8,Miami Dolphins,2021
+LT,Austin Jackson,52.3,Miami Dolphins,2021
+CB,Xavien Howard,87.3,Miami Dolphins,2021
+LG,Solomon Kindley,51.3,Miami Dolphins,2021
+CB,Byron Jones,63.6,Miami Dolphins,2021
+C,Matt Skura,49.1,Miami Dolphins,2021
+CB,Justin Coleman,47.4,Miami Dolphins,2021
+RG,Robert Hunt,65.8,Miami Dolphins,2021
+S,Eric Rowe,58.9,Miami Dolphins,2021
+RT,Liam Eichenberg,89.9,Miami Dolphins,2021
+S,Jevon Holland,81.5,Miami Dolphins,2021
+QB,Andy Dalton,69.6,Chicago Bears,2021
+DI,Akiem Hicks,65.2,Chicago Bears,2021
+RB,David Montgomery,80.2,Chicago Bears,2021
+DI,Eddie Goldman,70.7,Chicago Bears,2021
+RB,Tarik Cohen,60.6,Chicago Bears,2021
+DI,Bilal Nichols,71.4,Chicago Bears,2021
+WR,Allen Robinson II,88.3,Chicago Bears,2021
+Edge,Khalil Mack,92.5,Chicago Bears,2021
+WR,Darnell Mooney,68.7,Chicago Bears,2021
+Edge,Robert Quinn,61.6,Chicago Bears,2021
+WR,Anthony Miller,58.2,Chicago Bears,2021
+LB,Roquan Smith,67.2,Chicago Bears,2021
+TE,Cole Kmet,57.7,Chicago Bears,2021
+LB,Danny Trevathan,39.9,Chicago Bears,2021
+LT,Teven Jenkins,92.0,Chicago Bears,2021
+CB,Jaylon Johnson,54.9,Chicago Bears,2021
+LG,Cody Whitehair,75.0,Chicago Bears,2021
+CB,Desmond Trufant,38.4,Chicago Bears,2021
+C,Sam Mustipher,59.5,Chicago Bears,2021
+CB,Duke Shelley,57.9,Chicago Bears,2021
+RG,James Daniels,65.8,Chicago Bears,2021
+S,Tashaun Gipson Sr.,72.0,Chicago Bears,2021
+RT,Germain Ifedi,65.5,Chicago Bears,2021
+S,Eddie Jackson,59.5,Chicago Bears,2021
+QB,Joe Burrow,75.1,Cincinnati Bengals,2021
+DI,D.J. Reader,69.6,Cincinnati Bengals,2021
+RB,Joe Mixon,65.3,Cincinnati Bengals,2021
+DI,Larry Ogunjobi,51.4,Cincinnati Bengals,2021
+RB,Samaje Perine,76.7,Cincinnati Bengals,2021
+Edge,Trey Hendrickson,70.9,Cincinnati Bengals,2021
+WR,Ja'Marr Chase,91.1,Cincinnati Bengals,2021
+Edge,Sam Hubbard,68.0,Cincinnati Bengals,2021
+WR,Tee Higgins,75.9,Cincinnati Bengals,2021
+LB,Germaine Pratt,41.5,Cincinnati Bengals,2021
+WR,Tyler Boyd,75.8,Cincinnati Bengals,2021
+LB,Logan Wilson,54.7,Cincinnati Bengals,2021
+TE,Drew Sample,61.4,Cincinnati Bengals,2021
+LB,Akeem Davis-Gaither,40.7,Cincinnati Bengals,2021
+LT,Jonah Williams,70.1,Cincinnati Bengals,2021
+CB,Trae Waynes,67.0,Cincinnati Bengals,2021
+LG,Quinton Spain,56.7,Cincinnati Bengals,2021
+CB,Chidobe Awuzie,51.9,Cincinnati Bengals,2021
+C,Trey Hopkins,63.8,Cincinnati Bengals,2021
+CB,Mike Hilton,63.7,Cincinnati Bengals,2021
+RG,Jackson Carman,79.2,Cincinnati Bengals,2021
+S,Vonn Bell,71.5,Cincinnati Bengals,2021
+RT,Riley Reiff,71.4,Cincinnati Bengals,2021
+S,Jessie Bates III,90.1,Cincinnati Bengals,2021
+QB,Matt Ryan,83.1,Atlanta Falcons,2021
+DI,Grady Jarrett,80.2,Atlanta Falcons,2021
+RB,Mike Davis,75.1,Atlanta Falcons,2021
+DI,Tyeler Davison,58.3,Atlanta Falcons,2021
+WR,Calvin Ridley,84.9,Atlanta Falcons,2021
+DI,Marlon Davidson,58.1,Atlanta Falcons,2021
+WR,Russell Gage,76.4,Atlanta Falcons,2021
+Edge,Dante Fowler Jr.,49.9,Atlanta Falcons,2021
+WR,Olamide Zaccheaus,68.6,Atlanta Falcons,2021
+Edge,Steven Means,57.8,Atlanta Falcons,2021
+TE,Kyle Pitts,96.2,Atlanta Falcons,2021
+LB,Deion Jones,68.7,Atlanta Falcons,2021
+TE,Hayden Hurst,58.9,Atlanta Falcons,2021
+LB,Foyesade Oluokun,56.6,Atlanta Falcons,2021
+LT,Jake Matthews,75.5,Atlanta Falcons,2021
+CB,A.J. Terrell,60.8,Atlanta Falcons,2021
+LG,Jalen Mayfield,70.2,Atlanta Falcons,2021
+CB,Fabian Moreau,64.7,Atlanta Falcons,2021
+C,Matt Hennessy,47.0,Atlanta Falcons,2021
+CB,Isaiah Oliver,58.8,Atlanta Falcons,2021
+RG,Chris Lindstrom,77.1,Atlanta Falcons,2021
+S,Richie Grant,79.4,Atlanta Falcons,2021
+RT,Kaleb McGary,64.3,Atlanta Falcons,2021
+S,Duron Harmon,65.3,Atlanta Falcons,2021
+QB,Derek Carr,84.7,Las Vegas Raiders,2021
+DI,Johnathan Hankins,61.6,Las Vegas Raiders,2021
+RB,Josh Jacobs,76.3,Las Vegas Raiders,2021
+DI,Quinton Jefferson,59.1,Las Vegas Raiders,2021
+RB,Kenyan Drake,60.9,Las Vegas Raiders,2021
+Edge,Clelin Ferrell,76.1,Las Vegas Raiders,2021
+WR,Henry Ruggs III,54.0,Las Vegas Raiders,2021
+Edge,Yannick Ngakoue,69.3,Las Vegas Raiders,2021
+WR,John Brown,65.7,Las Vegas Raiders,2021
+LB,Nick Kwiatkoski,67.1,Las Vegas Raiders,2021
+WR,Hunter Renfrow,74.8,Las Vegas Raiders,2021
+LB,Cory Littleton,47.1,Las Vegas Raiders,2021
+TE,Darren Waller,86.5,Las Vegas Raiders,2021
+LB,Nicholas Morrow,63.7,Las Vegas Raiders,2021
+LT,Kolton Miller,72.9,Las Vegas Raiders,2021
+CB,Trayvon Mullen,55.3,Las Vegas Raiders,2021
+LG,Richie Incognito,74.0,Las Vegas Raiders,2021
+CB,Casey Hayward Jr.,59.5,Las Vegas Raiders,2021
+C,Andre James,23.4,Las Vegas Raiders,2021
+CB,Nevin Lawson,55.6,Las Vegas Raiders,2021
+RG,Denzelle Good,56.7,Las Vegas Raiders,2021
+S,Johnathan Abram,35.9,Las Vegas Raiders,2021
+RT,Alex Leatherwood,80.7,Las Vegas Raiders,2021
+S,Trevon Moehrig,74.6,Las Vegas Raiders,2021
+QB,Sam Darnold,58.4,Carolina Panthers,2021
+DI,DaQuan Jones,68.0,Carolina Panthers,2021
+RB,Christian McCaffrey,86.5,Carolina Panthers,2021
+DI,Derrick Brown,61.0,Carolina Panthers,2021
+WR,DJ Moore,79.1,Carolina Panthers,2021
+Edge,Brian Burns,76.8,Carolina Panthers,2021
+WR,Robby Anderson,75.1,Carolina Panthers,2021
+Edge,Yetur Gross-Matos,54.7,Carolina Panthers,2021
+WR,Terrace Marshall Jr.,78.9,Carolina Panthers,2021
+Edge,Haason Reddick,72.8,Carolina Panthers,2021
+TE,Dan Arnold,61.7,Carolina Panthers,2021
+LB,Shaq Thompson,49.8,Carolina Panthers,2021
+TE,Tommy Tremble,77.9,Carolina Panthers,2021
+LB,Denzel Perryman,83.3,Carolina Panthers,2021
+LT,Brady Christensen,95.9,Carolina Panthers,2021
+CB,Jaycee Horn,78.4,Carolina Panthers,2021
+LG,Pat Elflein,48.0,Carolina Panthers,2021
+CB,Donte Jackson,70.4,Carolina Panthers,2021
+C,Matt Paradis,63.4,Carolina Panthers,2021
+CB,A.J. Bouye,55.6,Carolina Panthers,2021
+RG,John Miller,61.2,Carolina Panthers,2021
+S,Jeremy Chinn,59.0,Carolina Panthers,2021
+RT,Taylor Moton,81.6,Carolina Panthers,2021
+S,Juston Burris,55.3,Carolina Panthers,2021
+QB,Trevor Lawrence,91.1,Jacksonville Jaguars,2021
+DI,Roy Robertson-Harris,67.0,Jacksonville Jaguars,2021
+RB,James Robinson,72.9,Jacksonville Jaguars,2021
+DI,Malcom Brown,71.7,Jacksonville Jaguars,2021
+RB,Travis Etienne,82.0,Jacksonville Jaguars,2021
+DI,Jay Tufele,73.3,Jacksonville Jaguars,2021
+WR,DJ Chark Jr.,71.3,Jacksonville Jaguars,2021
+Edge,Josh Allen,69.6,Jacksonville Jaguars,2021
+WR,Marvin Jones Jr.,73.6,Jacksonville Jaguars,2021
+Edge,K'Lavon Chaisson,49.6,Jacksonville Jaguars,2021
+WR,Laviska Shenault Jr.,71.5,Jacksonville Jaguars,2021
+LB,Joe Schobert,54.2,Jacksonville Jaguars,2021
+TE,Chris Manhertz,58.0,Jacksonville Jaguars,2021
+LB,Myles Jack,69.1,Jacksonville Jaguars,2021
+LT,Cam Robinson,61.7,Jacksonville Jaguars,2021
+CB,Shaquill Griffin,64.6,Jacksonville Jaguars,2021
+LG,Andrew Norwell,67.9,Jacksonville Jaguars,2021
+CB,CJ Henderson,57.9,Jacksonville Jaguars,2021
+C,Brandon Linder,80.0,Jacksonville Jaguars,2021
+CB,Tyson Campbell,75.7,Jacksonville Jaguars,2021
+RG,A.J. Cann,69.0,Jacksonville Jaguars,2021
+S,Rayshawn Jenkins,68.9,Jacksonville Jaguars,2021
+RT,Jawaan Taylor,56.5,Jacksonville Jaguars,2021
+S,Andre Cisco,58.0,Jacksonville Jaguars,2021
+QB,Jalen Hurts,56.2,Philadelphia Eagles,2021
+DI,Fletcher Cox,74.1,Philadelphia Eagles,2021
+RB,Miles Sanders,63.0,Philadelphia Eagles,2021
+DI,Javon Hargrave,61.2,Philadelphia Eagles,2021
+RB,Boston Scott,68.2,Philadelphia Eagles,2021
+Edge,Brandon Graham,81.5,Philadelphia Eagles,2021
+WR,DeVonta Smith,94.9,Philadelphia Eagles,2021
+Edge,Derek Barnett,67.9,Philadelphia Eagles,2021
+WR,Jalen Reagor,64.0,Philadelphia Eagles,2021
+LB,Eric Wilson,53.5,Philadelphia Eagles,2021
+WR,Travis Fulgham,71.2,Philadelphia Eagles,2021
+LB,Alex Singleton,58.9,Philadelphia Eagles,2021
+TE,Dallas Goedert,79.5,Philadelphia Eagles,2021
+LB,Genard Avery,60.2,Philadelphia Eagles,2021
+LT,Jordan Mailata,70.3,Philadelphia Eagles,2021
+CB,Darius Slay,62.9,Philadelphia Eagles,2021
+LG,Isaac Seumalo,62.4,Philadelphia Eagles,2021
+CB,Avonte Maddox,37.8,Philadelphia Eagles,2021
+C,Jason Kelce,69.6,Philadelphia Eagles,2021
+CB,Zech McPhearson,83.7,Philadelphia Eagles,2021
+RG,Brandon Brooks,92.8,Philadelphia Eagles,2021
+S,Anthony Harris,66.2,Philadelphia Eagles,2021
+RT,Lane Johnson,71.9,Philadelphia Eagles,2021
+S,Rodney McLeod,70.8,Philadelphia Eagles,2021
+QB,Zach Wilson,95.4,New York Jets,2021
+DI,Quinnen Williams,81.4,New York Jets,2021
+RB,Tevin Coleman,71.5,New York Jets,2021
+DI,Sheldon Rankins,63.5,New York Jets,2021
+RB,Ty Johnson,69.1,New York Jets,2021
+Edge,Carl Lawson,76.3,New York Jets,2021
+WR,Corey Davis,85.3,New York Jets,2021
+Edge,John Franklin-Myers,71.5,New York Jets,2021
+WR,Keelan Cole,64.4,New York Jets,2021
+LB,C.J. Mosley,73.6,New York Jets,2021
+WR,Elijah Moore,91.2,New York Jets,2021
+LB,Blake Cashman,49.1,New York Jets,2021
+TE,Chris Herndon,57.6,New York Jets,2021
+LB,Jarrad Davis,62.2,New York Jets,2021
+LT,Mekhi Becton,74.4,New York Jets,2021
+CB,Bryce Hall,59.9,New York Jets,2021
+LG,Alijah Vera-Tucker,81.8,New York Jets,2021
+CB,Bless Austin,51.1,New York Jets,2021
+C,Connor McGovern,62.2,New York Jets,2021
+CB,Javelin Guidry,73.1,New York Jets,2021
+RG,Greg Van Roten,63.0,New York Jets,2021
+S,Marcus Maye,82.9,New York Jets,2021
+RT,Morgan Moses,79.9,New York Jets,2021
+S,Lamarcus Joyner,53.8,New York Jets,2021
+QB,Jared Goff,71.3,Detroit Lions,2021
+DI,Michael Brockers,63.9,Detroit Lions,2021
+RB,D'Andre Swift,69.4,Detroit Lions,2021
+DI,Alim McNeill,90.7,Detroit Lions,2021
+RB,Jamaal Williams,76.9,Detroit Lions,2021
+DI,Levi Onwuzurike,82.5,Detroit Lions,2021
+WR,Tyrell Williams,66.5,Detroit Lions,2021
+Edge,Trey Flowers,83.3,Detroit Lions,2021
+WR,Breshad Perriman,63.6,Detroit Lions,2021
+Edge,Romeo Okwara,68.8,Detroit Lions,2021
+WR,Amon-Ra St. Brown,71.7,Detroit Lions,2021
+LB,Jamie Collins Sr.,64.2,Detroit Lions,2021
+TE,T.J. Hockenson,75.4,Detroit Lions,2021
+LB,Alex Anzalone,57.0,Detroit Lions,2021
+LT,Taylor Decker,82.0,Detroit Lions,2021
+CB,Jeff Okudah,42.5,Detroit Lions,2021
+LG,Jonah Jackson,57.0,Detroit Lions,2021
+CB,Quinton Dunbar,47.7,Detroit Lions,2021
+C,Frank Ragnow,80.3,Detroit Lions,2021
+CB,Corn Elder,68.5,Detroit Lions,2021
+RG,Halapoulivaati Vaitai,59.7,Detroit Lions,2021
+S,Tracy Walker,51.0,Detroit Lions,2021
+RT,Penei Sewell,95.8,Detroit Lions,2021
+S,Dean Marlowe,53.8,Detroit Lions,2021
+QB,Tyrod Taylor,77.7,Houston Texans,2021
+DI,Charles Omenihu,52.1,Houston Texans,2021
+RB,David Johnson,62.8,Houston Texans,2021
+DI,Ross Blacklock,30.2,Houston Texans,2021
+RB,Mark Ingram II,78.7,Houston Texans,2021
+Edge,Shaq Lawson,70.9,Houston Texans,2021
+WR,Brandin Cooks,81.1,Houston Texans,2021
+Edge,Whitney Mercilus,39.5,Houston Texans,2021
+WR,Randall Cobb,71.6,Houston Texans,2021
+LB,Zach Cunningham,60.9,Houston Texans,2021
+WR,Nico Collins,70.9,Houston Texans,2021
+LB,Christian Kirksey,48.2,Houston Texans,2021
+TE,Jordan Akins,71.8,Houston Texans,2021
+LB,Kevin Pierre-Louis,67.7,Houston Texans,2021
+LT,Laremy Tunsil,75.4,Houston Texans,2021
+CB,Bradley Roby,71.5,Houston Texans,2021
+LG,Max Scharping,52.1,Houston Texans,2021
+CB,Terrance Mitchell,68.2,Houston Texans,2021
+C,Justin Britt,62.0,Houston Texans,2021
+CB,Desmond King II,67.0,Houston Texans,2021
+RG,Marcus Cannon,70.1,Houston Texans,2021
+S,Justin Reid,60.7,Houston Texans,2021
+RT,Tytus Howard,62.1,Houston Texans,2021
+S,Lonnie Johnson Jr.,65.5,Houston Texans,2021

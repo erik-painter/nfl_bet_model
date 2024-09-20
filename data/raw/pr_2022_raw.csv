@@ -1,0 +1,765 @@
+Position,Name,Rating,Team,season
+QB,Josh Allen,90.9,Buffalo Bills,2022
+DI,Ed Oliver,71.8,Buffalo Bills,2022
+RB,Devin Singletary,69.0,Buffalo Bills,2022
+DI,DaQuan Jones,66.4,Buffalo Bills,2022
+RB,James Cook,85.0,Buffalo Bills,2022
+Edge,Von Miller,91.2,Buffalo Bills,2022
+WR,Stefon Diggs,81.0,Buffalo Bills,2022
+Edge,Greg Rousseau,73.1,Buffalo Bills,2022
+WR,Gabriel Davis,81.5,Buffalo Bills,2022
+Edge,AJ Epenesa,65.2,Buffalo Bills,2022
+WR,Isaiah McKenzie,72.3,Buffalo Bills,2022
+LB,Tremaine Edmunds,48.5,Buffalo Bills,2022
+TE,Dawson Knox,63.6,Buffalo Bills,2022
+LB,Matt Milano,50.4,Buffalo Bills,2022
+LT,Dion Dawkins,79.4,Buffalo Bills,2022
+CB,Dane Jackson,58.1,Buffalo Bills,2022
+LG,Rodger Saffold III,68.1,Buffalo Bills,2022
+CB,Kaiir Elam,61.8,Buffalo Bills,2022
+C,Mitch Morse,63.4,Buffalo Bills,2022
+CB,Taron Johnson,70.3,Buffalo Bills,2022
+RG,Ryan Bates,66.3,Buffalo Bills,2022
+S,Micah Hyde,83.8,Buffalo Bills,2022
+RT,David Quessenberry,79.1,Buffalo Bills,2022
+S,Jordan Poyer,77.7,Buffalo Bills,2022
+QB,Tom Brady,91.7,Tampa Bay Buccaneers,2022
+DI,Vita Vea,74.4,Tampa Bay Buccaneers,2022
+RB,Leonard Fournette,75.1,Tampa Bay Buccaneers,2022
+DI,Akiem Hicks,72.3,Tampa Bay Buccaneers,2022
+RB,Rachaad White,90.8,Tampa Bay Buccaneers,2022
+DI,William Gholston,59.2,Tampa Bay Buccaneers,2022
+WR,Mike Evans,75.4,Tampa Bay Buccaneers,2022
+Edge,Shaquil Barrett,81.0,Tampa Bay Buccaneers,2022
+WR,Chris Godwin,81.3,Tampa Bay Buccaneers,2022
+Edge,Joe Tryon-Shoyinka,50.9,Tampa Bay Buccaneers,2022
+WR,Russell Gage,75.2,Tampa Bay Buccaneers,2022
+LB,Lavonte David,72.3,Tampa Bay Buccaneers,2022
+TE,Kyle Rudolph,63.5,Tampa Bay Buccaneers,2022
+LB,Devin White,35.1,Tampa Bay Buccaneers,2022
+LT,Donovan Smith,80.5,Tampa Bay Buccaneers,2022
+CB,Carlton Davis,71.6,Tampa Bay Buccaneers,2022
+LG,Luke Goedeke,92.2,Tampa Bay Buccaneers,2022
+CB,Jamel Dean,71.8,Tampa Bay Buccaneers,2022
+C,Robert Hainsey,89.6,Tampa Bay Buccaneers,2022
+CB,Sean Murphy-Bunting,56.4,Tampa Bay Buccaneers,2022
+RG,Shaq Mason,86.4,Tampa Bay Buccaneers,2022
+S,Antoine Winfield Jr.,89.5,Tampa Bay Buccaneers,2022
+RT,Tristan Wirfs,84.3,Tampa Bay Buccaneers,2022
+S,Mike Edwards,63.9,Tampa Bay Buccaneers,2022
+QB,Justin Herbert,90.1,Los Angeles Chargers,2022
+DI,Sebastian Joseph-Day,61.5,Los Angeles Chargers,2022
+RB,Austin Ekeler,75.3,Los Angeles Chargers,2022
+DI,Austin Johnson,58.3,Los Angeles Chargers,2022
+WR,Keenan Allen,77.5,Los Angeles Chargers,2022
+DI,Morgan Fox,55.7,Los Angeles Chargers,2022
+WR,Mike Williams,77.6,Los Angeles Chargers,2022
+Edge,Joey Bosa,85.8,Los Angeles Chargers,2022
+WR,Joshua Palmer,62.6,Los Angeles Chargers,2022
+Edge,Khalil Mack,92.5,Los Angeles Chargers,2022
+TE,Gerald Everett,63.5,Los Angeles Chargers,2022
+LB,Kyle Van Noy,71.7,Los Angeles Chargers,2022
+TE,Donald Parham Jr.,69.2,Los Angeles Chargers,2022
+LB,Drue Tranquill,64.6,Los Angeles Chargers,2022
+LT,Rashawn Slater,83.6,Los Angeles Chargers,2022
+CB,J.C. Jackson,78.9,Los Angeles Chargers,2022
+LG,Matt Feiler,74.0,Los Angeles Chargers,2022
+CB,Asante Samuel Jr.,56.4,Los Angeles Chargers,2022
+C,Corey Linsley,85.7,Los Angeles Chargers,2022
+CB,Bryce Callahan,60.0,Los Angeles Chargers,2022
+RG,Zion Johnson,84.4,Los Angeles Chargers,2022
+S,Derwin James Jr.,78.1,Los Angeles Chargers,2022
+RT,Trey Pipkins III,54.8,Los Angeles Chargers,2022
+S,Nasir Adderley,66.2,Los Angeles Chargers,2022
+QB,Matthew Stafford,86.1,Los Angeles Rams,2022
+DI,Aaron Donald,93.5,Los Angeles Rams,2022
+RB,Cam Akers,75.7,Los Angeles Rams,2022
+DI,Greg Gaines,69.8,Los Angeles Rams,2022
+RB,Darrell Henderson Jr.,69.3,Los Angeles Rams,2022
+DI,A'Shawn Robinson,77.7,Los Angeles Rams,2022
+WR,Cooper Kupp,93.0,Los Angeles Rams,2022
+Edge,Leonard Floyd,73.8,Los Angeles Rams,2022
+WR,Allen Robinson II,66.9,Los Angeles Rams,2022
+Edge,Justin Hollins,64.3,Los Angeles Rams,2022
+WR,Van Jefferson,58.5,Los Angeles Rams,2022
+LB,Bobby Wagner,71.8,Los Angeles Rams,2022
+TE,Tyler Higbee,69.1,Los Angeles Rams,2022
+LB,Ernest Jones,61.4,Los Angeles Rams,2022
+LT,Joe Noteboom,77.7,Los Angeles Rams,2022
+CB,Jalen Ramsey,84.3,Los Angeles Rams,2022
+LG,David Edwards,68.4,Los Angeles Rams,2022
+CB,Troy Hill,60.1,Los Angeles Rams,2022
+C,Brian Allen,74.8,Los Angeles Rams,2022
+CB,David Long Jr.,60.8,Los Angeles Rams,2022
+RG,Coleman Shelton,59.5,Los Angeles Rams,2022
+S,Jordan Fuller,74.3,Los Angeles Rams,2022
+RT,Rob Havenstein,83.4,Los Angeles Rams,2022
+S,Nick Scott,57.0,Los Angeles Rams,2022
+QB,Jalen Hurts,77.1,Philadelphia Eagles,2022
+DI,Fletcher Cox,68.7,Philadelphia Eagles,2022
+RB,Miles Sanders,70.2,Philadelphia Eagles,2022
+DI,Javon Hargrave,67.3,Philadelphia Eagles,2022
+RB,Kenneth Gainwell,72.0,Philadelphia Eagles,2022
+DI,Jordan Davis,82.6,Philadelphia Eagles,2022
+WR,A.J. Brown,86.3,Philadelphia Eagles,2022
+Edge,Brandon Graham,62.6,Philadelphia Eagles,2022
+WR,DeVonta Smith,77.7,Philadelphia Eagles,2022
+Edge,Haason Reddick,67.9,Philadelphia Eagles,2022
+WR,Quez Watkins,68.2,Philadelphia Eagles,2022
+LB,Kyzir White,66.5,Philadelphia Eagles,2022
+TE,Dallas Goedert,90.7,Philadelphia Eagles,2022
+LB,T.J. Edwards,75.5,Philadelphia Eagles,2022
+LT,Jordan Mailata,88.3,Philadelphia Eagles,2022
+CB,Darius Slay,81.0,Philadelphia Eagles,2022
+LG,Landon Dickerson,69.6,Philadelphia Eagles,2022
+CB,James Bradberry,62.8,Philadelphia Eagles,2022
+C,Jason Kelce,84.5,Philadelphia Eagles,2022
+CB,Avonte Maddox,71.0,Philadelphia Eagles,2022
+RG,Isaac Seumalo,62.4,Philadelphia Eagles,2022
+S,Marcus Epps,74.6,Philadelphia Eagles,2022
+RT,Lane Johnson,83.3,Philadelphia Eagles,2022
+S,Chauncey Gardner-Johnson,62.2,Philadelphia Eagles,2022
+QB,Aaron Rodgers,89.4,Green Bay Packers,2022
+DI,Kenny Clark,75.4,Green Bay Packers,2022
+RB,Aaron Jones,82.0,Green Bay Packers,2022
+DI,Devonte Wyatt,90.3,Green Bay Packers,2022
+RB,AJ Dillon,86.2,Green Bay Packers,2022
+DI,Dean Lowry,66.8,Green Bay Packers,2022
+WR,Allen Lazard,64.7,Green Bay Packers,2022
+Edge,Rashan Gary,89.8,Green Bay Packers,2022
+WR,Romeo Doubs,81.7,Green Bay Packers,2022
+Edge,Preston Smith,81.5,Green Bay Packers,2022
+WR,Randall Cobb,70.1,Green Bay Packers,2022
+LB,De'Vondre Campbell,85.0,Green Bay Packers,2022
+TE,Robert Tonyan,54.6,Green Bay Packers,2022
+LB,Quay Walker,71.7,Green Bay Packers,2022
+LT,David Bakhtiari,91.8,Green Bay Packers,2022
+CB,Jaire Alexander,90.7,Green Bay Packers,2022
+LG,Jon Runyan,64.6,Green Bay Packers,2022
+CB,Eric Stokes,65.5,Green Bay Packers,2022
+C,Josh Myers,54.9,Green Bay Packers,2022
+CB,Rasul Douglas,74.5,Green Bay Packers,2022
+RG,Royce Newman,55.7,Green Bay Packers,2022
+S,Adrian Amos,74.3,Green Bay Packers,2022
+RT,Elgton Jenkins,82.1,Green Bay Packers,2022
+S,Darnell Savage,58.4,Green Bay Packers,2022
+QB,Joe Burrow,91.8,Cincinnati Bengals,2022
+DI,D.J. Reader,79.5,Cincinnati Bengals,2022
+RB,Joe Mixon,79.2,Cincinnati Bengals,2022
+DI,B.J. Hill,70.9,Cincinnati Bengals,2022
+WR,Ja'Marr Chase,85.3,Cincinnati Bengals,2022
+Edge,Trey Hendrickson,73.4,Cincinnati Bengals,2022
+WR,Tee Higgins,83.4,Cincinnati Bengals,2022
+Edge,Sam Hubbard,67.7,Cincinnati Bengals,2022
+WR,Tyler Boyd,70.8,Cincinnati Bengals,2022
+LB,Logan Wilson,61.5,Cincinnati Bengals,2022
+TE,Hayden Hurst,55.3,Cincinnati Bengals,2022
+LB,Germaine Pratt,54.0,Cincinnati Bengals,2022
+TE,Drew Sample,56.1,Cincinnati Bengals,2022
+CB,Chidobe Awuzie,75.5,Cincinnati Bengals,2022
+LT,Jonah Williams,74.5,Cincinnati Bengals,2022
+CB,Eli Apple,60.5,Cincinnati Bengals,2022
+LG,Cordell Volson,89.3,Cincinnati Bengals,2022
+CB,Mike Hilton,70.2,Cincinnati Bengals,2022
+C,Ted Karras,72.4,Cincinnati Bengals,2022
+S,Jessie Bates III,67.8,Cincinnati Bengals,2022
+RG,Alex Cappa,71.3,Cincinnati Bengals,2022
+S,Vonn Bell,72.1,Cincinnati Bengals,2022
+RT,La'el Collins,80.2,Cincinnati Bengals,2022
+S,Daxton Hill,76.2,Cincinnati Bengals,2022
+QB,Patrick Mahomes,80.4,Kansas City Chiefs,2022
+DI,Chris Jones,83.4,Kansas City Chiefs,2022
+RB,Clyde Edwards-Helaire,65.6,Kansas City Chiefs,2022
+DI,Derrick Nnadi,51.3,Kansas City Chiefs,2022
+RB,Jerick McKinnon,65.0,Kansas City Chiefs,2022
+Edge,Frank Clark,54.9,Kansas City Chiefs,2022
+WR,Marquez Valdes-Scantling,66.1,Kansas City Chiefs,2022
+Edge,George Karlaftis,87.2,Kansas City Chiefs,2022
+WR,JuJu Smith-Schuster,70.0,Kansas City Chiefs,2022
+LB,Nick Bolton,72.5,Kansas City Chiefs,2022
+WR,Mecole Hardman,70.2,Kansas City Chiefs,2022
+LB,Willie Gay,66.5,Kansas City Chiefs,2022
+TE,Travis Kelce,85.0,Kansas City Chiefs,2022
+CB,Rashad Fenton,79.1,Kansas City Chiefs,2022
+LT,Orlando Brown Jr.,75.4,Kansas City Chiefs,2022
+CB,Trent McDuffie,86.8,Kansas City Chiefs,2022
+LG,Joe Thuney,81.2,Kansas City Chiefs,2022
+CB,L'Jarius Sneed,63.6,Kansas City Chiefs,2022
+C,Creed Humphrey,91.8,Kansas City Chiefs,2022
+S,Justin Reid,50.8,Kansas City Chiefs,2022
+RG,Trey Smith,72.7,Kansas City Chiefs,2022
+S,Juan Thornhill,70.1,Kansas City Chiefs,2022
+RT,Andrew Wylie,62.3,Kansas City Chiefs,2022
+S,Bryan Cook,87.6,Kansas City Chiefs,2022
+QB,Lamar Jackson,70.2,Baltimore Ravens,2022
+DI,Calais Campbell,80.8,Baltimore Ravens,2022
+RB,J.K. Dobbins,72.0,Baltimore Ravens,2022
+DI,Michael Pierce,78.5,Baltimore Ravens,2022
+DI,Justin Madubuike,56.6,Baltimore Ravens,2022
+WR,Rashod Bateman,64.9,Baltimore Ravens,2022
+Edge,Odafe Oweh,67.9,Baltimore Ravens,2022
+WR,Devin Duvernay,55.7,Baltimore Ravens,2022
+Edge,Justin Houston,77.8,Baltimore Ravens,2022
+TE,Mark Andrews,91.5,Baltimore Ravens,2022
+LB,Patrick Queen,43.5,Baltimore Ravens,2022
+TE,Nick Boyle,70.6,Baltimore Ravens,2022
+LB,Josh Bynes,74.8,Baltimore Ravens,2022
+LT,Ronnie Stanley,89.4,Baltimore Ravens,2022
+CB,Marlon Humphrey,65.9,Baltimore Ravens,2022
+LG,Ben Powers,66.3,Baltimore Ravens,2022
+CB,Marcus Peters,67.2,Baltimore Ravens,2022
+C,Tyler Linderbaum,95.4,Baltimore Ravens,2022
+S,Chuck Clark,66.2,Baltimore Ravens,2022
+RG,Kevin Zeitler,75.6,Baltimore Ravens,2022
+S,Kyle Hamilton,76.1,Baltimore Ravens,2022
+RT,Morgan Moses,71.0,Baltimore Ravens,2022
+S,Marcus Williams,80.1,Baltimore Ravens,2022
+QB,Trey Lance,59.9,San Francisco 49ers,2022
+DI,Javon Kinlaw,54.1,San Francisco 49ers,2022
+RB,Elijah Mitchell,76.8,San Francisco 49ers,2022
+DI,Arik Armstead,76.0,San Francisco 49ers,2022
+Edge,Nick Bosa,89.4,San Francisco 49ers,2022
+WR,Deebo Samuel,90.2,San Francisco 49ers,2022
+Edge,Samson Ebukam,67.0,San Francisco 49ers,2022
+WR,Brandon Aiyuk,75.9,San Francisco 49ers,2022
+Edge,Drake Jackson,82.3,San Francisco 49ers,2022
+WR,Jauan Jennings,66.2,San Francisco 49ers,2022
+LB,Fred Warner,80.1,San Francisco 49ers,2022
+TE,George Kittle,90.7,San Francisco 49ers,2022
+LB,Dre Greenlaw,59.8,San Francisco 49ers,2022
+LT,Trent Williams,96.6,San Francisco 49ers,2022
+CB,Charvarius Ward,71.2,San Francisco 49ers,2022
+LG,Aaron Banks,81.3,San Francisco 49ers,2022
+CB,Emmanuel Moseley,69.1,San Francisco 49ers,2022
+C,Jake Brendel,58.8,San Francisco 49ers,2022
+CB,Samuel Womack,79.5,San Francisco 49ers,2022
+RG,Spencer Burford,76.8,San Francisco 49ers,2022
+S,Jimmie Ward,74.8,San Francisco 49ers,2022
+RT,Mike McGlinchey,69.8,San Francisco 49ers,2022
+S,Talanoa Hufanga,63.7,San Francisco 49ers,2022
+QB,Tua Tagovailoa,68.3,Miami Dolphins,2022
+DI,Christian Wilkins,83.3,Miami Dolphins,2022
+RB,Chase Edmonds,66.6,Miami Dolphins,2022
+DI,Raekwon Davis,36.5,Miami Dolphins,2022
+DI,Emmanuel Ogbah,77.0,Miami Dolphins,2022
+WR,Tyreek Hill,86.0,Miami Dolphins,2022
+Edge,Jaelan Phillips,53.7,Miami Dolphins,2022
+WR,Jaylen Waddle,78.3,Miami Dolphins,2022
+Edge,Melvin Ingram III,80.9,Miami Dolphins,2022
+WR,Cedrick Wilson,71.7,Miami Dolphins,2022
+LB,Jerome Baker,60.9,Miami Dolphins,2022
+TE,Mike Gesicki,68.7,Miami Dolphins,2022
+LB,Elandon Roberts,54.1,Miami Dolphins,2022
+LT,Terron Armstead,75.9,Miami Dolphins,2022
+CB,Xavien Howard,70.9,Miami Dolphins,2022
+LG,Liam Eichenberg,50.8,Miami Dolphins,2022
+CB,Byron Jones,65.0,Miami Dolphins,2022
+C,Connor Williams,75.2,Miami Dolphins,2022
+CB,Nik Needham,66.2,Miami Dolphins,2022
+RG,Robert Hunt,67.4,Miami Dolphins,2022
+S,Jevon Holland,84.7,Miami Dolphins,2022
+RT,Austin Jackson,49.9,Miami Dolphins,2022
+S,Brandon Jones,53.4,Miami Dolphins,2022
+QB,Jameis Winston,74.2,New Orleans Saints,2022
+DI,David Onyemata,81.9,New Orleans Saints,2022
+RB,Alvin Kamara,63.2,New Orleans Saints,2022
+DI,Shy Tuttle,71.7,New Orleans Saints,2022
+RB,Mark Ingram II,67.6,New Orleans Saints,2022
+Edge,Marcus Davenport,88.8,New Orleans Saints,2022
+WR,Michael Thomas,79.6,New Orleans Saints,2022
+Edge,Cameron Jordan,84.3,New Orleans Saints,2022
+WR,Chris Olave,79.3,New Orleans Saints,2022
+LB,Demario Davis,77.9,New Orleans Saints,2022
+WR,Jarvis Landry,66.3,New Orleans Saints,2022
+LB,Pete Werner,79.9,New Orleans Saints,2022
+TE,Adam Trautman,62.7,New Orleans Saints,2022
+CB,Marshon Lattimore,77.3,New Orleans Saints,2022
+LT,James Hurst,69.8,New Orleans Saints,2022
+CB,Paulson Adebo,60.3,New Orleans Saints,2022
+LG,Andrus Peat,61.9,New Orleans Saints,2022
+CB,Bradley Roby,64.6,New Orleans Saints,2022
+C,Erik McCoy,63.6,New Orleans Saints,2022
+S,Tyrann Mathieu,67.4,New Orleans Saints,2022
+RG,Cesar Ruiz,57.6,New Orleans Saints,2022
+S,Marcus Maye,82.9,New Orleans Saints,2022
+RT,Ryan Ramczyk,84.1,New Orleans Saints,2022
+S,P.J. Williams,70.0,New Orleans Saints,2022
+QB,Jacoby Brissett,76.3,Cleveland Browns,2022
+DI,Jordan Elliott,41.6,Cleveland Browns,2022
+RB,Nick Chubb,81.7,Cleveland Browns,2022
+DI,Taven Bryan,56.4,Cleveland Browns,2022
+RB,Kareem Hunt,74.4,Cleveland Browns,2022
+Edge,Myles Garrett,92.0,Cleveland Browns,2022
+WR,Amari Cooper,73.0,Cleveland Browns,2022
+Edge,Jadeveon Clowney,66.5,Cleveland Browns,2022
+WR,Donovan Peoples-Jones,65.7,Cleveland Browns,2022
+LB,Jeremiah Owusu-Koramoah,76.5,Cleveland Browns,2022
+WR,David Bell,87.5,Cleveland Browns,2022
+LB,Anthony Walker,69.1,Cleveland Browns,2022
+TE,David Njoku,70.9,Cleveland Browns,2022
+CB,Denzel Ward,76.9,Cleveland Browns,2022
+LT,Jedrick Wills Jr.,66.1,Cleveland Browns,2022
+CB,Greg Newsome II,68.1,Cleveland Browns,2022
+LG,Joel Bitonio,93.6,Cleveland Browns,2022
+CB,Greedy Williams,64.6,Cleveland Browns,2022
+C,Ethan Pocic,67.3,Cleveland Browns,2022
+S,John Johnson III,68.7,Cleveland Browns,2022
+RG,Wyatt Teller,84.9,Cleveland Browns,2022
+S,Ronnie Harrison Jr.,60.8,Cleveland Browns,2022
+RT,Jack Conklin,78.8,Cleveland Browns,2022
+S,Grant Delpit,63.3,Cleveland Browns,2022
+QB,Russell Wilson,73.9,Denver Broncos,2022
+DI,Dre'Mont Jones,57.8,Denver Broncos,2022
+RB,Javonte Williams,75.9,Denver Broncos,2022
+DI,D.J. Jones,73.7,Denver Broncos,2022
+RB,Melvin Gordon III,77.8,Denver Broncos,2022
+DI,DeShawn Williams,56.2,Denver Broncos,2022
+WR,Courtland Sutton,71.2,Denver Broncos,2022
+Edge,Bradley Chubb,70.7,Denver Broncos,2022
+WR,Jerry Jeudy,68.7,Denver Broncos,2022
+Edge,Randy Gregory,67.3,Denver Broncos,2022
+WR,K.J. Hamler,55.9,Denver Broncos,2022
+LB,Josey Jewell,83.5,Denver Broncos,2022
+TE,Albert Okwuegbunam,67.3,Denver Broncos,2022
+LB,Jonas Griffith,69.1,Denver Broncos,2022
+LT,Garett Bolles,68.5,Denver Broncos,2022
+CB,Pat Surtain II,66.1,Denver Broncos,2022
+LG,Dalton Risner,68.5,Denver Broncos,2022
+CB,Ronald Darby,61.1,Denver Broncos,2022
+C,Lloyd Cushenberry III,64.2,Denver Broncos,2022
+CB,K'Waun Williams,63.5,Denver Broncos,2022
+RG,Quinn Meinerz,67.4,Denver Broncos,2022
+S,Justin Simmons,74.8,Denver Broncos,2022
+RT,Billy Turner,67.1,Denver Broncos,2022
+S,Kareem Jackson,52.0,Denver Broncos,2022
+QB,Matt Ryan,74.5,Indianapolis Colts,2022
+DI,DeForest Buckner,71.9,Indianapolis Colts,2022
+RB,Jonathan Taylor,87.0,Indianapolis Colts,2022
+DI,Grover Stewart,72.6,Indianapolis Colts,2022
+RB,Nyheim Hines,72.7,Indianapolis Colts,2022
+Edge,Kwity Paye,69.6,Indianapolis Colts,2022
+WR,Michael Pittman Jr.,78.0,Indianapolis Colts,2022
+Edge,Yannick Ngakoue,47.1,Indianapolis Colts,2022
+WR,Alec Pierce,76.9,Indianapolis Colts,2022
+LB,Shaquille Leonard,79.0,Indianapolis Colts,2022
+WR,Parris Campbell,62.5,Indianapolis Colts,2022
+LB,Bobby Okereke,58.5,Indianapolis Colts,2022
+TE,Mo Alie-Cox,66.4,Indianapolis Colts,2022
+CB,Stephon Gilmore,77.1,Indianapolis Colts,2022
+LT,Matt Pryor,76.5,Indianapolis Colts,2022
+CB,Kenny Moore II,66.6,Indianapolis Colts,2022
+LG,Quenton Nelson,69.1,Indianapolis Colts,2022
+CB,Brandon Facyson,49.1,Indianapolis Colts,2022
+C,Ryan Kelly,56.9,Indianapolis Colts,2022
+S,Julian Blackmon,60.7,Indianapolis Colts,2022
+RG,Danny Pinter,74.7,Indianapolis Colts,2022
+S,Rodney McLeod,64.8,Indianapolis Colts,2022
+RT,Braden Smith,80.6,Indianapolis Colts,2022
+S,Nick Cross,67.7,Indianapolis Colts,2022
+QB,Dak Prescott,82.4,Dallas Cowboys,2022
+DI,Osa Odighizuwa,46.9,Dallas Cowboys,2022
+RB,Ezekiel Elliott,69.3,Dallas Cowboys,2022
+DI,Neville Gallimore,49.8,Dallas Cowboys,2022
+RB,Tony Pollard,86.0,Dallas Cowboys,2022
+Edge,DeMarcus Lawrence,90.9,Dallas Cowboys,2022
+WR,CeeDee Lamb,84.1,Dallas Cowboys,2022
+Edge,Dorance Armstrong,65.7,Dallas Cowboys,2022
+WR,Michael Gallup,73.4,Dallas Cowboys,2022
+LB,Micah Parsons,89.7,Dallas Cowboys,2022
+WR,Jalen Tolbert,82.3,Dallas Cowboys,2022
+LB,Leighton Vander Esch,60.8,Dallas Cowboys,2022
+TE,Dalton Schultz,78.2,Dallas Cowboys,2022
+LB,Anthony Barr,62.9,Dallas Cowboys,2022
+LT,Tyler Smith,92.3,Dallas Cowboys,2022
+CB,Trevon Diggs,58.5,Dallas Cowboys,2022
+LG,Connor McGovern,67.8,Dallas Cowboys,2022
+CB,Anthony Brown,66.0,Dallas Cowboys,2022
+C,Tyler Biadasz,65.1,Dallas Cowboys,2022
+CB,Jourdan Lewis,61.3,Dallas Cowboys,2022
+RG,Zack Martin,93.4,Dallas Cowboys,2022
+S,Jayron Kearse,75.9,Dallas Cowboys,2022
+RT,Terence Steele,64.6,Dallas Cowboys,2022
+S,Malik Hooker,70.4,Dallas Cowboys,2022
+QB,Kirk Cousins,88.2,Minnesota Vikings,2022
+DI,Dalvin Tomlinson,74.9,Minnesota Vikings,2022
+RB,Dalvin Cook,65.8,Minnesota Vikings,2022
+DI,Harrison Phillips,75.2,Minnesota Vikings,2022
+DI,Jonathan Bullard,56.7,Minnesota Vikings,2022
+WR,Justin Jefferson,90.1,Minnesota Vikings,2022
+Edge,Danielle Hunter,80.8,Minnesota Vikings,2022
+WR,Adam Thielen,74.6,Minnesota Vikings,2022
+Edge,Za'Darius Smith,76.3,Minnesota Vikings,2022
+WR,K.J. Osborn,64.9,Minnesota Vikings,2022
+LB,Eric Kendricks,59.9,Minnesota Vikings,2022
+TE,Irv Smith Jr.,70.0,Minnesota Vikings,2022
+LB,Jordan Hicks,62.9,Minnesota Vikings,2022
+LT,Christian Darrisaw,71.9,Minnesota Vikings,2022
+CB,Patrick Peterson,63.0,Minnesota Vikings,2022
+LG,Ezra Cleveland,68.6,Minnesota Vikings,2022
+CB,Cameron Dantzler,73.8,Minnesota Vikings,2022
+C,Garrett Bradbury,60.2,Minnesota Vikings,2022
+CB,Chandon Sullivan,55.0,Minnesota Vikings,2022
+RG,Ed Ingram,73.0,Minnesota Vikings,2022
+S,Harrison Smith,77.9,Minnesota Vikings,2022
+RT,Brian O'Neill,73.4,Minnesota Vikings,2022
+S,Cam Bynum,78.3,Minnesota Vikings,2022
+QB,Carson Wentz,70.9,Washington Commanders,2022
+DI,Jonathan Allen,84.9,Washington Commanders,2022
+RB,Antonio Gibson,63.3,Washington Commanders,2022
+DI,Daron Payne,64.2,Washington Commanders,2022
+RB,J.D. McKissic,69.5,Washington Commanders,2022
+Edge,Chase Young,75.1,Washington Commanders,2022
+WR,Terry McLaurin,78.3,Washington Commanders,2022
+Edge,Montez Sweat,75.6,Washington Commanders,2022
+WR,Jahan Dotson,87.5,Washington Commanders,2022
+Edge,James Smith-Williams,56.9,Washington Commanders,2022
+WR,Curtis Samuel,77.1,Washington Commanders,2022
+LB,Jamin Davis,46.8,Washington Commanders,2022
+TE,Logan Thomas,63.4,Washington Commanders,2022
+LB,Cole Holcomb,56.7,Washington Commanders,2022
+LT,Charles Leno Jr.,81.2,Washington Commanders,2022
+CB,William Jackson III,59.3,Washington Commanders,2022
+LG,Andrew Norwell,66.7,Washington Commanders,2022
+CB,Kendall Fuller,81.5,Washington Commanders,2022
+C,Chase Roullier,83.7,Washington Commanders,2022
+CB,Benjamin St-Juste,53.6,Washington Commanders,2022
+RG,Trai Turner,68.1,Washington Commanders,2022
+S,Kamren Curl,69.4,Washington Commanders,2022
+RT,Sam Cosmi,74.9,Washington Commanders,2022
+S,Bobby McCain,70.9,Washington Commanders,2022
+QB,Ryan Tannehill,83.7,Tennessee Titans,2022
+DI,Jeffery Simmons,72.0,Tennessee Titans,2022
+RB,Derrick Henry,77.3,Tennessee Titans,2022
+DI,Teair Tart,59.2,Tennessee Titans,2022
+WR,Robert Woods,75.7,Tennessee Titans,2022
+DI,Denico Autry,69.7,Tennessee Titans,2022
+WR,Nick Westbrook-Ikhine,68.0,Tennessee Titans,2022
+Edge,Bud Dupree,53.3,Tennessee Titans,2022
+WR,Kyle Philips,77.6,Tennessee Titans,2022
+Edge,Rashad Weaver,89.5,Tennessee Titans,2022
+TE,Austin Hooper,64.2,Tennessee Titans,2022
+LB,Zach Cunningham,62.9,Tennessee Titans,2022
+TE,Geoff Swaim,55.6,Tennessee Titans,2022
+LB,David Long Jr.,68.0,Tennessee Titans,2022
+LT,Taylor Lewan,70.0,Tennessee Titans,2022
+CB,Kristian Fulton,64.1,Tennessee Titans,2022
+LG,Aaron Brewer,57.9,Tennessee Titans,2022
+CB,Caleb Farley,86.9,Tennessee Titans,2022
+C,Ben Jones,76.4,Tennessee Titans,2022
+CB,Elijah Molden,62.0,Tennessee Titans,2022
+RG,Nate Davis,69.2,Tennessee Titans,2022
+S,Kevin Byard,90.4,Tennessee Titans,2022
+RT,Nicholas Petit-Frere,78.5,Tennessee Titans,2022
+S,Amani Hooker,85.9,Tennessee Titans,2022
+QB,Mac Jones,80.4,New England Patriots,2022
+DI,Christian Barmore,63.1,New England Patriots,2022
+RB,Damien Harris,86.6,New England Patriots,2022
+DI,Lawrence Guy,63.0,New England Patriots,2022
+WR,DeVante Parker,72.8,New England Patriots,2022
+DI,Davon Godchaux,63.7,New England Patriots,2022
+WR,Jakobi Meyers,74.7,New England Patriots,2022
+Edge,Matthew Judon,62.8,New England Patriots,2022
+WR,Kendrick Bourne,77.8,New England Patriots,2022
+Edge,Anfernee Jennings,54.6,New England Patriots,2022
+TE,Hunter Henry,72.0,New England Patriots,2022
+LB,Ja'Whaun Bentley,65.1,New England Patriots,2022
+TE,Jonnu Smith,58.5,New England Patriots,2022
+CB,Jalen Mills,67.5,New England Patriots,2022
+LT,Trent Brown,73.8,New England Patriots,2022
+CB,Jonathan Jones,80.7,New England Patriots,2022
+LG,Cole Strange,86.3,New England Patriots,2022
+CB,Marcus Jones,87.8,New England Patriots,2022
+C,David Andrews,79.6,New England Patriots,2022
+S,Kyle Dugger,69.7,New England Patriots,2022
+RG,Mike Onwenu,86.7,New England Patriots,2022
+S,Adrian Phillips,80.0,New England Patriots,2022
+RT,Isaiah Wynn,74.9,New England Patriots,2022
+S,Devin McCourty,75.5,New England Patriots,2022
+QB,Derek,82.0,Las Vegas Raiders,2022
+DI,Bilal Nichols,61.3,Las Vegas Raiders,2022
+RB,Josh Jacobs,79.5,Las Vegas Raiders,2022
+DI,Johnathan Hankins,46.7,Las Vegas Raiders,2022
+WR,Davante Adams,92.7,Las Vegas Raiders,2022
+Edge,Maxx Crosby,91.7,Las Vegas Raiders,2022
+WR,Hunter Renfrow,79.8,Las Vegas Raiders,2022
+Edge,Chandler Jones,66.9,Las Vegas Raiders,2022
+WR,Mack Hollins,58.1,Las Vegas Raiders,2022
+LB,Denzel Perryman,63.9,Las Vegas Raiders,2022
+TE,Darren Waller,69.7,Las Vegas Raiders,2022
+LB,Jayon Brown,53.0,Las Vegas Raiders,2022
+TE,Foster Moreau,56.4,Las Vegas Raiders,2022
+LB,Divine Deablo,60.8,Las Vegas Raiders,2022
+LT,Kolton Miller,85.0,Las Vegas Raiders,2022
+CB,Rock Ya-Sin,69.9,Las Vegas Raiders,2022
+LG,Dylan Parham,78.8,Las Vegas Raiders,2022
+CB,Anthony Averett,56.3,Las Vegas Raiders,2022
+C,Andre James,64.8,Las Vegas Raiders,2022
+CB,Nate Hobbs,79.4,Las Vegas Raiders,2022
+RG,Lester Cotton Sr.,65.3,Las Vegas Raiders,2022
+S,Tre'von Moehrig,71.0,Las Vegas Raiders,2022
+RT,Jermaine Eluemunor,59.8,Las Vegas Raiders,2022
+S,Johnathan Abram,56.9,Las Vegas Raiders,2022
+QB,Mitch Trubisky,63.5,Pittsburgh Steelers,2022
+DI,Cameron Heyward,90.8,Pittsburgh Steelers,2022
+RB,Najee Harris,69.6,Pittsburgh Steelers,2022
+DI,Tyson Alualu,86.6,Pittsburgh Steelers,2022
+WR,Chase Claypool,67.2,Pittsburgh Steelers,2022
+DI,Larry Ogunjobi,47.5,Pittsburgh Steelers,2022
+WR,Diontae Johnson,73.2,Pittsburgh Steelers,2022
+Edge,T.J. Watt,89.6,Pittsburgh Steelers,2022
+WR,George Pickens,70.7,Pittsburgh Steelers,2022
+Edge,Alex Highsmith,65.1,Pittsburgh Steelers,2022
+TE,Pat Freiermuth,72.6,Pittsburgh Steelers,2022
+LB,Myles Jack,37.7,Pittsburgh Steelers,2022
+TE,Zach Gentry,66.0,Pittsburgh Steelers,2022
+LB,Devin Bush,34.4,Pittsburgh Steelers,2022
+LT,Dan Moore Jr.,57.5,Pittsburgh Steelers,2022
+CB,Ahkello Witherspoon,75.8,Pittsburgh Steelers,2022
+LG,Kevin Dotson,64.5,Pittsburgh Steelers,2022
+CB,Levi Wallace,62.8,Pittsburgh Steelers,2022
+C,Mason Cole,69.7,Pittsburgh Steelers,2022
+CB,Cameron Sutton,59.3,Pittsburgh Steelers,2022
+RG,James Daniels,71.0,Pittsburgh Steelers,2022
+S,Minkah Fitzpatrick,57.2,Pittsburgh Steelers,2022
+RT,Chukwuma Okorafor,62.2,Pittsburgh Steelers,2022
+S,Terrell Edmunds,58.0,Pittsburgh Steelers,2022
+QB,Kyler Murray,82.9,Arizona Cardinals,2022
+DI,J.J. Watt,78.6,Arizona Cardinals,2022
+RB,James Conner,81.9,Arizona Cardinals,2022
+DI,Rashard Lawrence,66.4,Arizona Cardinals,2022
+WR,DeAndre Hopkins,79.8,Arizona Cardinals,2022
+DI,Zach Allen,56.7,Arizona Cardinals,2022
+WR,Marquise Brown,68.6,Arizona Cardinals,2022
+Edge,Markus Golden,75.2,Arizona Cardinals,2022
+WR,Rondale Moore,70.7,Arizona Cardinals,2022
+Edge,Dennis Gardeck,62.1,Arizona Cardinals,2022
+TE,Zach Ertz,65.5,Arizona Cardinals,2022
+LB,Zaven Collins,66.5,Arizona Cardinals,2022
+TE,Maxx Williams,77.9,Arizona Cardinals,2022
+LB,Nick Vigil,42.1,Arizona Cardinals,2022
+LT,D.J. Humphries,67.5,Arizona Cardinals,2022
+LB,Isaiah Simmons,49.7,Arizona Cardinals,2022
+LG,Justin Pugh,64.5,Arizona Cardinals,2022
+CB,Byron Murphy Jr.,58.5,Arizona Cardinals,2022
+C,Rodney Hudson,57.4,Arizona Cardinals,2022
+CB,Trayvon Mullen,61.7,Arizona Cardinals,2022
+RG,Will Hernandez,55.9,Arizona Cardinals,2022
+S,Budda Baker,64.6,Arizona Cardinals,2022
+RT,Kelvin Beachum,60.8,Arizona Cardinals,2022
+S,Jalen Thompson,68.5,Arizona Cardinals,2022
+QB,Baker Mayfield,63.6,Carolina Panthers,2022
+DI,Derrick Brown,64.4,Carolina Panthers,2022
+RB,Christian McCaffrey,80.7,Carolina Panthers,2022
+DI,Bravvion Roy,47.6,Carolina Panthers,2022
+WR,DJ Moore,76.9,Carolina Panthers,2022
+DI,Matt Ioannidis,65.4,Carolina Panthers,2022
+WR,Robbie Anderson,60.6,Carolina Panthers,2022
+Edge,Brian Burns,60.8,Carolina Panthers,2022
+WR,Rashard Higgins,54.7,Carolina Panthers,2022
+Edge,Yetur Gross-Matos,63.8,Carolina Panthers,2022
+TE,Ian Thomas,52.1,Carolina Panthers,2022
+LB,Shaq Thompson,72.7,Carolina Panthers,2022
+TE,Tommy Tremble,55.2,Carolina Panthers,2022
+LB,Frankie Luvu,84.8,Carolina Panthers,2022
+LT,Ikem Ekwonu,91.6,Carolina Panthers,2022
+CB,Donte Jackson,61.3,Carolina Panthers,2022
+LG,Brady Christensen,61.6,Carolina Panthers,2022
+CB,Jaycee Horn,79.4,Carolina Panthers,2022
+C,Bradley Bozeman,73.3,Carolina Panthers,2022
+CB,CJ Henderson,50.7,Carolina Panthers,2022
+RG,Austin Corbett,69.6,Carolina Panthers,2022
+S,Jeremy Chinn,71.4,Carolina Panthers,2022
+RT,Taylor Moton,77.5,Carolina Panthers,2022
+S,Xavier Woods,66.4,Carolina Panthers,2022
+QB,Jared Goff,60.7,Detroit Lions,2022
+DI,Michael Brockers,40.6,Detroit Lions,2022
+RB,D'Andre Swift,57.8,Detroit Lions,2022
+DI,Alim McNeill,60.1,Detroit Lions,2022
+RB,Jamaal Williams,69.8,Detroit Lions,2022
+DI,Levi Onwuzurike,43.2,Detroit Lions,2022
+WR,DJ Chark Jr.,71.3,Detroit Lions,2022
+Edge,Aidan Hutchinson,94.5,Detroit Lions,2022
+WR,Josh Reynolds,65.9,Detroit Lions,2022
+Edge,Charles Harris,68.3,Detroit Lions,2022
+WR,Amon-Ra St. Brown,79.9,Detroit Lions,2022
+LB,Alex Anzalone,35.4,Detroit Lions,2022
+TE,T.J. Hockenson,68.1,Detroit Lions,2022
+LB,Malcolm Rodriguez,85.7,Detroit Lions,2022
+LT,Taylor Decker,75.5,Detroit Lions,2022
+CB,Amani Oruwariye,59.0,Detroit Lions,2022
+LG,Jonah Jackson,69.3,Detroit Lions,2022
+CB,Jeff Okudah,42.5,Detroit Lions,2022
+C,Frank Ragnow,80.3,Detroit Lions,2022
+CB,AJ Parker,48.3,Detroit Lions,2022
+RG,Halapoulivaati Vaitai,68.4,Detroit Lions,2022
+S,Tracy Walker III,65.1,Detroit Lions,2022
+RT,Penei Sewell,77.0,Detroit Lions,2022
+S,DeShon Elliott,65.6,Detroit Lions,2022
+QB,Zach Wilson,59.3,New York Jets,2022
+DI,Quinnen Williams,64.4,New York Jets,2022
+RB,Michael Carter,71.0,New York Jets,2022
+DI,Solomon Thomas,40.4,New York Jets,2022
+WR,Corey Davis,68.8,New York Jets,2022
+Edge,Carl Lawson,76.3,New York Jets,2022
+WR,Elijah Moore,71.2,New York Jets,2022
+Edge,John Franklin-Myers,80.3,New York Jets,2022
+WR,Braxton Berrios,74.0,New York Jets,2022
+Edge,Jacob Martin,67.3,New York Jets,2022
+TE,C.J. Uzomah,63.6,New York Jets,2022
+LB,C.J. Mosley,42.0,New York Jets,2022
+TE,Tyler Conklin,66.7,New York Jets,2022
+LB,Quincy Williams,44.2,New York Jets,2022
+LT,Duane Brown,71.5,New York Jets,2022
+CB,D.J. Reed Jr.,78.6,New York Jets,2022
+LG,Laken Tomlinson,73.6,New York Jets,2022
+CB,Ahmad Gardner,87.1,New York Jets,2022
+C,Connor McGovern,75.9,New York Jets,2022
+CB,Michael Carter II,53.7,New York Jets,2022
+RG,Alijah Vera-Tucker,66.8,New York Jets,2022
+S,Jordan Whitehead,70.7,New York Jets,2022
+RT,George Fant,71.1,New York Jets,2022
+S,Lamarcus Joyner,67.0,New York Jets,2022
+QB,Daniel Jones,71.6,New York Giants,2022
+DI,Leonard Williams,71.2,New York Giants,2022
+RB,Saquon Barkley,59.1,New York Giants,2022
+DI,Dexter Lawrence,68.7,New York Giants,2022
+WR,Kenny Golladay,68.3,New York Giants,2022
+Edge,Jihad Ward,53.4,New York Giants,2022
+WR,Kadarius Toney,72.8,New York Giants,2022
+Edge,Kayvon Thibodeaux,83.2,New York Giants,2022
+WR,Sterling Shepard,64.6,New York Giants,2022
+Edge,Azeez Ojulari,58.3,New York Giants,2022
+WR,Wan'Dale Robinson,91.3,New York Giants,2022
+LB,Micah McFadden,74.8,New York Giants,2022
+TE,Daniel Bellinger,64.1,New York Giants,2022
+LB,Tae Crowder,29.1,New York Giants,2022
+LT,Andrew Thomas,78.9,New York Giants,2022
+CB,Adoree' Jackson,74.9,New York Giants,2022
+LG,Josh Ezeudu,77.8,New York Giants,2022
+CB,Aaron Robinson,62.2,New York Giants,2022
+C,Jon Feliciano,56.9,New York Giants,2022
+CB,Darnay Holmes,55.8,New York Giants,2022
+RG,Mark Glowinski,70.1,New York Giants,2022
+S,Xavier McKinney,75.4,New York Giants,2022
+RT,Evan Neal,85.8,New York Giants,2022
+S,Julian Love,55.4,New York Giants,2022
+QB,Trevor Lawrence,59.6,Jacksonville Jaguars,2022
+DI,Roy Robertson-Harris,53.0,Jacksonville Jaguars,2022
+RB,James Robinson,67.4,Jacksonville Jaguars,2022
+DI,Folorunso Fatukasi,61.5,Jacksonville Jaguars,2022
+RB,Travis Etienne Jr.,82.0,Jacksonville Jaguars,2022
+Edge,Josh Allen,78.5,Jacksonville Jaguars,2022
+WR,Christian Kirk,72.1,Jacksonville Jaguars,2022
+Edge,Travon Walker,69.9,Jacksonville Jaguars,2022
+WR,Zay Jones,70.6,Jacksonville Jaguars,2022
+Edge,Arden Key,68.1,Jacksonville Jaguars,2022
+WR,Marvin Jones Jr.,68.3,Jacksonville Jaguars,2022
+LB,Foyesade Oluokun,47.0,Jacksonville Jaguars,2022
+TE,Evan Engram,53.5,Jacksonville Jaguars,2022
+LB,Devin Lloyd,90.3,Jacksonville Jaguars,2022
+LT,Cam Robinson,67.4,Jacksonville Jaguars,2022
+CB,Shaquill Griffin,72.0,Jacksonville Jaguars,2022
+LG,Ben Bartch,62.1,Jacksonville Jaguars,2022
+CB,Darious Williams,61.8,Jacksonville Jaguars,2022
+C,Luke Fortner,85.0,Jacksonville Jaguars,2022
+CB,Tyson Campbell,62.7,Jacksonville Jaguars,2022
+RG,Brandon Scherff,73.6,Jacksonville Jaguars,2022
+S,Rayshawn Jenkins,56.9,Jacksonville Jaguars,2022
+RT,Jawaan Taylor,60.4,Jacksonville Jaguars,2022
+S,Andre Cisco,67.9,Jacksonville Jaguars,2022
+QB,Geno Smith,73.9,Seattle Seahawks,2022
+DI,Poona Ford,73.0,Seattle Seahawks,2022
+RB,Rashaad Penny,80.5,Seattle Seahawks,2022
+DI,Shelby Harris,61.3,Seattle Seahawks,2022
+RB,Ken Walker III,89.3,Seattle Seahawks,2022
+DI,Al Woods,75.4,Seattle Seahawks,2022
+WR,DK Metcalf,80.9,Seattle Seahawks,2022
+Edge,Darrell Taylor,57.6,Seattle Seahawks,2022
+WR,Tyler Lockett,81.0,Seattle Seahawks,2022
+Edge,Uchenna Nwosu,64.3,Seattle Seahawks,2022
+TE,Noah Fant,61.6,Seattle Seahawks,2022
+LB,Jordyn Brooks,58.4,Seattle Seahawks,2022
+TE,Will Dissly,63.8,Seattle Seahawks,2022
+LB,Cody Barton,59.7,Seattle Seahawks,2022
+LT,Charles Cross,86.6,Seattle Seahawks,2022
+CB,Sidney Jones IV,70.2,Seattle Seahawks,2022
+LG,Damien Lewis,57.1,Seattle Seahawks,2022
+CB,Artie Burns,79.5,Seattle Seahawks,2022
+C,Austin Blythe,70.3,Seattle Seahawks,2022
+CB,Justin Coleman,52.4,Seattle Seahawks,2022
+RG,Gabe Jackson,63.6,Seattle Seahawks,2022
+S,Jamal Adams,60.1,Seattle Seahawks,2022
+RT,Abraham Lucas,78.6,Seattle Seahawks,2022
+S,Quandre Diggs,71.2,Seattle Seahawks,2022
+QB,Marcus Mariota,64.8,Atlanta Falcons,2022
+DI,Grady Jarrett,67.6,Atlanta Falcons,2022
+RB,Cordarrelle Patterson,82.2,Atlanta Falcons,2022
+DI,Anthony Rush,56.4,Atlanta Falcons,2022
+RB,Damien Williams,71.4,Atlanta Falcons,2022
+DI,Ta'Quon Graham,47.3,Atlanta Falcons,2022
+WR,Drake London,91.3,Atlanta Falcons,2022
+Edge,Lorenzo Carter,65.3,Atlanta Falcons,2022
+WR,Bryan Edwards,62.9,Atlanta Falcons,2022
+Edge,Arnold Ebiketie,88.4,Atlanta Falcons,2022
+WR,Olamide Zaccheaus,63.4,Atlanta Falcons,2022
+LB,Mykal Walker,71.3,Atlanta Falcons,2022
+TE,Kyle Pitts,80.3,Atlanta Falcons,2022
+LB,Rashaan Evans,44.5,Atlanta Falcons,2022
+LT,Jake Matthews,71.3,Atlanta Falcons,2022
+CB,A.J. Terrell,82.6,Atlanta Falcons,2022
+LG,Elijah Wilkinson,52.5,Atlanta Falcons,2022
+CB,Casey Hayward Jr.,76.6,Atlanta Falcons,2022
+C,Matt Hennessy,77.1,Atlanta Falcons,2022
+CB,Isaiah Oliver,58.8,Atlanta Falcons,2022
+RG,Chris Lindstrom,83.7,Atlanta Falcons,2022
+S,Richie Grant,58.6,Atlanta Falcons,2022
+RT,Kaleb McGary,62.8,Atlanta Falcons,2022
+S,Jaylinn Hawkins,58.8,Atlanta Falcons,2022
+QB,Davis Mills,58.5,Houston Texans,2022
+DI,Roy Lopez,55.7,Houston Texans,2022
+RB,Dameon Pierce,92.0,Houston Texans,2022
+DI,Maliek Collins,64.0,Houston Texans,2022
+WR,Brandin Cooks,77.4,Houston Texans,2022
+Edge,Jonathan Greenard,82.9,Houston Texans,2022
+WR,Nico Collins,65.6,Houston Texans,2022
+Edge,Jerry Hughes,70.7,Houston Texans,2022
+WR,Phillip Dorsett,65.6,Houston Texans,2022
+Edge,Ogbonnia Okoronkwo,79.5,Houston Texans,2022
+TE,Pharaoh Brown,48.0,Houston Texans,2022
+LB,Christian Kirksey,50.3,Houston Texans,2022
+TE,Brevin Jordan,66.6,Houston Texans,2022
+LB,Kamu Grugier-Hill,44.3,Houston Texans,2022
+LT,Laremy Tunsil,75.4,Houston Texans,2022
+CB,Derek Stingley Jr.,72.1,Houston Texans,2022
+LG,Kenyon Green,79.6,Houston Texans,2022
+CB,Steven Nelson,63.6,Houston Texans,2022
+C,Justin Britt,63.9,Houston Texans,2022
+CB,Desmond King II,53.0,Houston Texans,2022
+RG,A.J. Cann,69.0,Houston Texans,2022
+S,Jalen Pitre,88.6,Houston Texans,2022
+RT,Tytus Howard,51.4,Houston Texans,2022
+S,Jonathan Owens,73.1,Houston Texans,2022
+QB,Justin Fields,64.2,Chicago Bears,2022
+DI,Justin Jones,57.9,Chicago Bears,2022
+RB,David Montgomery,69.8,Chicago Bears,2022
+DI,Angelo Blackson,50.8,Chicago Bears,2022
+RB,Khalil Herbert,78.8,Chicago Bears,2022
+Edge,Robert Quinn,69.9,Chicago Bears,2022
+WR,Darnell Mooney,74.7,Chicago Bears,2022
+Edge,Al-Quadin Muhammad,64.6,Chicago Bears,2022
+WR,Byron Pringle,65.2,Chicago Bears,2022
+Edge,Trevis Gipson,70.4,Chicago Bears,2022
+WR,Equanimeous St. Brown,56.2,Chicago Bears,2022
+LB,Roquan Smith,47.1,Chicago Bears,2022
+TE,Cole Kmet,63.4,Chicago Bears,2022
+LB,Nicholas Morrow,63.7,Chicago Bears,2022
+LT,Braxton Jones,93.9,Chicago Bears,2022
+CB,Jaylon Johnson,64.2,Chicago Bears,2022
+LG,Cody Whitehair,66.2,Chicago Bears,2022
+CB,Kyler Gordon,87.2,Chicago Bears,2022
+C,Sam Mustipher,51.0,Chicago Bears,2022
+CB,Tavon Young,60.4,Chicago Bears,2022
+RG,Teven Jenkins,47.5,Chicago Bears,2022
+S,Eddie Jackson,59.0,Chicago Bears,2022
+RT,Larry Borom,61.4,Chicago Bears,2022
+S,Jaquan Brisker,82.4,Chicago Bears,2022

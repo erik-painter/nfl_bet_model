@@ -1,0 +1,21 @@
+fav_home_win_pct: The running home win percentage for the favorite team.
+fav_away_win_pct: The running away win percentage for the favorite team.
+und_home_win_pct: The running home win percentage for the underdog team.
+und_away_win_pct: The running away win percentage for the underdog team.
+fav_yards_running_avg: The running average of yards gained per game for the favorite team.
+und_yards_running_avg: The running average of yards gained per game for the underdog team.
+fav_def_yards_running_avg: The running average of yards allowed per game by the favorite team.
+und_def_yards_running_avg: The running average of yards allowed per game by the underdog team.
+fav_turnovers_running_avg: The running average of turnovers committed per game by the favorite team.
+und_turnovers_running_avg: The running average of turnovers committed per game by the underdog team.
+fav_def_turnovers_running_avg: The running average of turnovers forced per game by the favorite team.
+und_def_turnovers_running_avg: The running average of turnovers forced per game by the underdog team.
+fav_def_points_running_avg: The running average of points allowed per game by the favorite team.
+und_def_points_running_avg: The running average of points allowed per game by the underdog team.
+div_game: Indicator of whether the game is a divisional matchup (1) or not (0).
+fav_win_pct: The overall win percentage for the favorite team in the current season.
+und_win_pct: The overall win percentage for the underdog team in the current season.
+fav_last_5_win_pct: The win percentage of the last 5 games for the favorite team.
+und_last_5_win_pct: The win percentage of the last 5 games for the underdog team.
+fav_avg_margin_last_3: The average margin of victory (or loss) over the last 3 games for the favorite team.
+und_avg_margin_last_3: The average margin of victory (or loss) over the last 3 games for the underdog team.
