@@ -94,7 +94,7 @@ The next steps for this project would be:
 - Creating a pipeline so that I can use data for the current 2024 NFL season to make predictions
 
 
-
+* Currently working on version 2 to address above changes/challenges
 
 
 
