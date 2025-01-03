@@ -1,5 +1,7 @@
 # NFL Bet Outcome Prediction Models
 
+(Currently working on second version)
+
 ## Project Objective
 
 The objective of this project is to leverage machine learning techniques to predict various bet outcomes for NFL games. The project aims to develop three distinct binary classification models that will predict: 
@@ -92,9 +94,6 @@ The next steps for this project would be:
 - Play around with different feature selection, scaling, model parameters, etc
 
 - Creating a pipeline so that I can use data for the current 2024 NFL season to make predictions
-
-
-* Currently working on version 2 to address above changes/challenges
 
 
 
